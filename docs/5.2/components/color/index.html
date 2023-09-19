@@ -1,0 +1,888 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="The most popular HTML, CSS, and JS library in the world.">
+<meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
+<meta name="generator" content="Hugo 0.107.0">
+
+<meta name="docsearch:language" content="en">
+<meta name="docsearch:version" content="5.2">
+
+<title>SDS - Enterprise</title>
+
+<link rel="canonical" href="../../../../docs/5.2/components/color/">
+
+
+
+
+
+
+
+<link href="../../../../docs/5.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-gH2yIJqKdNHPEq0n4Mqa/HGKIhSkIHeL5AyhkYV8i59U5AR6csBvApHHNl/vI1Bx" crossorigin="anonymous">
+
+<link href="../../../../docs/5.2/assets/css/docs.css" rel="stylesheet">
+
+<link rel="stylesheet" href="../../../../docs/5.2/dist/css/style.css">
+
+
+
+
+<link rel="stylesheet" href="../../../../scss/design-system/ds-style.0277fca489f142db321a9d4fe0c42f2f1151e5ee2536cc5c1e388130790f43c5.css" integrity="sha256-Anf8pInxQtsyGp1P4MQvLxFR5e4lNsxcHjiBMHkPQ8U=">
+<!-- Favicons -->
+<link rel="apple-touch-icon" href="../../../../docs/5.2/assets/img/favicons/apple-touch-icon.png" sizes="180x180">
+<link rel="icon" href="../../../../docs/5.2/assets/img/favicons/favicon-32x32.png" sizes="32x32" type="image/png">
+<link rel="icon" href="../../../../docs/5.2/assets/img/favicons/favicon-16x16.png" sizes="16x16" type="image/png">
+<link rel="manifest" href="../../../../docs/5.2/assets/img/favicons/manifest.json">
+<link rel="mask-icon" href="../../../../docs/5.2/assets/img/favicons/safari-pinned-tab.svg" color="#712cf9">
+<link rel="icon" href="../../../../docs/5.2/assets/img/favicons/favicon.ico">
+<meta name="theme-color" content="#712cf9">
+
+<!-- Twitter -->
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@getbootstrap">
+<meta name="twitter:creator" content="@getbootstrap">
+<meta name="twitter:title" content="">
+<meta name="twitter:description" content="The most popular HTML, CSS, and JS library in the world.">
+<meta name="twitter:image" content="/docs/5.2/assets/brand/bootstrap-social.png">
+
+<!-- Facebook -->
+<meta property="og:url" content="/docs/5.2/components/color/">
+<meta property="og:title" content="">
+<meta property="og:description" content="The most popular HTML, CSS, and JS library in the world.">
+<meta property="og:type" content="article">
+<meta property="og:image" content="/docs/5.2/assets/brand/bootstrap-social.png">
+<meta property="og:image:type" content="image/png">
+<meta property="og:image:width" content="1000">
+<meta property="og:image:height" content="500">
+
+<script defer src="https://cdn.usefathom.com/script.js" data-site="ITUSEYJG"></script>
+
+<script>
+  window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+  ga('create', 'UA-146052-10', 'getbootstrap.com');
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+</script>
+<script async src="https://www.google-analytics.com/analytics.js"></script>
+
+
+  </head>
+  <body>
+    <div class="skippy visually-hidden-focusable overflow-hidden">
+  <div class="container-xl">
+    <a class="d-inline-flex p-2 m-1" href="#content">Skip to main content</a>
+    
+  </div>
+</div>
+
+    <svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+  <symbol id="arrow-right-short" viewBox="0 0 16 16">
+    <path fill-rule="evenodd" d="M4 8a.5.5 0 0 1 .5-.5h5.793L8.146 5.354a.5.5 0 1 1 .708-.708l3 3a.5.5 0 0 1 0 .708l-3 3a.5.5 0 0 1-.708-.708L10.293 8.5H4.5A.5.5 0 0 1 4 8z"/>
+  </symbol>
+  <symbol id="book-half" viewBox="0 0 16 16">
+    <path d="M8.5 2.687c.654-.689 1.782-.886 3.112-.752 1.234.124 2.503.523 3.388.893v9.923c-.918-.35-2.107-.692-3.287-.81-1.094-.111-2.278-.039-3.213.492V2.687zM8 1.783C7.015.936 5.587.81 4.287.94c-1.514.153-3.042.672-3.994 1.105A.5.5 0 0 0 0 2.5v11a.5.5 0 0 0 .707.455c.882-.4 2.303-.881 3.68-1.02 1.409-.142 2.59.087 3.223.877a.5.5 0 0 0 .78 0c.633-.79 1.814-1.019 3.222-.877 1.378.139 2.8.62 3.681 1.02A.5.5 0 0 0 16 13.5v-11a.5.5 0 0 0-.293-.455c-.952-.433-2.48-.952-3.994-1.105C10.413.809 8.985.936 8 1.783z"/>
+  </symbol>
+  <symbol id="box-seam" viewBox="0 0 16 16">
+    <path d="M8.186 1.113a.5.5 0 0 0-.372 0L1.846 3.5l2.404.961L10.404 2l-2.218-.887zm3.564 1.426L5.596 5 8 5.961 14.154 3.5l-2.404-.961zm3.25 1.7-6.5 2.6v7.922l6.5-2.6V4.24zM7.5 14.762V6.838L1 4.239v7.923l6.5 2.6zM7.443.184a1.5 1.5 0 0 1 1.114 0l7.129 2.852A.5.5 0 0 1 16 3.5v8.662a1 1 0 0 1-.629.928l-7.185 2.874a.5.5 0 0 1-.372 0L.63 13.09a1 1 0 0 1-.63-.928V3.5a.5.5 0 0 1 .314-.464L7.443.184z"/>
+  </symbol>
+  <symbol id="braces" viewBox="0 0 16 16">
+    <path d="M2.114 8.063V7.9c1.005-.102 1.497-.615 1.497-1.6V4.503c0-1.094.39-1.538 1.354-1.538h.273V2h-.376C3.25 2 2.49 2.759 2.49 4.352v1.524c0 1.094-.376 1.456-1.49 1.456v1.299c1.114 0 1.49.362 1.49 1.456v1.524c0 1.593.759 2.352 2.372 2.352h.376v-.964h-.273c-.964 0-1.354-.444-1.354-1.538V9.663c0-.984-.492-1.497-1.497-1.6zM13.886 7.9v.163c-1.005.103-1.497.616-1.497 1.6v1.798c0 1.094-.39 1.538-1.354 1.538h-.273v.964h.376c1.613 0 2.372-.759 2.372-2.352v-1.524c0-1.094.376-1.456 1.49-1.456V7.332c-1.114 0-1.49-.362-1.49-1.456V4.352C13.51 2.759 12.75 2 11.138 2h-.376v.964h.273c.964 0 1.354.444 1.354 1.538V6.3c0 .984.492 1.497 1.497 1.6z"/>
+  </symbol>
+  <symbol id="braces-asterisk" viewBox="0 0 16 16">
+    <path fill-rule="evenodd" d="M1.114 8.063V7.9c1.005-.102 1.497-.615 1.497-1.6V4.503c0-1.094.39-1.538 1.354-1.538h.273V2h-.376C2.25 2 1.49 2.759 1.49 4.352v1.524c0 1.094-.376 1.456-1.49 1.456v1.299c1.114 0 1.49.362 1.49 1.456v1.524c0 1.593.759 2.352 2.372 2.352h.376v-.964h-.273c-.964 0-1.354-.444-1.354-1.538V9.663c0-.984-.492-1.497-1.497-1.6ZM14.886 7.9v.164c-1.005.103-1.497.616-1.497 1.6v1.798c0 1.094-.39 1.538-1.354 1.538h-.273v.964h.376c1.613 0 2.372-.759 2.372-2.352v-1.524c0-1.094.376-1.456 1.49-1.456v-1.3c-1.114 0-1.49-.362-1.49-1.456V4.352C14.51 2.759 13.75 2 12.138 2h-.376v.964h.273c.964 0 1.354.444 1.354 1.538V6.3c0 .984.492 1.497 1.497 1.6ZM7.5 11.5V9.207l-1.621 1.621-.707-.707L6.792 8.5H4.5v-1h2.293L5.172 5.879l.707-.707L7.5 6.792V4.5h1v2.293l1.621-1.621.707.707L9.208 7.5H11.5v1H9.207l1.621 1.621-.707.707L8.5 9.208V11.5h-1Z"/>
+  </symbol>
+  <symbol id="check2" viewBox="0 0 16 16">
+    <title>Check</title>
+    <path d="M13.854 3.646a.5.5 0 0 1 0 .708l-7 7a.5.5 0 0 1-.708 0l-3.5-3.5a.5.5 0 1 1 .708-.708L6.5 10.293l6.646-6.647a.5.5 0 0 1 .708 0z"/>
+  </symbol>
+  <symbol id="chevron-expand" viewBox="0 0 16 16">
+    <path fill-rule="evenodd" d="M3.646 9.146a.5.5 0 0 1 .708 0L8 12.793l3.646-3.647a.5.5 0 0 1 .708.708l-4 4a.5.5 0 0 1-.708 0l-4-4a.5.5 0 0 1 0-.708zm0-2.292a.5.5 0 0 0 .708 0L8 3.207l3.646 3.647a.5.5 0 0 0 .708-.708l-4-4a.5.5 0 0 0-.708 0l-4 4a.5.5 0 0 0 0 .708z"/>
+  </symbol>
+  <symbol id="clipboard" viewBox="0 0 16 16">
+    <path d="M4 1.5H3a2 2 0 0 0-2 2V14a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V3.5a2 2 0 0 0-2-2h-1v1h1a1 1 0 0 1 1 1V14a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V3.5a1 1 0 0 1 1-1h1v-1z"/>
+    <path d="M9.5 1a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-3a.5.5 0 0 1-.5-.5v-1a.5.5 0 0 1 .5-.5h3zm-3-1A1.5 1.5 0 0 0 5 1.5v1A1.5 1.5 0 0 0 6.5 4h3A1.5 1.5 0 0 0 11 2.5v-1A1.5 1.5 0 0 0 9.5 0h-3z"/>
+  </symbol>
+  <symbol id="code" viewBox="0 0 16 16">
+    <path d="M5.854 4.854a.5.5 0 1 0-.708-.708l-3.5 3.5a.5.5 0 0 0 0 .708l3.5 3.5a.5.5 0 0 0 .708-.708L2.707 8l3.147-3.146zm4.292 0a.5.5 0 0 1 .708-.708l3.5 3.5a.5.5 0 0 1 0 .708l-3.5 3.5a.5.5 0 0 1-.708-.708L13.293 8l-3.147-3.146z"/>
+  </symbol>
+  <symbol id="file-earmark-richtext" viewBox="0 0 16 16">
+    <path d="M14 4.5V14a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V2a2 2 0 0 1 2-2h5.5L14 4.5zm-3 0A1.5 1.5 0 0 1 9.5 3V1H4a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1h8a1 1 0 0 0 1-1V4.5h-2z"/>
+    <path d="M4.5 12.5A.5.5 0 0 1 5 12h3a.5.5 0 0 1 0 1H5a.5.5 0 0 1-.5-.5zm0-2A.5.5 0 0 1 5 10h6a.5.5 0 0 1 0 1H5a.5.5 0 0 1-.5-.5zm1.639-3.708 1.33.886 1.854-1.855a.25.25 0 0 1 .289-.047l1.888.974V8.5a.5.5 0 0 1-.5.5H5a.5.5 0 0 1-.5-.5V8s1.54-1.274 1.639-1.208zM6.25 6a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5z"/>
+  </symbol>
+  <symbol id="globe2" viewBox="0 0 16 16">
+    <path d="M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8zm7.5-6.923c-.67.204-1.335.82-1.887 1.855-.143.268-.276.56-.395.872.705.157 1.472.257 2.282.287V1.077zM4.249 3.539c.142-.384.304-.744.481-1.078a6.7 6.7 0 0 1 .597-.933A7.01 7.01 0 0 0 3.051 3.05c.362.184.763.349 1.198.49zM3.509 7.5c.036-1.07.188-2.087.436-3.008a9.124 9.124 0 0 1-1.565-.667A6.964 6.964 0 0 0 1.018 7.5h2.49zm1.4-2.741a12.344 12.344 0 0 0-.4 2.741H7.5V5.091c-.91-.03-1.783-.145-2.591-.332zM8.5 5.09V7.5h2.99a12.342 12.342 0 0 0-.399-2.741c-.808.187-1.681.301-2.591.332zM4.51 8.5c.035.987.176 1.914.399 2.741A13.612 13.612 0 0 1 7.5 10.91V8.5H4.51zm3.99 0v2.409c.91.03 1.783.145 2.591.332.223-.827.364-1.754.4-2.741H8.5zm-3.282 3.696c.12.312.252.604.395.872.552 1.035 1.218 1.65 1.887 1.855V11.91c-.81.03-1.577.13-2.282.287zm.11 2.276a6.696 6.696 0 0 1-.598-.933 8.853 8.853 0 0 1-.481-1.079 8.38 8.38 0 0 0-1.198.49 7.01 7.01 0 0 0 2.276 1.522zm-1.383-2.964A13.36 13.36 0 0 1 3.508 8.5h-2.49a6.963 6.963 0 0 0 1.362 3.675c.47-.258.995-.482 1.565-.667zm6.728 2.964a7.009 7.009 0 0 0 2.275-1.521 8.376 8.376 0 0 0-1.197-.49 8.853 8.853 0 0 1-.481 1.078 6.688 6.688 0 0 1-.597.933zM8.5 11.909v3.014c.67-.204 1.335-.82 1.887-1.855.143-.268.276-.56.395-.872A12.63 12.63 0 0 0 8.5 11.91zm3.555-.401c.57.185 1.095.409 1.565.667A6.963 6.963 0 0 0 14.982 8.5h-2.49a13.36 13.36 0 0 1-.437 3.008zM14.982 7.5a6.963 6.963 0 0 0-1.362-3.675c-.47.258-.995.482-1.565.667.248.92.4 1.938.437 3.008h2.49zM11.27 2.461c.177.334.339.694.482 1.078a8.368 8.368 0 0 0 1.196-.49 7.01 7.01 0 0 0-2.275-1.52c.218.283.418.597.597.932zm-.488 1.343a7.765 7.765 0 0 0-.395-.872C9.835 1.897 9.17 1.282 8.5 1.077V4.09c.81-.03 1.577-.13 2.282-.287z"/>
+  </symbol>
+  <symbol id="grid-fill" viewBox="0 0 16 16">
+    <path d="M1 2.5A1.5 1.5 0 0 1 2.5 1h3A1.5 1.5 0 0 1 7 2.5v3A1.5 1.5 0 0 1 5.5 7h-3A1.5 1.5 0 0 1 1 5.5v-3zm8 0A1.5 1.5 0 0 1 10.5 1h3A1.5 1.5 0 0 1 15 2.5v3A1.5 1.5 0 0 1 13.5 7h-3A1.5 1.5 0 0 1 9 5.5v-3zm-8 8A1.5 1.5 0 0 1 2.5 9h3A1.5 1.5 0 0 1 7 10.5v3A1.5 1.5 0 0 1 5.5 15h-3A1.5 1.5 0 0 1 1 13.5v-3zm8 0A1.5 1.5 0 0 1 10.5 9h3a1.5 1.5 0 0 1 1.5 1.5v3a1.5 1.5 0 0 1-1.5 1.5h-3A1.5 1.5 0 0 1 9 13.5v-3z"/>
+  </symbol>
+  <symbol id="lightning-charge-fill" viewBox="0 0 16 16">
+    <path d="M11.251.068a.5.5 0 0 1 .227.58L9.677 6.5H13a.5.5 0 0 1 .364.843l-8 8.5a.5.5 0 0 1-.842-.49L6.323 9.5H3a.5.5 0 0 1-.364-.843l8-8.5a.5.5 0 0 1 .615-.09z"/>
+  </symbol>
+  <symbol id="list" viewBox="0 0 16 16">
+    <path fill-rule="evenodd" d="M2.5 12a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5z"/>
+  </symbol>
+  <symbol id="magic" viewBox="0 0 16 16">
+    <path d="M9.5 2.672a.5.5 0 1 0 1 0V.843a.5.5 0 0 0-1 0v1.829Zm4.5.035A.5.5 0 0 0 13.293 2L12 3.293a.5.5 0 1 0 .707.707L14 2.707ZM7.293 4A.5.5 0 1 0 8 3.293L6.707 2A.5.5 0 0 0 6 2.707L7.293 4Zm-.621 2.5a.5.5 0 1 0 0-1H4.843a.5.5 0 1 0 0 1h1.829Zm8.485 0a.5.5 0 1 0 0-1h-1.829a.5.5 0 0 0 0 1h1.829ZM13.293 10A.5.5 0 1 0 14 9.293L12.707 8a.5.5 0 1 0-.707.707L13.293 10ZM9.5 11.157a.5.5 0 0 0 1 0V9.328a.5.5 0 0 0-1 0v1.829Zm1.854-5.097a.5.5 0 0 0 0-.706l-.708-.708a.5.5 0 0 0-.707 0L8.646 5.94a.5.5 0 0 0 0 .707l.708.708a.5.5 0 0 0 .707 0l1.293-1.293Zm-3 3a.5.5 0 0 0 0-.706l-.708-.708a.5.5 0 0 0-.707 0L.646 13.94a.5.5 0 0 0 0 .707l.708.708a.5.5 0 0 0 .707 0L8.354 9.06Z"/>
+  </symbol>
+  <symbol id="menu-button-wide-fill" viewBox="0 0 16 16">
+    <path d="M1.5 0A1.5 1.5 0 0 0 0 1.5v2A1.5 1.5 0 0 0 1.5 5h13A1.5 1.5 0 0 0 16 3.5v-2A1.5 1.5 0 0 0 14.5 0h-13zm1 2h3a.5.5 0 0 1 0 1h-3a.5.5 0 0 1 0-1zm9.927.427A.25.25 0 0 1 12.604 2h.792a.25.25 0 0 1 .177.427l-.396.396a.25.25 0 0 1-.354 0l-.396-.396zM0 8a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V8zm1 3v2a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1v-2H1zm14-1V8a1 1 0 0 0-1-1H2a1 1 0 0 0-1 1v2h14zM2 8.5a.5.5 0 0 1 .5-.5h9a.5.5 0 0 1 0 1h-9a.5.5 0 0 1-.5-.5zm0 4a.5.5 0 0 1 .5-.5h6a.5.5 0 0 1 0 1h-6a.5.5 0 0 1-.5-.5z"/>
+  </symbol>
+  <symbol id="palette2" viewBox="0 0 16 16">
+    <path d="M0 .5A.5.5 0 0 1 .5 0h5a.5.5 0 0 1 .5.5v5.277l4.147-4.131a.5.5 0 0 1 .707 0l3.535 3.536a.5.5 0 0 1 0 .708L10.261 10H15.5a.5.5 0 0 1 .5.5v5a.5.5 0 0 1-.5.5H3a2.99 2.99 0 0 1-2.121-.879A2.99 2.99 0 0 1 0 13.044m6-.21 7.328-7.3-2.829-2.828L6 7.188v5.647zM4.5 13a1.5 1.5 0 1 0-3 0 1.5 1.5 0 0 0 3 0zM15 15v-4H9.258l-4.015 4H15zM0 .5v12.495V.5z"/>
+    <path d="M0 12.995V13a3.07 3.07 0 0 0 0-.005z"/>
+  </symbol>
+  <symbol id="plugin" viewBox="0 0 16 16">
+    <path fill-rule="evenodd" d="M1 8a7 7 0 1 1 2.898 5.673c-.167-.121-.216-.406-.002-.62l1.8-1.8a3.5 3.5 0 0 0 4.572-.328l1.414-1.415a.5.5 0 0 0 0-.707l-.707-.707 1.559-1.563a.5.5 0 1 0-.708-.706l-1.559 1.562-1.414-1.414 1.56-1.562a.5.5 0 1 0-.707-.706l-1.56 1.56-.707-.706a.5.5 0 0 0-.707 0L5.318 5.975a3.5 3.5 0 0 0-.328 4.571l-1.8 1.8c-.58.58-.62 1.6.121 2.137A8 8 0 1 0 0 8a.5.5 0 0 0 1 0Z"/>
+  </symbol>
+  <symbol id="plus" viewBox="0 0 16 16">
+    <path d="M8 4a.5.5 0 0 1 .5.5v3h3a.5.5 0 0 1 0 1h-3v3a.5.5 0 0 1-1 0v-3h-3a.5.5 0 0 1 0-1h3v-3A.5.5 0 0 1 8 4z"/>
+  </symbol>
+  <symbol id="three-dots" viewBox="0 0 16 16">
+    <path d="M3 9.5a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3zm5 0a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3zm5 0a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3z"/>
+  </symbol>
+  <symbol id="tools" viewBox="0 0 16 16">
+    <path d="M1 0 0 1l2.2 3.081a1 1 0 0 0 .815.419h.07a1 1 0 0 1 .708.293l2.675 2.675-2.617 2.654A3.003 3.003 0 0 0 0 13a3 3 0 1 0 5.878-.851l2.654-2.617.968.968-.305.914a1 1 0 0 0 .242 1.023l3.356 3.356a1 1 0 0 0 1.414 0l1.586-1.586a1 1 0 0 0 0-1.414l-3.356-3.356a1 1 0 0 0-1.023-.242L10.5 9.5l-.96-.96 2.68-2.643A3.005 3.005 0 0 0 16 3c0-.269-.035-.53-.102-.777l-2.14 2.141L12 4l-.364-1.757L13.777.102a3 3 0 0 0-3.675 3.68L7.462 6.46 4.793 3.793a1 1 0 0 1-.293-.707v-.071a1 1 0 0 0-.419-.814L1 0zm9.646 10.646a.5.5 0 0 1 .708 0l3 3a.5.5 0 0 1-.708.708l-3-3a.5.5 0 0 1 0-.708zM3 11l.471.242.529.026.287.445.445.287.026.529L5 13l-.242.471-.026.529-.445.287-.287.445-.529.026L3 15l-.471-.242L2 14.732l-.287-.445L1.268 14l-.026-.529L1 13l.242-.471.026-.529.445-.287.287-.445.529-.026L3 11z"/>
+  </symbol>
+  <symbol id="ui-radios" viewBox="0 0 16 16">
+    <path d="M7 2.5a.5.5 0 0 1 .5-.5h7a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-7a.5.5 0 0 1-.5-.5v-1zM0 12a3 3 0 1 1 6 0 3 3 0 0 1-6 0zm7-1.5a.5.5 0 0 1 .5-.5h7a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-7a.5.5 0 0 1-.5-.5v-1zm0-5a.5.5 0 0 1 .5-.5h5a.5.5 0 0 1 0 1h-5a.5.5 0 0 1-.5-.5zm0 8a.5.5 0 0 1 .5-.5h5a.5.5 0 0 1 0 1h-5a.5.5 0 0 1-.5-.5zM3 1a3 3 0 1 0 0 6 3 3 0 0 0 0-6zm0 4.5a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3z"/>
+  </symbol>
+</svg>
+
+
+    <header class="navbar navbar-expand-lg navbar-dark bd-navbar sticky-top navigation">
+  <nav class="container-fluid bd-gutter flex-wrap flex-lg-nowrap" aria-label="Main navigation">
+      
+    <div class="d-lg-none" style="width: 2.25rem;"></div>
+    <a class="navbar-brand p-0 me-0 me-lg-2 font-600" href="../../../../" aria-label="Design System">
+      
+      SDS - Enterprise
+    </a>
+
+    <button class="navbar-toggler d-flex d-lg-none order-3 p-2" type="button" data-bs-toggle="offcanvas" data-bs-target="#bdNavbar" aria-controls="bdNavbar" aria-label="Toggle navigation">
+      <svg class="bi" aria-hidden="true"><use xlink:href="#three-dots"></use></svg>
+    </button>
+
+    <div class="offcanvas-lg offcanvas-end" tabindex="-1" id="bdNavbar" aria-labelledby="bdNavbarOffcanvasLabel" data-bs-scroll="true">
+      <div class="offcanvas-header px-4 pb-0">
+        <h5 class="offcanvas-title text-white" id="bdNavbarOffcanvasLabel">SDS - Enterprise</h5>
+        <button type="button" class="btn-close btn-close-white" data-bs-dismiss="offcanvas" aria-label="Close" data-bs-target="#bdNavbar"></button>
+      </div>
+
+      <div class="offcanvas-body p-4 pt-0 p-lg-0">
+        <hr class="d-lg-none text-white-50">
+        <ul class="navbar-nav flex-row flex-wrap bd-navbar-nav">
+          <li class="nav-item col-6 col-lg-auto">
+            <a class="nav-link py-2 px-0 px-lg-2" href="../../../../docs/5.2/getting-started/" onclick="ga('send', 'event', 'Navbar', 'Community links', 'Docs');">Getting Started </a>
+          </li>
+          <li class="nav-item col-6 col-lg-auto">
+            <a class="nav-link py-2 px-0 px-lg-2 active" aria-current="true" href="../../../../docs/5.2/components/color/">Color</a>
+          </li>
+          <li class="nav-item col-6 col-lg-auto">
+            <a class="nav-link py-2 px-0 px-lg-2" href="../../../../docs/5.2/components/typography/">Typography</a>
+          </li>
+          <li class="nav-item col-6 col-lg-auto">
+            <a class="nav-link py-2 px-0 px-lg-2" href="../../../../docs/5.2/components/component/">Components</a>
+          </li>
+          <li class="nav-item col-6 col-lg-auto">
+            <a class="nav-link py-2 px-0 px-lg-2" href="../../../../docs/5.2/components/icon/">Icons</a>
+          </li>
+          <li class="nav-item col-6 col-lg-auto">
+            <a class="nav-link py-2 px-0 px-lg-2" href="../../../../docs/5.2/components/template/" rel="noopener">Template</a>
+          </li>
+          <li class="nav-item col-6 col-lg-auto">
+            <a class="nav-link py-2 px-0 px-lg-2" href="../../../../docs/5.2/components/guiding-principle/"rel="noopener">Guiding Principle</a>
+          </li>
+        </ul>
+        
+      </div>
+    </div>
+  </nav>
+</header>
+
+
+    
+  <main>
+    <div class="bb-colors pb-0">
+    <div class="container-xxl bd-gutter">
+        <div class="row">
+            <div class="col-sm-12 landing-head">
+                <h1>Colors Palette</h1>
+                <p class="mt-4 mb-0">Our color palette is a selection of colors that work together to create consistency in the way we use colors in products.</p>
+            </div>
+        </div>
+    </div>
+    <div class="comp-box-sec">
+
+   
+        <div class="container-xxl bd-gutter">
+            <div class="row">
+                <div class="col-sm-12 p-0">
+                    <div class="color-heading">1. Primary Color</div>
+                    <div class="color-inner">
+                        <div class="color-subheading">Purple</div>
+                        <div class="color-sec">
+                            <div class="box">
+                                <div class="color-radius ds-purple-900 text-white"></div>
+                                <p>purple-900</p>
+                                <p>#411482</p>
+                                <p>51, 22, 135</p>
+                            </div>
+                            <div class="box">
+                                <div class="color-radius ds-purple-800 text-white"></div>
+                                <p>purple-800</p>
+                                <p>#4C189E</p>
+                                <p>76, 24, 158</p>
+                            </div>
+                            <div class="box">
+                                <div class="color-radius ds-purple-700 text-white"></div>
+                                <p>purple-700</p>
+                                <p>#5F1EBE</p>
+                                <p>95, 30, 190</p>
+                            </div>
+                            <div class="box">
+                                <div class="color-radius ds-purple-600 text-white"></div>
+                                <p>purple-600</p>
+                                <p>#6B35D3</p>
+                                <p>107, 53, 211</p>
+                            </div>
+                            <div class="box">
+                                <div class="color-radius ds-purple-500 text-white"></div>
+                                <p>purple-500</p>
+                                <p>#7647DD</p>
+                                <p>118, 71, 221</p>
+                            </div>
+                            <div class="box">
+                                <div class="color-radius ds-purple-400 text-white"></div>
+                                <p>purple-400</p>
+                                <p>#8258E8</p>
+                                <p>130, 88, 232</p>
+                            </div>
+                            <div class="box">
+                                <div class="color-radius ds-purple-300 text-black"></div>
+                                <p>purple-300</p>
+                                <p>#8C69F0</p>
+                                <p>140, 105, 240</p>
+                            </div>
+                            <div class="box">
+                                <div class="color-radius ds-purple-200 text-black"></div>
+                                <p>purple-200</p>
+                                <p>#A98EF4</p>
+                                <p>168, 142, 242</p>
+                            </div>
+                            <div class="box">
+                                <div class="color-radius ds-purple-100 text-black"></div>
+                                <p>purple-100</p>
+                                <p>#C5B4F7</p>
+                                <p>197, 180, 247</p>
+                            </div>
+                            <div class="box">
+                                <div class="color-radius ds-purple-000 text-black"></div>
+                                <p>purple-000</p>
+                                <p>#E2D9FB</p>
+                                <p>226, 217, 251</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="color-inner">
+                        <div class="color-subheading">Blue</div>
+                        <div class="color-sec">
+                            <div class="box">
+                                <div class="color-radius ds-blue-900 text-white"></div>
+                                <p>blue-900</p>
+                                <p>#0049B2</p>
+                                <p>00, 73, 178<p>
+                            </div>
+                            <div class="box">
+                                <div class="color-radius ds-blue-800 text-white"></div>
+                                <p>blue-800</p>
+                                <p>#0F5FDC</p>
+                                <p>15, 95, 220<p>
+                            </div>
+                            <div class="box">
+                                <div class="color-radius ds-blue-700 text-white"></div>
+                                <p>blue-700</p>
+                                <p>#2874F0</p>
+                                <p>40, 116, 240<p>
+                            </div>
+                            <div class="box">
+                                <div class="color-radius ds-blue-600 text-white"></div>
+                                <p>blue-600</p>
+                                <p>#3282FA</p>
+                                <p>50, 130, 250</p>
+                            </div>
+                            <div class="box">
+                                <div class="color-radius ds-blue-500 text-white"></div>
+                                <p>blue-500</p>
+                                <p>#3C91FF</p>
+                                <p>60, 145, 255</p>
+                            </div>
+                            <div class="box">
+                                <div class="color-radius ds-blue-400 text-white"></div>
+                                <p>blue-400</p>
+                                <p>#4B9EF9</p>
+                                <p>72, 158, 249</p>
+                            </div>
+                            <div class="box">
+                                <div class="color-radius ds-blue-300 text-black"></div>
+                                <p>blue-300</p>
+                                <p>#6EB8F9</p>
+                                <p>138, 201, 255</p>
+                            </div>
+                            <div class="box">
+                                <div class="color-radius ds-blue-200 text-black"></div>
+                                <p>blue-200</p>
+                                <p>#8CC8FA</p>
+                                <p>140, 200, 250</p>
+                            </div>
+                            <div class="box">
+                                <div class="color-radius ds-blue-100 text-black"></div>
+                                <p>blue-100</p>
+                                <p>#B4DBFC</p>
+                                <p>180, 219, 252</p>
+                            </div>
+                            <div class="box">
+                                <div class="color-radius ds-blue-000 text-black"></div>
+                                <p>blue-000</p>
+                                <p>#D7ECFD</p>
+                                <p>215, 236, 253</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-12 p-0">
+                    <div class="color-heading">2. Secondary Color</div>
+                    <div class="color-inner">
+                        <div class="color-subheading">Teal</div>
+                        <div class="color-sec">
+                            <div class="box">
+                                <div class="color-radius ds-teal-900 text-white"></div>
+                                <p>teal-900</p>
+                                <p>#006059</p>
+                                <p>0, 96, 89</p>
+                            </div>
+                            <div class="box">
+                                <div class="color-radius ds-teal-800 text-white"></div>
+                                <p>teal-800</p>
+                                <p>#007873</p>
+                                <p>0, 120, 115</p>
+                            </div>
+                            <div class="box">
+                                <div class="color-radius ds-teal-700 text-white"></div>
+                                <p>teal-700</p>
+                                <p>#198E88</p>
+                                <p>25, 142, 136</p>
+                            </div>
+                            <div class="box">
+                                <div class="color-radius ds-teal-600 text-black"></div>
+                                <p>teal-600</p>
+                                <p>#2BA096</p>
+                                <p>43, 160, 150</p>
+                            </div>
+                            <div class="box">
+                                <div class="color-radius ds-teal-500 text-black"></div>
+                                <p>teal-500</p>
+                                <p>#33AFA0</p>
+                                <p>51, 175, 160</p>
+                            </div>
+                            <div class="box">
+                                <div class="color-radius ds-teal-400 text-black"></div>
+                                <p>teal-400</p>
+                                <p>#4BC3AF</p>
+                                <p>75, 195, 175</p>
+                            </div>
+                            <div class="box">
+                                <div class="color-radius ds-teal-300 text-black"></div>
+                                <p>teal-300</p>
+                                <p>#8C69F0</p>
+                                <p>111, 207, 191</p>
+                            </div>
+                            <div class="box">
+                                <div class="color-radius ds-teal-200 text-black"></div>
+                                <p>teal-200</p>
+                                <p>#8ADBCF</p>
+                                <p>138, 219, 207</p>
+                            </div>
+                            <div class="box">
+                                <div class="color-radius ds-teal-100 text-black"></div>
+                                <p>teal-100</p>
+                                <p>#A5E6DC</p>
+                                <p>165, 230, 220</p>
+                            </div>
+                            <div class="box">
+                                <div class="color-radius ds-teal-000 text-black"></div>
+                                <p>teal-000</p>
+                                <p>#D2F2ED</p>
+                                <p>210, 242, 237</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="color-inner">
+                        <div class="color-subheading">Green</div>
+                        <div class="color-sec">
+                            <div class="box">
+                                <div class="color-radius ds-green-900 text-white"></div>
+                                <p>green-900</p>
+                                <p>#077251</p>
+                                <p>7, 114, 81</p>
+                            </div>
+                            <div class="box">
+                                <div class="color-radius ds-green-800 text-white"></div>
+                                <p>green-800</p>
+                                <p>#007873</p>
+                                <p>10, 135, 93</p>
+                            </div>
+                            <div class="box">
+                                <div class="color-radius ds-green-700 text-black"></div>
+                                <p>green-700</p>
+                                <p>#0FA069</p>
+                                <p>15, 160, 105<p>
+                            </div>
+                            <div class="box">
+                                <div class="color-radius ds-green-600 text-black"></div>
+                                <p>green-600</p>
+                                <p>#2DB26C</p>
+                                <p>45, 178, 108</p>
+                            </div>
+                            <div class="box">
+                                <div class="color-radius ds-green-500 text-black"></div>
+                                <p>green-500</p>
+                                <p>#49C173</p>
+                                <p>73, 193, 115</p>
+                            </div>
+                            <div class="box">
+                                <div class="color-radius ds-green-400 text-black"></div>
+                                <p>green-400</p>
+                                <p>#62D16B</p>
+                                <p>98, 209, 107</p>
+                            </div>
+                            <div class="box">
+                                <div class="color-radius ds-green-300 text-black"></div>
+                                <p>green-300</p>
+                                <p>#82DC73</p>
+                                <p>130, 220, 115</p>
+                            </div>
+                            <div class="box">
+                                <div class="color-radius ds-green-200 text-black"></div>
+                                <p>green-200</p>
+                                <p>#A1E596</p>
+                                <p>161, 229, 150</p>
+                            </div>
+                            <div class="box">
+                                <div class="color-radius ds-green-100 text-black"></div>
+                                <p>green-100</p>
+                                <p>#BEEBB4</p>
+                                <p>190, 235, 180</p>
+                            </div>
+                            <div class="box">
+                                <div class="color-radius ds-green-000 text-black"></div>
+                                <p>green-000</p>
+                                <p>#DEF5D9</p>
+                                <p>222, 245, 217</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="color-inner">
+                        <div class="color-subheading">Yellow</div>
+                        <div class="color-sec">
+                            <div class="box">
+                                <div class="color-radius ds-yellow-900 text-white"></div>
+                                <p>yellow-900</p>
+                                <p>#AD6F0B</p>
+                                <p>173, 111, 11</p>
+                            </div>
+                            <div class="box">
+                                <div class="color-radius ds-yellow-800 text-white"></div>
+                                <p>yellow-800</p>
+                                <p>#C8870A</p>
+                                <p>200, 135, 10<p>
+                            </div>
+                            <div class="box">
+                                <div class="color-radius ds-yellow-700 text-black"></div>
+                                <p>yellow-700</p>
+                                <p>#D8991D</p>
+                                <p>216, 153, 29</p>
+                            </div>
+                            <div class="box">
+                                <div class="color-radius ds-yellow-600 text-black"></div>
+                                <p>yellow-600</p>
+                                <p>#E2AB30</p>
+                                <p>226, 171, 48</p>
+                            </div>
+                            <div class="box">
+                                <div class="color-radius ds-yellow-500 text-black"></div>
+                                <p>yellow-500</p>
+                                <p>#F2BB33</p>
+                                <p>242, 187, 51</p>
+                            </div>
+                            <div class="box">
+                                <div class="color-radius ds-yellow-400 text-black"></div>
+                                <p>yellow-400</p>
+                                <p>#FFCD41</p>
+                                <p>255, 205, 65</p>
+                            </div>
+                            <div class="box">
+                                <div class="color-radius ds-yellow-300 text-black"></div>
+                                <p>yellow-300</p>
+                                <p>#FFD970</p>
+                                <p>255, 215, 112</p>
+                            </div>
+                            <div class="box">
+                                <div class="color-radius ds-yellow-200 text-black"></div>
+                                <p>yellow-200</p>
+                                <p>#FFE18D</p>
+                                <p>255, 225, 141</p>
+                            </div>
+                            <div class="box">
+                                <div class="color-radius ds-yellow-100 text-black"></div>
+                                <p>yellow-100</p>
+                                <p>#FFECC7</p>
+                                <p>255, 236, 199</p>
+                            </div>
+                            <div class="box">
+                                <div class="color-radius ds-yellow-000 text-black"></div>
+                                <p>yellow-000</p>
+                                <p>#FFF2D9</p>
+                                <p>255, 242, 217</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="color-inner">
+                        <div class="color-subheading">Coral</div>
+                        <div class="color-sec">
+                            <div class="box">
+                                <div class="color-radius ds-coral-900 text-white"></div>
+                                <p>coral-900</p>
+                                <p>#1F51</p>
+                                <p>170, 31, 81</p>
+                            </div>
+                            <div class="box">
+                                <div class="color-radius ds-coral-800 text-white"></div>
+                                <p>coral-800</p>
+                                <p>#C3325F</p>
+                                <p>195, 50, 95<p>
+                            </div>
+                            <div class="box">
+                                <div class="color-radius ds-coral-700 text-black"></div>
+                                <p>coral-700</p>
+                                <p>#D64770</p>
+                                <p>214, 71, 112</p>
+                            </div>
+                            <div class="box">
+                                <div class="color-radius ds-coral-600 text-black"></div>
+                                <p>coral-600</p>
+                                <p>#ED5A88</p>
+                                <p>237, 90, 136</p>
+                            </div>
+                            <div class="box">
+                                <div class="color-radius ds-coral-500 text-black"></div>
+                                <p>coral-500</p>
+                                <p>#F7668F</p>
+                                <p>247, 102, 143</p>
+                            </div>
+                            <div class="box">
+                                <div class="color-radius ds-coral-400 text-black"></div>
+                                <p>coral-400</p>
+                                <p>#FF789B</p>
+                                <p>255, 120, 155</p>
+                            </div>
+                            <div class="box">
+                                <div class="color-radius ds-coral-300 text-black"></div>
+                                <p>coral-300</p>
+                                <p>#FF94B5</p>
+                                <p>255, 148, 181</p>
+                            </div>
+                            <div class="box">
+                                <div class="color-radius ds-coral-400 text-black"></div>
+                                <p>coral-400</p>
+                                <p>#FFAECB</p>
+                                <p>255, 173, 203</p>
+                            </div>
+                            <div class="box">
+                                <div class="color-radius ds-coral-100 text-black"></div>
+                                <p>coral-100</p>
+                                <p>#FFBED7</p>
+                                <p>255, 190, 215</p>
+                            </div>
+                            <div class="box">
+                                <div class="color-radius ds-coral-000 text-black"></div>
+                                <p>coral-000</p>
+                                <p>#F7668F</p>
+                                <p>247, 102, 143</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-12 p-0">
+                    <div class="color-heading">3. Tertiary Color</div>
+                    <div class="color-inner">
+                        <div class="color-subheading">Bronze</div>
+                        <div class="color-sec">
+                            <div class="box">
+                                <div class="color-radius ds-bronze-900 text-white"></div>
+                                <p>bronze-900</p>
+                                <p>#006059</p>
+                                <p>0, 96, 89</p>
+                            </div>
+                            <div class="box">
+                                <div class="color-radius ds-bronze-800 text-white"></div>
+                                <p>bronze-800</p>
+                                <p>#007873</p>
+                                <p>0, 120, 115</p>
+                            </div>
+                            <div class="box">
+                                <div class="color-radius ds-bronze-700 text-white"></div>
+                                <p>bronze-700</p>
+                                <p>#198E88</p>
+                                <p>25, 142, 136</p>
+                            </div>
+                            <div class="box">
+                                <div class="color-radius ds-bronze-600 text-black"></div>
+                                <p>bronze-600</p>
+                                <p>#2BA096</p>
+                                <p>43, 160, 150</p>
+                            </div>
+                            <div class="box">
+                                <div class="color-radius ds-bronze-500 text-black"></div>
+                                <p>bronze-500</p>
+                                <p>#33AFA0</p>
+                                <p>51, 175, 160</p>
+                            </div>
+                            <div class="box">
+                                <div class="color-radius ds-bronze-400 text-black"></div>
+                                <p>bronze-400</p>
+                                <p>#4BC3AF</p>
+                                <p>75, 195, 175</p>
+                            </div>
+                            <div class="box">
+                                <div class="color-radius ds-bronze-300 text-black"></div>
+                                <p>bronze-300</p>
+                                <p>#8C69F0</p>
+                                <p>111, 207, 191</p>
+                            </div>
+                            <div class="box">
+                                <div class="color-radius ds-bronze-200 text-black"></div>
+                                <p>bronze-200</p>
+                                <p>#8ADBCF</p>
+                                <p>138, 219, 207</p>
+                            </div>
+                            <div class="box">
+                                <div class="color-radius ds-bronze-100 text-black"></div>
+                                <p>bronze-100</p>
+                                <p>#A5E6DC</p>
+                                <p>165, 230, 220</p>
+                            </div>
+                            <div class="box">
+                                <div class="color-radius ds-bronze-000 text-black"></div>
+                                <p>bronze-000</p>
+                                <p>#D2F2ED</p>
+                                <p>210, 242, 237</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="color-inner">
+                        <div class="color-subheading">Neutral</div>
+                        <div class="color-sec row-five justify-content-start">
+                            <div class="box">
+                                <div class="color-radius ds-neutral-800 text-white"></div>
+                                <p>neutral-800</p>
+                                <p>#14142B</p>
+                                <p>20, 20, 43</p>
+                            </div>
+                            <div class="box">
+                                <div class="color-radius ds-neutral-700 text-white"></div>
+                                <p>neutral-700</p>
+                                <p>#262338</p>
+                                <p>38, 35, 56</p>
+                            </div>
+                            <div class="box">
+                                <div class="color-radius ds-neutral-600 text-white"></div>
+                                <p>neutral-600</p>
+                                <p>#4E4B66</p>
+                                <p>78, 75, 102</p>
+                            </div>
+                            <div class="box">
+                                <div class="color-radius ds-neutral-500 text-white"></div>
+                                <p>neutral-500</p>
+                                <p>#6E7191</p>
+                                <p>110, 113, 145</p>
+                            </div>
+                            <div class="box">
+                                <div class="color-radius ds-neutral-400 text-black"></div>
+                                <p>neutral-400</p>
+                                <p>#A0A3BD</p>
+                                <p>160, 163, 189</p>
+                            </div>
+                            <div class="box">
+                                <div class="color-radius ds-neutral-300 text-black"></div>
+                                <p>neutral-300</p>
+                                <p>#D9DBE9</p>
+                                <p>217, 219, 233</p>
+                            </div>
+                            <div class="box">
+                                <div class="color-radius ds-neutral-200 text-black"></div>
+                                <p>neutral-200</p>
+                                <p>#EFF0F7</p>
+                                <p>239, 240, 247</p>
+                            </div>
+                            <div class="box">
+                                <div class="color-radius ds-neutral-100 text-black white-box-outline"></div>
+                                <p>neutral-100</p>
+                                <p>#F7F7FC</p>
+                                <p>247, 247, 252</p>
+                            </div>
+                            <div class="box">
+                                <div class="color-radius ds-neutral-000 text-black white-box-outline"></div>
+                                <p>neutral-000</p>
+                                <p>#FCFCFC</p>
+                                <p>252, 252, 252</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="color-inner">
+                        <div class="color-subheading">Grey</div>
+                        <div class="color-sec row-five">
+                            <div class="box">
+                                <div class="color-radius ds-grey-1200 text-white"></div>
+                                <p>grey-1200</p>
+                                <p>#006059</p>
+                                <p>0, 96, 89</p>
+                            </div>
+                            <div class="box">
+                                <div class="color-radius ds-grey-1000 text-white"></div>
+                                <p>grey-1000</p>
+                                <p>#006059</p>
+                                <p>0, 96, 89</p>
+                            </div>
+                            <div class="box">
+                                <div class="color-radius ds-grey-900 text-white"></div>
+                                <p>grey-900</p>
+                                <p>#006059</p>
+                                <p>0, 96, 89</p>
+                            </div>
+                            <div class="box">
+                                <div class="color-radius ds-grey-800 text-white"></div>
+                                <p>grey-800</p>
+                                <p>#007873</p>
+                                <p>0, 120, 115</p>
+                            </div>
+                            <div class="box">
+                                <div class="color-radius ds-grey-700 text-white"></div>
+                                <p>grey-700</p>
+                                <p>#198E88</p>
+                                <p>25, 142, 136</p>
+                            </div>
+                            <div class="box">
+                                <div class="color-radius ds-grey-600 text-black"></div>
+                                <p>grey-600</p>
+                                <p>#2BA096</p>
+                                <p>43, 160, 150</p>
+                            </div>
+                            <div class="box">
+                                <div class="color-radius ds-grey-500 text-black"></div>
+                                <p>grey-500</p>
+                                <p>#33AFA0</p>
+                                <p>51, 175, 160</p>
+                            </div>
+                            <div class="box">
+                                <div class="color-radius ds-grey-400 text-black"></div>
+                                <p>grey-400</p>
+                                <p>#4BC3AF</p>
+                                <p>75, 195, 175</p>
+                            </div>
+                            <div class="box">
+                                <div class="color-radius ds-grey-300 text-black"></div>
+                                <p>grey-300</p>
+                                <p>#8C69F0</p>
+                                <p>111, 207, 191</p>
+                            </div>
+                            <div class="box">
+                                <div class="color-radius ds-grey-200 text-black"></div>
+                                <p>grey-200</p>
+                                <p>#8ADBCF</p>
+                                <p>138, 219, 207</p>
+                            </div>
+                            <div class="box">
+                                <div class="color-radius ds-grey-100 text-black"></div>
+                                <p>grey-100</p>
+                                <p>#A5E6DC</p>
+                                <p>165, 230, 220</p>
+                            </div>
+                            <div class="box">
+                                <div class="color-radius ds-grey-000 text-black"></div>
+                                <p>grey-000</p>
+                                <p>#D2F2ED</p>
+                                <p>210, 242, 237</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="color-inner">
+                        <div class="color-sec row-five justify-content-start">
+                            <div class="box">
+                                <div class="color-subheading">Black</div>
+                                <div class="color-radius ds-black-900 text-white"></div>
+                                <p>black-900</p>
+                                <p>#000000</p>
+                                <p>000, 000, 000</p>
+                            </div>
+                            <div class="box">
+                                <div class="color-subheading">White</div>
+                                <div class="color-radius ds-white-900 text-black white-box-outline"></div>
+                                <p>white-900</p>
+                                <p>#ffffff</p>
+                                <p>255, 255, 255</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="color-inner">
+                        <div class="color-subheading">RAG Color</div>
+                        <div class="color-sec row-five justify-content-start">
+                            <div class="box">
+                                <div class="color-radius ds-RAG-red text-white"></div>
+                                <p>RAG-red</p>
+                                <p>#AA1F51</p>
+                                <p>170, 31, 81</p>
+                            </div>
+                            <div class="box">
+                                <div class="color-radius ds-RAG-amber text-white"></div>
+                                <p>RAG-amber</p>
+                                <p>#C8870A</p>
+                                <p>200, 135, 10</p>
+                            </div>
+                            <div class="box">
+                                <div class="color-radius ds-RAG-green text-white"></div>
+                                <p>RAG-green</p>
+                                <p>#0A875D</p>
+                                <p>10, 135, 93</p>
+                            </div>
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+  </main>
+
+  
+
+
+    <footer class="footer"><p>Best viewed on the latest versions of MS Edge, Chrome or Safari.</p><img src="../../../../docs/5.2/assets/brand/custom/hcl.svg" alt="HCL Logo" class="img-fluid"> </footer>
+
+    
+<script src="../../../../docs/5.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-A3rJD856KowSb7dwlZdYEkO39Gagi7vIsF0jrRAoQmDKKtQBHUuLZ9AsSv4jD4Xa" crossorigin="anonymous"></script>
+
+
+
+
+<script src="../../../../docs/5.2/assets/js/docs.min.js"></script>
+
+
+
+
+    
+    
+  </body>
+</html>
