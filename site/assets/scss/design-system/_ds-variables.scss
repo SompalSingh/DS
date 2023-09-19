@@ -1,0 +1,171 @@
+/*color-style*/
+$theme-color:                                   #5F1EBE;
+$theme-color-hover:                             #4C189E;
+$theme-color-disable:                           #A98EF4;
+$theme-black-color:                             #222222;
+$theme-black-color-2:                           #2b2b2b;
+$theme-black-color-3:                           #212121;
+$theme-dark-blue:                               #0066CC;
+$theme-text-color:#000;
+$white:                                         #FFFFFF;
+$black:                                         #000000;
+$dark-grey:                                     #777777;
+$dark-grey-2:                                   #333333;
+$grey:                                          #E0E0E0;
+$light-grey:                                    #F5F5F5;
+$red:                                           #dd200c;
+$green:                                         #098743;
+$yellow:                                        #FFFF00;
+$border:$grey;
+$border-light: rgba(151, 151, 151, 0.4);
+$border:#E0E0E0;
+$blue-color:#2874F0;
+$theme-secondary-color:$blue-color;
+
+/*theme color*/
+$text-color:                                    $theme-black-color;
+$text-secondary-color:                          $dark-grey;
+$primary-color:                                 $theme-color;
+$secondary-color:                               $dark-grey;
+$primary-color-text:                            $theme-color;
+
+/*font-size*/
+
+$font-size-x-small: 12px;
+$font-size-small: 14px;
+$font-size-regular: 16px;
+$font-size-large: 18px;
+$font-size-x-large: 24px;
+$font-size-xx-large: 32px;
+$heading-s: 24px;
+$heading-md: 46px;
+$heading-lg: 64px;
+
+
+
+/*font-family*/
+$font-fall :Arial;
+
+$font-300: 'HCLTech Roobert Light', $font-fall;
+$font-400: 'HCLTech Roobert Regular', $font-fall;
+$font-500: 'HCLTech Roobert Medium', $font-fall;
+$font-600: 'HCLTech Roobert SemiBold', $font-fall;
+$font-700: 'HCLTech Roobert Bold', $font-fall;
+$font-family: $font-400;
+/*font-family*/
+
+
+$theme-box-shadow:0px 3px 6px #00000029;
+/*color RAG*/
+$ds-RAG-red:#AA1F51;
+$ds-RAG-amber:#C8870A;
+$ds-RAG-green:#0A875D;
+/*color purple*/
+$ds-purple-900:#411482;
+$ds-purple-800:#4C189E;
+$ds-purple-700:#5F1EBE;
+$ds-purple-600:#6B35D3;
+$ds-purple-500:#7647DD;
+$ds-purple-400:#8258E8;
+$ds-purple-300:#8C69F0;
+$ds-purple-200:#A98EF4;
+$ds-purple-100:#C5B4F7;
+$ds-purple-000:#E2D9FB;
+
+/*color blue*/
+$ds-blue-900:#0049B2;
+$ds-blue-800:#0F5FDC;
+$ds-blue-700:#2874F0;
+$ds-blue-600:#3282FA;
+$ds-blue-500:#3C91FF;
+$ds-blue-400:#4B9EF9;
+$ds-blue-300:#6EB8F9;
+$ds-blue-200:#8CC8FA;
+$ds-blue-100:#B4DBFC;
+$ds-blue-000:#D7ECFD;
+
+/*color teal*/
+$ds-teal-900:#006059;
+$ds-teal-800:#007873;
+$ds-teal-700:#198E88;
+$ds-teal-600:#2BA096;
+$ds-teal-500:#33AFA0;
+$ds-teal-400:#4BC3AF;
+$ds-teal-300:#6FCFBF;
+$ds-teal-200:#8ADBCF;
+$ds-teal-100:#A5E6DC;
+$ds-teal-000:#D2F2ED;
+
+/*color green*/
+$ds-green-900:#077251;
+$ds-green-800:#0A875D;
+$ds-green-700:#0FA069;
+$ds-green-600:#2DB26C;
+$ds-green-500:#49C173;
+$ds-green-400:#62D16B;
+$ds-green-300:#82DC73;
+$ds-green-200:#A1E596;
+$ds-green-100:#BEEBB4;
+$ds-green-000:#DEF5D9;
+
+/*color yellow*/
+$ds-yellow-900:#AD6F0B;
+$ds-yellow-800:#C8870A;
+$ds-yellow-700:#D8991D;
+$ds-yellow-600:#E2AB30;
+$ds-yellow-500:#F2BB33;
+$ds-yellow-400:#FFCD41;
+$ds-yellow-300:#FFD970;
+$ds-yellow-200:#FFE18D;
+$ds-yellow-100:#FFECC7;
+$ds-yellow-000:#FFF2D9;
+
+/*color coral*/
+$ds-coral-900:#AA1F51;
+$ds-coral-800:#C3325F;
+$ds-coral-700:#D64770;
+$ds-coral-600:#ED5A88;
+$ds-coral-500:#F7668F;
+$ds-coral-400:#FF789B;
+$ds-coral-300:#FF94B5;
+$ds-coral-200:#FFAECB;
+$ds-coral-100:#FFBED7;
+$ds-coral-000:#FFDEEB;
+
+
+/*color bronze*/
+$ds-bronze-900:#896056;
+$ds-bronze-800:#936E64;
+$ds-bronze-700:#9E7C75;
+$ds-bronze-600:#A88A83;
+$ds-bronze-500:#B79D9A;
+$ds-bronze-400:#C6AAA1;
+$ds-bronze-300:#D7BEB4;
+$ds-bronze-200:#E0CDC6;
+$ds-bronze-100:#EADCD6;
+$ds-bronze-000:#FAF0E6;
+
+/*color grey*/
+$ds-grey-1200:#1D2123;
+$ds-grey-1000:#333A3D;
+$ds-grey-900:#475156;
+$ds-grey-800:#5B666D;
+$ds-grey-700:#6C7882;
+$ds-grey-600:#8291A0;
+$ds-grey-500:#919EAF;
+$ds-grey-400:#A5AFBE;
+$ds-grey-300:#B9C3D0;
+$ds-grey-200:#C8D2DD;
+$ds-grey-100:#D5DCE5;
+$ds-grey-000:#E6EBF5;
+
+/*color neutral*/
+$ds-neutral-800:#14142B;
+$ds-neutral-700:#262338;
+$ds-neutral-600:#4E4B66;
+$ds-neutral-500:#6E7191;
+$ds-neutral-400:#A0A3BD;
+$ds-neutral-300:#D9DBE9;
+$ds-neutral-200:#EFF0F7;
+$ds-neutral-100:#F7F7FC;
+$ds-neutral-000:#FCFCFC;

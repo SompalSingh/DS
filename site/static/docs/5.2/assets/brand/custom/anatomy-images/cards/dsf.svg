@@ -1,0 +1,12 @@
+<svg id="Design:_Large_Card_Button" data-name="Design: Large Card Button" xmlns="http://www.w3.org/2000/svg" width="836" height="261" viewBox="0 0 836 261">
+  <g id="Rectangle_19091" data-name="Rectangle 19091" fill="#fff" stroke="#ccc" stroke-width="1">
+    <rect width="836" height="261" rx="5" stroke="none"/>
+    <rect x="0.5" y="0.5" width="835" height="260" rx="4.5" fill="none"/>
+  </g>
+  <g id="Button_Large_Primary" data-name="Button/Large/Primary" transform="translate(24 200)">
+    <rect id="Primary" width="116" height="45" rx="4" fill="#3c91ff"/>
+    <text id="Primary-L" transform="translate(58 29)" fill="#fff" font-size="17" font-family="HCLTech Roobert" font-weight="600"><tspan x="-38" y="0">Primary-L</tspan></text>
+  </g>
+  <text id="Lorem_ipsum_dolor_sit_amet_consetetur_sadipscing_elitr_sed_diam_nonumy_eirmod_tempor_invidunt_ut_labore_et_dolore_magna_aliquyam_erat_sed_diam_voluptua._At_vero_eos_et_accusam_et_justo_duo_dolores_et_ea_rebum._Stet_clita_kasd_gubergren_no_sea_takimata_" data-name="Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata " transform="translate(24 68)" font-size="16" font-family="HCLTech Roobert"><tspan x="0" y="16">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore </tspan><tspan x="0" y="40">et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. </tspan><tspan x="0" y="64">Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit </tspan><tspan x="0" y="88">amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna </tspan><tspan x="0" y="112">aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. </tspan></text>
+  <text id="Card_Tittle" data-name="Card Tittle" transform="translate(24 46)" font-size="22" font-family="HCLTech Roobert" font-weight="600" letter-spacing="0.001em"><tspan x="0" y="0">Card Tittle</tspan></text>
+</svg>

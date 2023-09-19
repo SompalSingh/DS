@@ -1,0 +1,29 @@
+<svg id="Medium-card-button-image" xmlns="http://www.w3.org/2000/svg" width="500" height="629" viewBox="0 0 500 629">
+  <g id="Group_166217" data-name="Group 166217">
+    <g id="Group_166200" data-name="Group 166200" transform="translate(-789 -1180)">
+      <g id="Rectangle_19094" data-name="Rectangle 19094" transform="translate(789 1480)" fill="#fff" stroke="#ccc" stroke-width="1">
+        <path d="M0,0H500a0,0,0,0,1,0,0V317a12,12,0,0,1-12,12H12A12,12,0,0,1,0,317V0A0,0,0,0,1,0,0Z" stroke="none"/>
+        <path d="M1,.5H499a.5.5,0,0,1,.5.5V317A11.5,11.5,0,0,1,488,328.5H12A11.5,11.5,0,0,1,.5,317V1A.5.5,0,0,1,1,.5Z" fill="none"/>
+      </g>
+      <g id="Group_39639" data-name="Group 39639" transform="translate(805 1504)">
+        <g id="Group_166208" data-name="Group 166208" transform="translate(0 -24)">
+          <g id="Default_Button" data-name="Default Button" transform="translate(152 237)">
+            <rect id="Primary_007BFF" data-name="Primary / #007BFF" width="117" height="36" rx="4" fill="#4c189e"/>
+            <text id="Main_CTA" data-name="Main CTA" transform="translate(24 24)" fill="#fff" font-size="16" font-family="HCLTech Roobert" font-weight="600"><tspan x="0" y="0">Main CTA</tspan></text>
+          </g>
+          <g id="Default_Button-2" data-name="Default Button" transform="translate(24 237)">
+            <g id="Primary_007BFF-2" data-name="Primary / #007BFF" fill="none" stroke="#6c7882" stroke-width="1">
+              <rect width="112" height="36" rx="4" stroke="none"/>
+              <rect x="0.5" y="0.5" width="111" height="35" rx="3.5" fill="none"/>
+            </g>
+            <text id="Optional" transform="translate(24 24)" font-size="16" font-family="HCLTechRoobert-SemiBold, HCLTech Roobert" font-weight="600"><tspan x="0" y="0">Optional</tspan></text>
+          </g>
+        </g>
+        <text id="dolor_sit_amet_consetetur_sadipscing_elitr_sed_diam_nonumy_eirmod_tempor_invidunt_ut_labore_et_dolore_" data-name="dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore…" transform="translate(24 129)" font-size="16" font-family="HCLTechRoobert-Regular, HCLTech Roobert"><tspan x="0" y="16">dolor sit amet, consetetur sadipscing elitr, sed diam </tspan><tspan x="0" y="40">nonumy eirmod tempor invidunt ut labore et dolore…</tspan></text>
+        <text id="Lorem_ipsum" data-name="Lorem ipsum" transform="translate(24 80)" font-size="20" font-family="HCLTechRoobert-SemiBold, HCLTech Roobert" font-weight="600"><tspan x="0" y="20">Lorem ipsum</tspan></text>
+        <text id="Card_Tittle" data-name="Card Tittle" transform="translate(24 16)" font-size="32" font-family="HCLTechRoobert-Bold, HCLTech Roobert" font-weight="700"><tspan x="0" y="32">Card Tittle</tspan></text>
+      </g>
+    </g>
+    <path id="Rectangle_20077" data-name="Rectangle 20077" d="M12,0H488a12,12,0,0,1,12,12V300a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V12A12,12,0,0,1,12,0Z" fill="#b9c3d0"/>
+  </g>
+</svg>

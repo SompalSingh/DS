@@ -1,0 +1,8 @@
+<svg id="Image_placeholder_big" data-name="Image placeholder / big" xmlns="http://www.w3.org/2000/svg" width="785" height="391" viewBox="0 0 785 391">
+  <rect id="shape" width="785" height="391" fill="#ccc"/>
+  <g id="image" transform="translate(298.734 113.06)">
+    <path id="Path_580" data-name="Path 580" d="M164.882,12.777H23.556A11.777,11.777,0,0,0,11.779,24.554V142.325A11.777,11.777,0,0,0,23.556,154.1H164.882a11.777,11.777,0,0,0,11.777-11.777V24.554A11.777,11.777,0,0,0,164.882,12.777ZM23.556,1A23.554,23.554,0,0,0,0,24.554V142.325A23.554,23.554,0,0,0,23.556,165.88H164.882a23.554,23.554,0,0,0,23.554-23.554V24.554A23.554,23.554,0,0,0,164.882,1H23.556Z" transform="translate(-0.002 -1)" fill="#f8f9fa" fill-rule="evenodd"/>
+    <path id="Path_581" data-name="Path 581" d="M122.99,9.346a6.323,6.323,0,0,1,7.3-1.176l47.766,24.623V89.7H1V64.409l33.462-29.77a6.323,6.323,0,0,1,7.967-.784l33.64,22.422L122.99,9.359Z" transform="translate(4.69 66.226)" fill="#f8f9fa"/>
+    <path id="Path_582" data-name="Path 582" d="M20.668,39.331A17.666,17.666,0,1,0,3,21.666,17.666,17.666,0,0,0,20.668,39.331Z" transform="translate(32.329 31.331)" fill="#f8f9fa" fill-rule="evenodd"/>
+  </g>
+</svg>

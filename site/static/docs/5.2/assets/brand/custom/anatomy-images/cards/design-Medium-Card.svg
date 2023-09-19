@@ -1,0 +1,18 @@
+<svg id="Medium-card" xmlns="http://www.w3.org/2000/svg" width="533" height="348" viewBox="0 0 533 348">
+  <g id="Group_39640" data-name="Group 39640" transform="translate(16 32)">
+    <g id="Rectangle_19094" data-name="Rectangle 19094" transform="translate(-16 -32)" fill="#fff" stroke="#ccc" stroke-width="1">
+      <rect width="533" height="348" rx="12" stroke="none"/>
+      <rect x="0.5" y="0.5" width="532" height="347" rx="11.5" fill="none"/>
+    </g>
+    <g id="Group_39639" data-name="Group 39639" transform="translate(0 8)">
+      <g id="Group_166195" data-name="Group 166195" transform="translate(0 47)">
+        <g id="arrow_right-normal" data-name="arrow right-normal" transform="translate(24 190)">
+          <path id="Path_23052" data-name="Path 23052" d="M14.853,7.854a.5.5,0,0,1-.707,0L8,1.707V18.5a.5.5,0,0,1-1,0V1.707L.853,7.854a.5.5,0,0,1-.707-.707l7-7A.5.5,0,0,1,7.307.039a.495.495,0,0,1,.385,0,.5.5,0,0,1,.162.108l7,7A.5.5,0,0,1,14.853,7.854Z" transform="translate(19.001 0) rotate(90)" fill="#5f1ebe" stroke="#5f1ebe" stroke-width="1"/>
+        </g>
+      </g>
+      <text id="dolor_sit_amet_consetetur_sadipscing_elitr_sed_diam_nonumy_eirmod_tempor_invidunt_ut_labore_et_dolore_magna_aliquyam_erat_sed_diam_voluptua" data-name="dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua" transform="translate(24 129)" font-size="16" font-family="HCLTechRoobert-Regular, HCLTech Roobert"><tspan x="0" y="16">dolor sit amet, consetetur sadipscing elitr, sed diam nonumy </tspan><tspan x="0" y="40">eirmod tempor invidunt ut labore et dolore magna aliquyam </tspan><tspan x="0" y="64">erat, sed diam voluptua</tspan></text>
+      <text id="Lorem_ipsum" data-name="Lorem ipsum" transform="translate(24 80)" font-size="20" font-family="HCLTechRoobert-SemiBold, HCLTech Roobert" font-weight="600"><tspan x="0" y="20">Lorem ipsum</tspan></text>
+      <text id="Card_Tittle" data-name="Card Tittle" transform="translate(24 16)" font-size="32" font-family="HCLTechRoobert-Bold, HCLTech Roobert" font-weight="700"><tspan x="0" y="32">Card Tittle</tspan></text>
+    </g>
+  </g>
+</svg>

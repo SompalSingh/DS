@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="834" height="256" viewBox="0 0 834 256">
+  <g id="Anatomy:Accordion_Single_Button" data-name="Anatomy:Accordion Single Button" transform="translate(-265 -2418)">
+    <text id="Accordion_Item_1" data-name="Accordion Item #1" transform="translate(339 2479)" fill="#14142b" font-size="16" font-family="HCLTech Roobert"><tspan x="0" y="0">Accordion Item #1</tspan></text>
+    <text id="Accordion_Item_2" data-name="Accordion Item #2" transform="translate(339 2531)" fill="#5f1ebe" font-size="16" font-family="HCLTechRoobert-Medium, HCLTech Roobert" font-weight="500"><tspan x="0" y="0">Accordion Item #2</tspan></text>
+    <text id="Lorem_ipsum_dolor_sit_amet_consetetur_sadipscing_elitr_sed_diam_nonumy_eirmod_tempor_invidunt_ut_labore_et_dolore_magna_aliquyam_erat_sed_diam_voluptua._At_vero_eos_et_accusam_et_justo_duo_dolores_et_ea_rebum._Stet_clita_kasd_gubergren_no_sea_takimata_" data-name="Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata " transform="translate(339 2567)" fill="#4e4b66" font-size="14" font-family="HCLTech Roobert"><tspan x="0" y="14">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore </tspan><tspan x="0" y="34">et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. </tspan><tspan x="0" y="54">Stet clita kasd gubergren, no sea takimata sanctus est</tspan></text>
+    <g id="Group_37089" data-name="Group 37089" transform="translate(1018.555 2463)">
+      <rect id="Rectangle_7762" data-name="Rectangle 7762" width="14.291" height="1.111" transform="translate(0.154 18.889)" fill="#14142b"/>
+      <path id="Path_22822" data-name="Path 22822" d="M5.773,20.313a.565.565,0,0,0,.293.08.575.575,0,0,0,.267-.066l4.027-2.135a.533.533,0,0,0,.193-.171l8.434-12.37a.769.769,0,0,0,.11-.642.821.821,0,0,0-.4-.489L15.486,2.743a.913.913,0,0,0-.638-.092.87.87,0,0,0-.536.355l-8.4,12.341a.448.448,0,0,0-.058.061.482.482,0,0,0-.069.319l-.268,4.112A.514.514,0,0,0,5.773,20.313Zm1.058-3.726,2.05,1.193L6.676,18.949Zm3.026.535L7.1,15.521l6.522-9.583,2.76,1.607Zm5.26-13.375,2.8,1.55-.934,1.368L14.223,5.06Z" transform="translate(-5.517 -2.63)" fill="#14142b"/>
+    </g>
+    <g id="Group_37088" data-name="Group 37088" transform="translate(1018.195 2515)">
+      <rect id="Rectangle_7762-2" data-name="Rectangle 7762" width="14.648" height="1.139" transform="translate(0.158 19.361)" fill="#5f1ebe"/>
+      <path id="Path_22822-2" data-name="Path 22822" d="M5.779,20.754a.579.579,0,0,0,.3.083.59.59,0,0,0,.274-.068l4.127-2.188a.547.547,0,0,0,.2-.176L19.323,5.727a.789.789,0,0,0,.113-.658.841.841,0,0,0-.408-.5L15.734,2.746a.936.936,0,0,0-.654-.094.892.892,0,0,0-.55.364L5.924,15.665a.459.459,0,0,0-.06.062.494.494,0,0,0-.071.327l-.275,4.214A.527.527,0,0,0,5.779,20.754Zm1.084-3.819,2.1,1.223-2.26,1.2Zm3.1.549L7.144,15.843,13.829,6.02l2.829,1.647ZM15.356,3.775l2.873,1.589-.957,1.4L14.441,5.12Z" transform="translate(-5.517 -2.63)" fill="#5f1ebe"/>
+    </g>
+    <rect id="Rectangle_19201" data-name="Rectangle 19201" width="16" height="751" transform="translate(1057 2447) rotate(90)" fill="#0157dc" opacity="0.07" style="mix-blend-mode: multiply;isolation: isolate"/>
+    <rect id="Rectangle_19202" data-name="Rectangle 19202" width="16" height="751" transform="translate(1057 2483) rotate(90)" fill="#0157dc" opacity="0.07" style="mix-blend-mode: multiply;isolation: isolate"/>
+    <rect id="Rectangle_19205" data-name="Rectangle 19205" width="16" height="751" transform="translate(1057 2499) rotate(90)" fill="#0157dc" opacity="0.07" style="mix-blend-mode: multiply;isolation: isolate"/>
+    <rect id="Rectangle_19206" data-name="Rectangle 19206" width="16" height="751" transform="translate(1057 2535) rotate(90)" fill="#0157dc" opacity="0.07" style="mix-blend-mode: multiply;isolation: isolate"/>
+    <rect id="Rectangle_19207" data-name="Rectangle 19207" width="16" height="751" transform="translate(1057 2551) rotate(90)" fill="#0157dc" opacity="0.07" style="mix-blend-mode: multiply;isolation: isolate"/>
+    <rect id="Rectangle_19208" data-name="Rectangle 19208" width="16" height="751" transform="translate(1057 2626) rotate(90)" fill="#0157dc" opacity="0.07" style="mix-blend-mode: multiply;isolation: isolate"/>
+    <rect id="Rectangle_19199" data-name="Rectangle 19199" width="214" height="16" transform="translate(339 2436) rotate(90)" fill="#0157dc" opacity="0.07" style="mix-blend-mode: multiply;isolation: isolate"/>
+    <text id="_16px" data-name="16px" transform="translate(1082 2461)" fill="#489ef9" font-size="16" font-family="HCLTech Roobert" font-weight="600"><tspan x="-16" y="0">16px</tspan></text>
+    <text id="_16px-2" data-name="16px" transform="translate(1082 2565)" fill="#489ef9" font-size="16" font-family="HCLTech Roobert" font-weight="600"><tspan x="-16" y="0">16px</tspan></text>
+    <text id="_16px-3" data-name="16px" transform="translate(282 2547)" fill="#489ef9" font-size="16" font-family="HCLTech Roobert" font-weight="600"><tspan x="-16" y="0">16px</tspan></text>
+    <text id="_16px-4" data-name="16px" transform="translate(282 2511)" fill="#489ef9" font-size="16" font-family="HCLTech Roobert" font-weight="600"><tspan x="-16" y="0">16px</tspan></text>
+    <text id="_16px-5" data-name="16px" transform="translate(337 2670)" fill="#489ef9" font-size="16" font-family="HCLTech Roobert" font-weight="600"><tspan x="-16" y="0">16px</tspan></text>
+    <text id="_16px-6" data-name="16px" transform="translate(1082 2497)" fill="#489ef9" font-size="16" font-family="HCLTech Roobert" font-weight="600"><tspan x="-16" y="0">16px</tspan></text>
+    <text id="_16px-7" data-name="16px" transform="translate(1082 2640)" fill="#489ef9" font-size="16" font-family="HCLTech Roobert" font-weight="600"><tspan x="-16" y="0">16px</tspan></text>
+    <path id="Path_36124" data-name="Path 36124" d="M0,0H16" transform="translate(1062.5 2447) rotate(90)" fill="none" stroke="#3c91ff" stroke-width="1"/>
+    <path id="Path_36125" data-name="Path 36125" d="M0,0H16" transform="translate(1062.5 2551) rotate(90)" fill="none" stroke="#3c91ff" stroke-width="1"/>
+    <path id="Path_36118" data-name="Path 36118" d="M0,0H16" transform="translate(301.998 2535) rotate(90)" fill="none" stroke="#3c91ff" stroke-width="1"/>
+    <path id="Path_36117" data-name="Path 36117" d="M0,0H16" transform="translate(301.998 2499) rotate(90)" fill="none" stroke="#3c91ff" stroke-width="1"/>
+    <rect id="Rectangle_19210" data-name="Rectangle 19210" width="200" height="16" transform="translate(1049 2442) rotate(90)" fill="#0157dc" opacity="0.07" style="mix-blend-mode: multiply;isolation: isolate"/>
+    <text id="_16px-8" data-name="16px" transform="translate(1041 2434)" fill="#489ef9" font-size="16" font-family="HCLTech Roobert" font-weight="600"><tspan x="-16" y="0">16px</tspan></text>
+    <path id="Path_36123" data-name="Path 36123" d="M0,0H16" transform="translate(1049 2440) rotate(180)" fill="none" stroke="#3c91ff" stroke-width="1"/>
+    <path id="Path_36119" data-name="Path 36119" d="M0,0H16" transform="translate(345 2652) rotate(180)" fill="none" stroke="#3c91ff" stroke-width="1"/>
+    <path id="Path_36126" data-name="Path 36126" d="M0,0H16" transform="translate(1062.5 2483) rotate(90)" fill="none" stroke="#3c91ff" stroke-width="1"/>
+    <path id="Path_36127" data-name="Path 36127" d="M0,0H16" transform="translate(1062.5 2626) rotate(90)" fill="none" stroke="#3c91ff" stroke-width="1"/>
+    <path id="Path_36128" data-name="Path 36128" d="M951,1359.821h743" transform="translate(-645 1139.179)" fill="none" stroke="#a5afbe" stroke-width="0.5"/>
+    <path id="Path_36129" data-name="Path 36129" d="M951,1359.821h743" transform="translate(-645 1191.179)" fill="none" stroke="#a5afbe" stroke-width="0.5"/>
+    <path id="Path_36130" data-name="Path 36130" d="M951,1359.821h743" transform="translate(-645 1282.179)" fill="none" stroke="#a5afbe" stroke-width="0.5"/>
+    <path id="Path_23152_-_Outline" data-name="Path 23152 - Outline" d="M.253,5.816A.775.775,0,0,1-.279,5.61a.674.674,0,0,1,0-1L4.968-.293a.79.79,0,0,1,1.066,0l5.247,4.907a.674.674,0,0,1,0,1,.791.791,0,0,1-1.064,0L5.5,1.2.786,5.61A.775.775,0,0,1,.253,5.816Z" transform="translate(322.501 2527.816) rotate(180)" fill="#5f1ebe"/>
+    <path id="Path_23152_-_Outline-2" data-name="Path 23152 - Outline" d="M.253,5.816A.775.775,0,0,1-.279,5.61a.674.674,0,0,1,0-1L4.968-.293a.79.79,0,0,1,1.066,0l5.247,4.907a.674.674,0,0,1,0,1,.791.791,0,0,1-1.064,0L5.5,1.2.786,5.61A.775.775,0,0,1,.253,5.816Z" transform="translate(319.816 2467.5) rotate(90)" fill="#14142b"/>
+  </g>
+</svg>

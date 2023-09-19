@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="444" height="116" viewBox="0 0 444 116">
+  <g id="Group_38043" data-name="Group 38043" transform="translate(-302 -1124)">
+    <g id="Group_37590" data-name="Group 37590" transform="translate(-95 -662)">
+      <g id="Component_50_1" data-name="Component 50 – 1" transform="translate(538.074 1830)">
+        <g id="Rectangle_13416" data-name="Rectangle 13416" fill="#fff" stroke="#c8d2dd" stroke-width="0.7">
+          <rect width="32" height="30" stroke="none"/>
+          <rect x="0.35" y="0.35" width="31.3" height="29.3" fill="none"/>
+        </g>
+        <text id="_2" data-name="2" transform="translate(12 20)" font-size="14" font-family="HCLTech Roobert" font-weight="500"><tspan x="0" y="0">2</tspan></text>
+      </g>
+      <g id="Component_50_2" data-name="Component 50 – 2" transform="translate(570.074 1830)">
+        <g id="Rectangle_13416-2" data-name="Rectangle 13416" fill="#fff" stroke="#c8d2dd" stroke-width="0.7">
+          <rect width="32" height="30" stroke="none"/>
+          <rect x="0.35" y="0.35" width="31.3" height="29.3" fill="none"/>
+        </g>
+        <text id="_3" data-name="3" transform="translate(12 20)" font-size="14" font-family="HCLTech Roobert" font-weight="500"><tspan x="0" y="0">3</tspan></text>
+      </g>
+      <g id="Component_49_1" data-name="Component 49 – 1" transform="translate(631.821 1860) rotate(180)">
+        <g id="Rectangle_2244" data-name="Rectangle 2244" transform="translate(0 0)" fill="#fff" stroke="#c8d2dd" stroke-width="0.7">
+          <path d="M4,0H29a0,0,0,0,1,0,0V30a0,0,0,0,1,0,0H4a4,4,0,0,1-4-4V4A4,4,0,0,1,4,0Z" stroke="none"/>
+          <path d="M4,.35H28.3a.35.35,0,0,1,.35.35V29.3a.35.35,0,0,1-.35.35H4A3.65,3.65,0,0,1,.35,26V4A3.65,3.65,0,0,1,4,.35Z" fill="none"/>
+        </g>
+        <path id="Path_19900" data-name="Path 19900" d="M2.662.062a.189.189,0,0,1,.28,0,.223.223,0,0,1,0,.3L.478,3,2.942,5.638a.223.223,0,0,1,0,.3.189.189,0,0,1-.28,0L.058,3.15a.223.223,0,0,1,0-.3Z" transform="translate(12 12)" fill="#222" stroke="#222" stroke-width="0.5"/>
+      </g>
+      <g id="Component_48_1" data-name="Component 48 – 1" transform="translate(408.037 1830)">
+        <g id="Rectangle_2240" data-name="Rectangle 2240" fill="#fff" stroke="#c8d2dd" stroke-width="0.7">
+          <rect width="53.289" height="30" rx="4" stroke="none"/>
+          <rect x="0.35" y="0.35" width="52.589" height="29.3" rx="3.65" fill="none"/>
+        </g>
+        <path id="Path_19899" data-name="Path 19899" d="M3.463.075a.258.258,0,0,1,.364,0,.258.258,0,0,1,0,.364l-3.2,3.2,3.2,3.2a.258.258,0,0,1-.364.364L.075,3.827a.258.258,0,0,1,0-.364Z" transform="translate(34 16.402) rotate(-90)" fill="#222" stroke="#222" stroke-width="0.5"/>
+        <text id="_10" data-name="10" transform="translate(12 20)" font-size="14" font-family="HCLTech Roobert" font-weight="500"><tspan x="0" y="0">10</tspan></text>
+      </g>
+      <g id="Component_49_2" data-name="Component 49 – 2" transform="translate(479.326 1830)">
+        <g id="Rectangle_2244-2" data-name="Rectangle 2244" transform="translate(0 0)" fill="#fff" stroke="#dee2e6" stroke-width="0.7">
+          <path d="M4,0H29.747a0,0,0,0,1,0,0V30a0,0,0,0,1,0,0H4a4,4,0,0,1-4-4V4A4,4,0,0,1,4,0Z" stroke="none"/>
+          <path d="M4,.35H29.047A.35.35,0,0,1,29.4.7V29.3a.35.35,0,0,1-.35.35H4A3.65,3.65,0,0,1,.35,26V4A3.65,3.65,0,0,1,4,.35Z" fill="none"/>
+        </g>
+        <path id="Path_19900-2" data-name="Path 19900" d="M3.325.072a.248.248,0,0,1,.35,0,.248.248,0,0,1,0,.35L.6,3.5,3.675,6.578a.247.247,0,1,1-.35.35L.072,3.675a.248.248,0,0,1,0-.35Z" transform="translate(12 11)" fill="#6c757d" stroke="#6c757d" stroke-width="0.5"/>
+      </g>
+      <g id="Component_50_3" data-name="Component 50 – 3" transform="translate(509.074 1830)">
+        <g id="Rectangle_13416-3" data-name="Rectangle 13416" fill="#e6f3ff" stroke="#9eccfa" stroke-width="0.7">
+          <rect width="29" height="30" stroke="none"/>
+          <rect x="0.35" y="0.35" width="28.3" height="29.3" fill="none"/>
+        </g>
+        <text id="_1" data-name="1" transform="translate(12 20)" fill="#222" font-size="14" font-family="HCLTech Roobert" font-weight="500"><tspan x="0" y="0">1</tspan></text>
+      </g>
+      <g id="Group_37586" data-name="Group 37586" transform="translate(588 1835) rotate(-90)">
+        <path id="Path_26889" data-name="Path 26889" d="M-9876.086,20567l-.015-55.965H-9890" transform="translate(9893.086 -20509)" fill="none" stroke="#2653ae" stroke-linejoin="round" stroke-width="1"/>
+        <path id="Path_26890" data-name="Path 26890" d="M0,4V0" transform="translate(19 58) rotate(90)" fill="none" stroke="#2653ae" stroke-width="0.5"/>
+        <circle id="Ellipse_3153" data-name="Ellipse 3153" cx="2" cy="2" r="2" fill="#2653ae"/>
+      </g>
+      <g id="Group_37587" data-name="Group 37587" transform="translate(646 1855) rotate(90)">
+        <path id="Path_26889-2" data-name="Path 26889" d="M13.913,0,13.9,55.965H0" transform="translate(3.087)" fill="none" stroke="#2653ae" stroke-linejoin="round" stroke-width="1"/>
+        <path id="Path_26890-2" data-name="Path 26890" d="M0,0V4" transform="translate(15) rotate(-90)" fill="none" stroke="#2653ae" stroke-width="0.5"/>
+        <circle id="Ellipse_3153-2" data-name="Ellipse 3153" cx="2" cy="2" r="2" transform="translate(0 54)" fill="#2653ae"/>
+      </g>
+      <rect id="Rectangle_19640" data-name="Rectangle 19640" width="12" height="64" transform="translate(408 1814)" fill="#0157dc" opacity="0.16" style="mix-blend-mode: multiply;isolation: isolate"/>
+      <rect id="Rectangle_19641" data-name="Rectangle 19641" width="12" height="64" transform="translate(449 1814)" fill="#0157dc" opacity="0.16" style="mix-blend-mode: multiply;isolation: isolate"/>
+      <rect id="Rectangle_19642" data-name="Rectangle 19642" width="12" height="64" transform="translate(538 1814)" fill="#0157dc" opacity="0.16" style="mix-blend-mode: multiply;isolation: isolate"/>
+      <rect id="Rectangle_19643" data-name="Rectangle 19643" width="12" height="64" transform="translate(558 1814)" fill="#0157dc" opacity="0.16" style="mix-blend-mode: multiply;isolation: isolate"/>
+      <rect id="Rectangle_19644" data-name="Rectangle 19644" width="8" height="64" transform="translate(434 1814)" fill="#0157dc" opacity="0.16" style="mix-blend-mode: multiply;isolation: isolate"/>
+      <text id="_12px" data-name="12px" transform="translate(414 1898)" fill="#489ef9" font-size="16" font-family="HCLTech Roobert" font-weight="600"><tspan x="-16" y="0">12px</tspan></text>
+      <text id="_12px-2" data-name="12px" transform="translate(455 1898)" fill="#489ef9" font-size="16" font-family="HCLTech Roobert" font-weight="600"><tspan x="-16" y="0">12px</tspan></text>
+      <text id="_12px-3" data-name="12px" transform="translate(544 1898)" fill="#489ef9" font-size="16" font-family="HCLTech Roobert" font-weight="600"><tspan x="-16" y="0">12px</tspan></text>
+      <text id="_12px-4" data-name="12px" transform="translate(564 1802)" fill="#489ef9" font-size="16" font-family="HCLTech Roobert" font-weight="600"><tspan x="-16" y="0">12px</tspan></text>
+      <text id="_8px" data-name="8px" transform="translate(438 1802)" fill="#489ef9" font-size="16" font-family="HCLTech Roobert" font-weight="600"><tspan x="-13" y="0">8px</tspan></text>
+      <path id="Path_36614" data-name="Path 36614" d="M-9715,20454.064h12" transform="translate(10123.001 -18572.064)" fill="none" stroke="#3c91ff" stroke-width="1"/>
+      <path id="Path_36615" data-name="Path 36615" d="M-9715,20454.064h12" transform="translate(10164.001 -18572.064)" fill="none" stroke="#3c91ff" stroke-width="1"/>
+      <path id="Path_36616" data-name="Path 36616" d="M-9715,20454.064h12" transform="translate(10253.001 -18572.064)" fill="none" stroke="#3c91ff" stroke-width="1"/>
+      <path id="Path_36617" data-name="Path 36617" d="M-9715,20454.064h12" transform="translate(10273.001 -18644.064)" fill="none" stroke="#3c91ff" stroke-width="1"/>
+      <path id="Path_36618" data-name="Path 36618" d="M-9715,20454.064h8" transform="translate(10149.002 -18644.064)" fill="none" stroke="#3c91ff" stroke-width="1"/>
+      <rect id="Rectangle_19645" data-name="Rectangle 19645" width="6" height="93" transform="translate(509 1836) rotate(-90)" fill="#0157dc" opacity="0.16" style="mix-blend-mode: multiply;isolation: isolate"/>
+      <rect id="Rectangle_19646" data-name="Rectangle 19646" width="11" height="38" transform="translate(471 1841) rotate(-90)" fill="#0157dc" opacity="0.16" style="mix-blend-mode: multiply;isolation: isolate"/>
+      <rect id="Rectangle_19647" data-name="Rectangle 19647" width="12" height="38" transform="translate(602 1842) rotate(-90)" fill="#0157dc" opacity="0.16" style="mix-blend-mode: multiply;isolation: isolate"/>
+      <rect id="Rectangle_19648" data-name="Rectangle 19648" width="6" height="93" transform="translate(509 1860) rotate(-90)" fill="#0157dc" opacity="0.16" style="mix-blend-mode: multiply;isolation: isolate"/>
+      <rect id="Rectangle_19649" data-name="Rectangle 19649" width="12" height="38" transform="translate(471 1860) rotate(-90)" fill="#0157dc" opacity="0.16" style="mix-blend-mode: multiply;isolation: isolate"/>
+      <rect id="Rectangle_19650" data-name="Rectangle 19650" width="12" height="38" transform="translate(602 1860) rotate(-90)" fill="#0157dc" opacity="0.16" style="mix-blend-mode: multiply;isolation: isolate"/>
+      <text id="_6px" data-name="6px" transform="translate(666 1824)" fill="#489ef9" font-size="16" font-family="HCLTech Roobert" font-weight="600"><tspan x="-13" y="0">6px</tspan></text>
+      <text id="_12px-5" data-name="12px" transform="translate(702 1840)" fill="#489ef9" font-size="16" font-family="HCLTech Roobert" font-weight="600"><tspan x="-16" y="0">12px</tspan></text>
+      <text id="_12px-6" data-name="12px" transform="translate(702 1860)" fill="#489ef9" font-size="16" font-family="HCLTech Roobert" font-weight="600"><tspan x="-16" y="0">12px</tspan></text>
+      <text id="_6px-2" data-name="6px" transform="translate(666 1877)" fill="#489ef9" font-size="16" font-family="HCLTech Roobert" font-weight="600"><tspan x="-13" y="0">6px</tspan></text>
+      <path id="Path_36619" data-name="Path 36619" d="M-9715,20454.064h6" transform="translate(21103.564 11530) rotate(90)" fill="none" stroke="#3c91ff" stroke-width="1"/>
+      <path id="Path_36620" data-name="Path 36620" d="M-9715,20454.064h11" transform="translate(21136.064 11545) rotate(90)" fill="none" stroke="#3c91ff" stroke-width="1"/>
+      <path id="Path_36621" data-name="Path 36621" d="M-9715,20454.064h11" transform="translate(21136.064 11563) rotate(90)" fill="none" stroke="#3c91ff" stroke-width="1"/>
+      <path id="Path_36622" data-name="Path 36622" d="M-9715,20454.064h6" transform="translate(21103.564 11584) rotate(90)" fill="none" stroke="#3c91ff" stroke-width="1"/>
+      <g id="Group_37588" data-name="Group 37588" transform="translate(624.25 1833.5)">
+        <path id="Path_27018" data-name="Path 27018" d="M-9843.358,20511.035h-52.166" transform="translate(9898.587 -20509.035)" fill="none" stroke="#2653ae" stroke-linejoin="round" stroke-width="1"/>
+        <path id="Path_27019" data-name="Path 27019" d="M0,4V0" transform="translate(55.228)" fill="none" stroke="#2653ae" stroke-width="0.5"/>
+        <circle id="Ellipse_3172" data-name="Ellipse 3172" cx="2" cy="2" r="2" fill="#2653ae"/>
+      </g>
+      <g id="Group_37589" data-name="Group 37589" transform="translate(624.25 1851.5)">
+        <path id="Path_27018-2" data-name="Path 27018" d="M-9843.358,20511.035h-52.166" transform="translate(9898.587 -20509.035)" fill="none" stroke="#2653ae" stroke-linejoin="round" stroke-width="1"/>
+        <path id="Path_27019-2" data-name="Path 27019" d="M0,4V0" transform="translate(55.228)" fill="none" stroke="#2653ae" stroke-width="0.5"/>
+        <circle id="Ellipse_3172-2" data-name="Ellipse 3172" cx="2" cy="2" r="2" fill="#2653ae"/>
+      </g>
+    </g>
+    <text id="Label:_14px" data-name="Label: 14px" transform="translate(665 1188)" fill="#489ef9" font-size="16" font-family="HCLTech Roobert" font-weight="600"><tspan x="0" y="0">Label: 14px</tspan></text>
+    <g id="Group_37591" data-name="Group 37591" transform="translate(659 1182) rotate(90)">
+      <path id="Path_26889-3" data-name="Path 26889" d="M0,0,.033,166.813" transform="translate(2)" fill="none" stroke="#2653ae" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Path_26890-3" data-name="Path 26890" d="M0,4V0" transform="rotate(-90)" fill="none" stroke="#2653ae" stroke-width="0.5"/>
+      <circle id="Ellipse_3153-3" data-name="Ellipse 3153" cx="2" cy="2" r="2" transform="translate(0 164)" fill="#2653ae"/>
+    </g>
+  </g>
+</svg>

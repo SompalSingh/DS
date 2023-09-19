@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="761" height="701" viewBox="0 0 761 701">
+  <defs>
+    <filter id="Ellipse_3226" x="0" y="633" width="68" height="68" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_166221" data-name="Group 166221" transform="translate(-280 -6730)">
+    <g id="Medium-card-button-image" transform="translate(313 6769)">
+      <g id="Group_166210" data-name="Group 166210">
+        <g id="Group_166200" data-name="Group 166200" transform="translate(-789 -1180)">
+          <g id="Rectangle_19094" data-name="Rectangle 19094" transform="translate(789 1480)" fill="#fff" stroke="#ccc" stroke-width="1">
+            <path d="M0,0H500a0,0,0,0,1,0,0V317a12,12,0,0,1-12,12H12A12,12,0,0,1,0,317V0A0,0,0,0,1,0,0Z" stroke="none"/>
+            <path d="M1,.5H499a.5.5,0,0,1,.5.5V317A11.5,11.5,0,0,1,488,328.5H12A11.5,11.5,0,0,1,.5,317V1A.5.5,0,0,1,1,.5Z" fill="none"/>
+          </g>
+          <g id="Group_39639" data-name="Group 39639" transform="translate(805 1504)">
+            <g id="Group_166208" data-name="Group 166208" transform="translate(0 -24)">
+              <g id="Default_Button" data-name="Default Button" transform="translate(152 237)">
+                <rect id="Primary_007BFF" data-name="Primary / #007BFF" width="117" height="36" rx="4" fill="#4c189e"/>
+                <text id="Main_CTA" data-name="Main CTA" transform="translate(24 24)" fill="#fff" font-size="16" font-family="HCLTech Roobert" font-weight="600"><tspan x="0" y="0">Main CTA</tspan></text>
+              </g>
+              <g id="Default_Button-2" data-name="Default Button" transform="translate(24 237)">
+                <g id="Primary_007BFF-2" data-name="Primary / #007BFF" fill="none" stroke="#6c7882" stroke-width="1">
+                  <rect width="112" height="36" rx="4" stroke="none"/>
+                  <rect x="0.5" y="0.5" width="111" height="35" rx="3.5" fill="none"/>
+                </g>
+                <text id="Optional" transform="translate(24 24)" font-size="16" font-family="HCLTechRoobert-SemiBold, HCLTech Roobert" font-weight="600"><tspan x="0" y="0">Optional</tspan></text>
+              </g>
+            </g>
+            <text id="dolor_sit_amet_consetetur_sadipscing_elitr_sed_diam_nonumy_eirmod_tempor_invidunt_ut_labore_" data-name="dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore…" transform="translate(24 129)" font-size="16" font-family="HCLTechRoobert-Regular, HCLTech Roobert"><tspan x="0" y="16">dolor sit amet, consetetur sadipscing elitr, sed diam </tspan><tspan x="0" y="40">nonumy eirmod tempor invidunt ut labore…</tspan></text>
+            <text id="Lorem_ipsum" data-name="Lorem ipsum" transform="translate(24 80)" font-size="20" font-family="HCLTechRoobert-SemiBold, HCLTech Roobert" font-weight="600"><tspan x="0" y="20">Lorem ipsum</tspan></text>
+            <text id="Card_Tittle" data-name="Card Tittle" transform="translate(24 16)" font-size="32" font-family="HCLTechRoobert-Bold, HCLTech Roobert" font-weight="700"><tspan x="0" y="32">Card Tittle</tspan></text>
+          </g>
+        </g>
+        <path id="Rectangle_20077" data-name="Rectangle 20077" d="M12,0H488a12,12,0,0,1,12,12V300a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V12A12,12,0,0,1,12,0Z" fill="#b9c3d0"/>
+      </g>
+    </g>
+    <text id="Border_radius:_12px" data-name="Border radius: 12px" transform="translate(424 7425)" fill="#489ef9" font-size="16" font-family="HCLTech Roobert" font-weight="600"><tspan x="-68" y="0">Border radius: 12px</tspan></text>
+    <rect id="Rectangle_19617" data-name="Rectangle 19617" width="40" height="530" transform="translate(830 7070) rotate(90)" fill="#0157dc" opacity="0.07" style="mix-blend-mode: multiply;isolation: isolate"/>
+    <rect id="Rectangle_19620" data-name="Rectangle 19620" width="24" height="529" transform="translate(829 7150) rotate(90)" fill="#0157dc" opacity="0.07" style="mix-blend-mode: multiply;isolation: isolate"/>
+    <rect id="Rectangle_20132" data-name="Rectangle 20132" width="40" height="529" transform="translate(829 7266) rotate(90)" fill="#0157dc" opacity="0.07" style="mix-blend-mode: multiply;isolation: isolate"/>
+    <rect id="Rectangle_20133" data-name="Rectangle 20133" width="56" height="529" transform="translate(829 7342) rotate(90)" fill="#0157dc" opacity="0.07" style="mix-blend-mode: multiply;isolation: isolate"/>
+    <rect id="Rectangle_19616" data-name="Rectangle 19616" width="40" height="651" transform="translate(353 7409) rotate(180)" fill="#0157dc" opacity="0.07" style="mix-blend-mode: multiply;isolation: isolate"/>
+    <rect id="Rectangle_20131" data-name="Rectangle 20131" width="40" height="651" transform="translate(813 7409) rotate(180)" fill="#0157dc" opacity="0.07" style="mix-blend-mode: multiply;isolation: isolate"/>
+    <g transform="matrix(1, 0, 0, 1, 280, 6730)" filter="url(#Ellipse_3226)">
+      <ellipse id="Ellipse_3226-2" data-name="Ellipse 3226" cx="25" cy="25" rx="25" ry="25" transform="translate(9 642)" fill="#fff" opacity="0.406"/>
+    </g>
+    <text id="_40px" data-name="40px" transform="translate(861 7096)" fill="#489ef9" font-size="16" font-family="HCLTech Roobert" font-weight="600"><tspan x="-18" y="0">40px</tspan></text>
+    <text id="_40px-2" data-name="40px" transform="translate(861 7168)" fill="#489ef9" font-size="16" font-family="HCLTech Roobert" font-weight="600"><tspan x="-18" y="0">40px</tspan></text>
+    <text id="_40px-3" data-name="40px" transform="translate(861 7292)" fill="#489ef9" font-size="16" font-family="HCLTech Roobert" font-weight="600"><tspan x="-18" y="0">40px</tspan></text>
+    <text id="_56px" data-name="56px" transform="translate(861 7376)" fill="#489ef9" font-size="16" font-family="HCLTech Roobert" font-weight="600"><tspan x="-18" y="0">56px</tspan></text>
+    <text id="_40px-4" data-name="40px" transform="translate(332 6746)" fill="#489ef9" font-size="16" font-family="HCLTech Roobert" font-weight="600"><tspan x="-18" y="0">40px</tspan></text>
+    <text id="_40px-5" data-name="40px" transform="translate(793 6746)" fill="#489ef9" font-size="16" font-family="HCLTech Roobert" font-weight="600"><tspan x="-18" y="0">40px</tspan></text>
+    <path id="Path_36600" data-name="Path 36600" d="M-9715,20454.064h40" transform="translate(21290.063 16785) rotate(90)" fill="none" stroke="#3c91ff" stroke-width="1"/>
+    <path id="Path_76792" data-name="Path 76792" d="M-9715,20454.064h24" transform="translate(21290.063 16865.5) rotate(90)" fill="none" stroke="#3c91ff" stroke-width="1"/>
+    <path id="Path_76793" data-name="Path 76793" d="M-9715,20454.064h40" transform="translate(21290.063 16981) rotate(90)" fill="none" stroke="#3c91ff" stroke-width="1"/>
+    <path id="Path_76794" data-name="Path 76794" d="M-9715,20454.064h56" transform="translate(21290.063 17057) rotate(90)" fill="none" stroke="#3c91ff" stroke-width="1"/>
+    <path id="Path_36598" data-name="Path 36598" d="M-9715,20454.064h39.5" transform="translate(10028.5 -13700.064)" fill="none" stroke="#3c91ff" stroke-width="1"/>
+    <path id="Path_36603" data-name="Path 36603" d="M-9715,20454.064h40" transform="translate(10488 -13700.064)" fill="none" stroke="#3c91ff" stroke-width="1"/>
+    <text id="Image_size:_500px_300px" data-name="Image size: 500px * 300px" transform="translate(467 6941)" fill="#489ef9" font-size="16" font-family="HCLTech Roobert" font-weight="600"><tspan x="0" y="0">Image size: 500px * 300px</tspan></text>
+    <text id="Max_Height:_650_px" data-name="Max Height:
+650 px" transform="translate(953 7056)" fill="#489ef9" font-size="16" font-family="HCLTech Roobert" font-weight="600"><tspan x="0" y="0">Max Height:</tspan><tspan x="0" y="20">650 px</tspan></text>
+    <path id="Path_36604" data-name="Path 36604" d="M-9715,20454.064h628.5" transform="translate(21362.064 16483.5) rotate(90)" fill="none" stroke="#3c91ff" stroke-width="1"/>
+  </g>
+</svg>

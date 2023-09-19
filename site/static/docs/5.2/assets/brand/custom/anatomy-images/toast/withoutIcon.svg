@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="551" height="138" viewBox="0 0 551 138">
+  <defs>
+    <filter id="Ellipse_3272" x="0" y="55" width="46" height="46" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_199303" data-name="Group 199303" transform="translate(-248 -1222)">
+    <g id="Group_186733" data-name="Group 186733">
+      <rect id="Rectangle_13367" data-name="Rectangle 13367" width="480" height="38" rx="5" transform="translate(271 1262)" fill="#e2d9fb"/>
+      <text id="A_simple_primary_alert_check_it_out_" data-name="A simple primary alert—check it out!" transform="translate(287 1272)" fill="#341688" font-size="14" font-family="HCLTech Roobert" font-weight="500"><tspan x="0" y="14">A simple primary alert—check it out!</tspan></text>
+      <rect id="Rectangle_13870" data-name="Rectangle 13870" width="12" height="495" transform="translate(762 1262) rotate(90)" fill="#0157dc" opacity="0.07" style="mix-blend-mode: multiply;isolation: isolate"/>
+      <rect id="Rectangle_19627" data-name="Rectangle 19627" width="12" height="495" transform="translate(762 1288) rotate(90)" fill="#0157dc" opacity="0.07" style="mix-blend-mode: multiply;isolation: isolate"/>
+      <rect id="Rectangle_19628" data-name="Rectangle 19628" width="16" height="59" transform="translate(271 1250)" fill="#0157dc" opacity="0.07" style="mix-blend-mode: multiply;isolation: isolate"/>
+      <rect id="Rectangle_19629" data-name="Rectangle 19629" width="16" height="59" transform="translate(735.5 1250)" fill="#0157dc" opacity="0.07" style="mix-blend-mode: multiply;isolation: isolate"/>
+      <text id="Label:_14px" data-name="Label: 14px" transform="translate(440 1325)" fill="#489ef9" font-size="16" font-family="HCLTech Roobert" font-weight="600"><tspan x="0" y="0">Label: 14px</tspan></text>
+      <g id="Group_37564" data-name="Group 37564" transform="translate(518 1280)">
+        <path id="Path_27007" data-name="Path 27007" d="M-9876.205,20538l-.033-26.963H-9890" transform="translate(9891.205 -20509)" fill="none" stroke="#2653ae" stroke-linejoin="round" stroke-width="1"/>
+        <path id="Path_27008" data-name="Path 27008" d="M0,4V0" transform="translate(17 29) rotate(90)" fill="none" stroke="#2653ae" stroke-width="0.5"/>
+        <circle id="Ellipse_3166" data-name="Ellipse 3166" cx="2" cy="2" r="2" fill="#2653ae"/>
+      </g>
+      <g id="Group_37565" data-name="Group 37565" transform="translate(735 1280)">
+        <path id="Path_27007-2" data-name="Path 27007" d="M-9876.205,20538l-.033-26.963H-9890" transform="translate(9891.205 -20509)" fill="none" stroke="#2653ae" stroke-linejoin="round" stroke-width="1"/>
+        <path id="Path_27008-2" data-name="Path 27008" d="M0,4V0" transform="translate(17 29) rotate(90)" fill="none" stroke="#2653ae" stroke-width="0.5"/>
+        <circle id="Ellipse_3166-2" data-name="Ellipse 3166" cx="2" cy="2" r="2" fill="#2653ae"/>
+      </g>
+      <text id="Size:_14px_14px_Gesture_Area:_24px_24px_" data-name="Size: 14px*14px
+Gesture Area: (24px*24px)" transform="translate(768 1325)" fill="#489ef9" font-size="16" font-family="HCLTech Roobert" font-weight="600"><tspan x="-111" y="0">Size: 14px*14px</tspan><tspan x="-192" y="31">Gesture Area: (24px*24px)</tspan></text>
+      <text id="Border_radius:_5px" data-name="Border radius: 5px" transform="translate(323 1338)" fill="#489ef9" font-size="16" font-family="HCLTech Roobert" font-weight="600"><tspan x="-65" y="0">Border radius: 5px</tspan></text>
+      <g transform="matrix(1, 0, 0, 1, 248, 1222)" filter="url(#Ellipse_3272)">
+        <ellipse id="Ellipse_3272-2" data-name="Ellipse 3272" cx="14" cy="14" rx="14" ry="14" transform="translate(9 64)" fill="#fff" opacity="0.406"/>
+      </g>
+      <text id="Min_Width:_480px" data-name="Min Width: 480px" transform="translate(496 1249)" fill="#489ef9" font-size="16" font-family="HCLTech Roobert" font-weight="600"><tspan x="-65" y="0">Min Width: 480px</tspan></text>
+      <path id="Path_36607" data-name="Path 36607" d="M-9715,20454.064h527.5" transform="translate(-8916.999 21711.064) rotate(180)" fill="none" stroke="#3c91ff" stroke-width="1"/>
+      <text id="_16px" data-name="16px" transform="translate(279 1242)" fill="#489ef9" font-size="16" font-family="HCLTech Roobert" font-weight="600"><tspan x="-16" y="0">16px</tspan></text>
+      <text id="_16px-2" data-name="16px" transform="translate(752 1238)" fill="#489ef9" font-size="16" font-family="HCLTech Roobert" font-weight="600"><tspan x="-16" y="0">16px</tspan></text>
+      <text id="_12px" data-name="12px" transform="translate(782 1273)" fill="#489ef9" font-size="16" font-family="HCLTech Roobert" font-weight="600"><tspan x="-16" y="0">12px</tspan></text>
+      <text id="_12px-2" data-name="12px" transform="translate(782 1301)" fill="#489ef9" font-size="16" font-family="HCLTech Roobert" font-weight="600"><tspan x="-16" y="0">12px</tspan></text>
+      <path id="Path_36609" data-name="Path 36609" d="M-9715,20454.064h16" transform="translate(9986 -19206.063)" fill="none" stroke="#3c91ff" stroke-width="1"/>
+      <path id="Path_36608" data-name="Path 36608" d="M-9715,20454.064h16" transform="translate(10450.5 -19208.063)" fill="none" stroke="#3c91ff" stroke-width="1"/>
+      <path id="Path_139250" data-name="Path 139250" d="M-9715,20454.064h10" transform="translate(21216.064 10977) rotate(90)" fill="none" stroke="#3c91ff" stroke-width="1"/>
+      <path id="Path_139251" data-name="Path 139251" d="M-9715,20454.064h10" transform="translate(21216.064 11005) rotate(90)" fill="none" stroke="#3c91ff" stroke-width="1"/>
+      <g id="Gesture_24_24" data-name="Gesture 24*24" transform="translate(716 1269)">
+        <rect id="Rectangle_22371" data-name="Rectangle 22371" width="24" height="24" rx="2" fill="#eff0f7" opacity="0"/>
+        <path id="Union_201" data-name="Union 201" d="M.143,13.857a.488.488,0,0,1,0-.691L6.309,7,.143.834A.488.488,0,0,1,.833.143L7,6.309,13.166.143a.488.488,0,1,1,.691.691L7.691,7l6.166,6.166a.488.488,0,0,1-.691.691L7,7.69.834,13.857a.488.488,0,0,1-.691,0Z" transform="translate(5 5)" fill="#14142b"/>
+      </g>
+    </g>
+  </g>
+</svg>

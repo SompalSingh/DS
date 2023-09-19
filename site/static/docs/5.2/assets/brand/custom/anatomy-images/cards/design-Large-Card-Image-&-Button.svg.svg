@@ -1,0 +1,21 @@
+<svg id="Large-card-side-image" xmlns="http://www.w3.org/2000/svg" width="811" height="374" viewBox="0 0 811 374">
+  <g id="Group_166207" data-name="Group 166207" transform="translate(-176 -2263)">
+    <g id="Group_39640" data-name="Group 39640" transform="translate(534 2287)">
+      <g id="Rectangle_19094" data-name="Rectangle 19094" transform="translate(-8 -24)" fill="#fff" stroke="#ccc" stroke-width="1">
+        <path d="M0,0H449a12,12,0,0,1,12,12V362a12,12,0,0,1-12,12H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" stroke="none"/>
+        <path d="M1,.5H449A11.5,11.5,0,0,1,460.5,12V362A11.5,11.5,0,0,1,449,373.5H1a.5.5,0,0,1-.5-.5V1A.5.5,0,0,1,1,.5Z" fill="none"/>
+      </g>
+      <g id="Group_39639" data-name="Group 39639" transform="translate(0 8)">
+        <g id="Group_166195" data-name="Group 166195" transform="translate(24 89)">
+          <g id="arrow_right-normal" data-name="arrow right-normal" transform="translate(0 190)">
+            <path id="Path_23052" data-name="Path 23052" d="M14.853,7.854a.5.5,0,0,1-.707,0L8,1.707V18.5a.5.5,0,0,1-1,0V1.707L.853,7.854a.5.5,0,0,1-.707-.707l7-7A.5.5,0,0,1,7.307.039a.495.495,0,0,1,.385,0,.5.5,0,0,1,.162.108l7,7A.5.5,0,0,1,14.853,7.854Z" transform="translate(19.001) rotate(90)" fill="#5f1ebe" stroke="#5f1ebe" stroke-width="1"/>
+          </g>
+        </g>
+        <text id="Lorem_ipsum_dolor_sit_amet_consetetur_sadipscing_elitr_sed_diam_nonumy_eirmod_tempor_invidunt_ut_labore_et_dolore_magna_aliquyam_erat_sed_diam_voluptua._At_vero_eos_et_accusam_" data-name="Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam…" transform="translate(24 147)" font-size="16" font-family="HCLTechRoobert-Regular, HCLTech Roobert"><tspan x="0" y="16">Lorem ipsum dolor sit amet, consetetur sadipscing </tspan><tspan x="0" y="40">elitr, sed diam nonumy eirmod tempor invidunt ut </tspan><tspan x="0" y="64">labore et dolore magna aliquyam erat, sed diam </tspan><tspan x="0" y="88">voluptua. At vero eos et accusam…</tspan></text>
+        <text id="Lorem_ipsum" data-name="Lorem ipsum" transform="translate(24 98)" font-size="20" font-family="HCLTechRoobert-SemiBold, HCLTech Roobert" font-weight="600"><tspan x="0" y="20">Lorem ipsum</tspan></text>
+        <text id="Card_Tittle" data-name="Card Tittle" transform="translate(24 16)" font-size="40" font-family="HCLTechRoobert-Bold, HCLTech Roobert" font-weight="700"><tspan x="0" y="40">Card Tittle</tspan></text>
+      </g>
+    </g>
+    <path id="Rectangle_20077" data-name="Rectangle 20077" d="M12,0H350a0,0,0,0,1,0,0V374a0,0,0,0,1,0,0H12A12,12,0,0,1,0,362V12A12,12,0,0,1,12,0Z" transform="translate(176 2263)" fill="#b9c3d0"/>
+  </g>
+</svg>

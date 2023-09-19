@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA;IACI,mBAAmB;AACvB;;AAEA;IACI,iBAAiB;AACrB","file":"style.rtl.css","sourcesContent":[".navigation{\n    background: #5196F7;\n}\n\n.bd-search{\n    position: inherit;\n}"]}

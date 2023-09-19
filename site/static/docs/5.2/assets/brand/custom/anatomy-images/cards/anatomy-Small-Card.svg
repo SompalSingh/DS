@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="547" height="407" viewBox="0 0 547 407">
+  <defs>
+    <filter id="Ellipse_3180" x="0" y="303" width="46" height="46" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_166211" data-name="Group 166211" transform="translate(-295 -926)">
+    <g id="Small-card" transform="translate(313 974)">
+      <g id="Group_39689" data-name="Group 39689">
+        <g id="Group_39690" data-name="Group 39690">
+          <g id="Rectangle_18973" data-name="Rectangle 18973" fill="#fff" stroke="#ccc" stroke-width="1">
+            <rect width="324" height="275" rx="8" stroke="none"/>
+            <rect x="0.5" y="0.5" width="323" height="274" rx="7.5" fill="none"/>
+          </g>
+          <g id="Group_39638" data-name="Group 39638" transform="translate(8 24)">
+            <g id="Group_39688" data-name="Group 39688" transform="translate(0 -2)">
+              <g id="arrow_right-normal" data-name="arrow right-normal" transform="translate(24 190)">
+                <path id="Path_23052" data-name="Path 23052" d="M14.853,7.854a.5.5,0,0,1-.707,0L8,1.707V18.5a.5.5,0,0,1-1,0V1.707L.853,7.854a.5.5,0,0,1-.707-.707l7-7A.5.5,0,0,1,7.307.039a.495.495,0,0,1,.385,0,.5.5,0,0,1,.162.108l7,7A.5.5,0,0,1,14.853,7.854Z" transform="translate(19.001 0) rotate(90)" stroke="#000" stroke-width="1"/>
+              </g>
+            </g>
+            <text id="dolor_sit_amet_consetetur_sadipscing_elitr_sed_diam_nonumy_" data-name="dolor sit amet, consetetur sadipscing elitr, sed diam nonumy " transform="translate(24 125)" font-size="14" font-family="HCLTechRoobert-Regular, HCLTech Roobert"><tspan x="0" y="14">dolor sit amet, consetetur sadipscing </tspan><tspan x="0" y="35">elitr, sed diam nonumy </tspan></text>
+            <text id="Lorem_ipsum_" data-name="Lorem ipsum " transform="translate(24 91)" font-size="14" font-family="HCLTechRoobert-SemiBold, HCLTech Roobert" font-weight="600"><tspan x="0" y="14">Lorem ipsum </tspan></text>
+            <text id="Card_Tittle" data-name="Card Tittle" transform="translate(24 24)" font-size="28" font-family="HCLTechRoobert-Bold, HCLTech Roobert" font-weight="700"><tspan x="0" y="28">Card Tittle</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <rect id="Rectangle_20089" data-name="Rectangle 20089" width="32" height="319" transform="translate(345 1273) rotate(180)" fill="#0157dc" opacity="0.07" style="mix-blend-mode: multiply;isolation: isolate"/>
+    <rect id="Rectangle_20090" data-name="Rectangle 20090" width="32" height="319" transform="translate(637 1273) rotate(180)" fill="#0157dc" opacity="0.07" style="mix-blend-mode: multiply;isolation: isolate"/>
+    <text id="_32px" data-name="32px" transform="translate(329 942)" fill="#489ef9" font-size="16" font-family="HCLTech Roobert" font-weight="600"><tspan x="-17" y="0">32px</tspan></text>
+    <text id="_32px-2" data-name="32px" transform="translate(621 942)" fill="#489ef9" font-size="16" font-family="HCLTech Roobert" font-weight="600"><tspan x="-17" y="0">32px</tspan></text>
+    <text id="_48px" data-name="48px" transform="translate(701 1003.999)" fill="#489ef9" font-size="16" font-family="HCLTech Roobert" font-weight="600"><tspan x="-18" y="0">48px</tspan></text>
+    <text id="_48px-2" data-name="48px" transform="translate(701 1230.999)" fill="#489ef9" font-size="16" font-family="HCLTech Roobert" font-weight="600"><tspan x="-18" y="0">48px</tspan></text>
+    <path id="Path_58580" data-name="Path 58580" d="M-9715,20454.064h31.5" transform="translate(10028.5 -19504.063)" fill="none" stroke="#3c91ff" stroke-width="1"/>
+    <path id="Path_58581" data-name="Path 58581" d="M-9715,20454.064h31.5" transform="translate(10320.5 -19504.063)" fill="none" stroke="#3c91ff" stroke-width="1"/>
+    <path id="Path_58582" data-name="Path 58582" d="M-9715,20454.064h48" transform="translate(21126.314 10689) rotate(90)" fill="none" stroke="#3c91ff" stroke-width="1"/>
+    <path id="Path_58583" data-name="Path 58583" d="M-9715,20454.064h48" transform="translate(21126.314 10916) rotate(90)" fill="none" stroke="#3c91ff" stroke-width="1"/>
+    <rect id="Rectangle_20091" data-name="Rectangle 20091" width="48" height="363" transform="translate(667 1201) rotate(90)" fill="#0157dc" opacity="0.07" style="mix-blend-mode: multiply;isolation: isolate"/>
+    <rect id="Rectangle_20092" data-name="Rectangle 20092" width="48" height="363" transform="translate(667 974) rotate(90)" fill="#0157dc" opacity="0.07" style="mix-blend-mode: multiply;isolation: isolate"/>
+    <text id="Border_radius:_5px" data-name="Border radius: 5px" transform="translate(368 1329)" fill="#489ef9" font-size="16" font-family="HCLTech Roobert" font-weight="600"><tspan x="-65" y="0">Border radius: 5px</tspan></text>
+    <g transform="matrix(1, 0, 0, 1, 295, 926)" filter="url(#Ellipse_3180)">
+      <ellipse id="Ellipse_3180-2" data-name="Ellipse 3180" cx="14" cy="14" rx="14" ry="14" transform="translate(9 312)" fill="#fff" opacity="0.406"/>
+    </g>
+    <text id="Text_Body:_14px" data-name="Text Body: 14px" transform="translate(730 1289)" fill="#489ef9" font-size="16" font-family="HCLTech Roobert" font-weight="600"><tspan x="0" y="0">Text Body: 14px</tspan></text>
+    <g id="Group_36981" data-name="Group 36981" transform="translate(589.879 1141.143)">
+      <path id="Path_26889" data-name="Path 26889" d="M-9674.965,20640.855l-.238-129.82H-9890" transform="translate(9893.09 -20509)" fill="none" stroke="#2653ae" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Path_26890" data-name="Path 26890" d="M0,4V0" transform="translate(220.121 131.857) rotate(90)" fill="none" stroke="#2653ae" stroke-width="0.5"/>
+      <circle id="Ellipse_3153" data-name="Ellipse 3153" cx="2" cy="2" r="2" transform="translate(0.121 -0.143)" fill="#2653ae"/>
+    </g>
+  </g>
+</svg>

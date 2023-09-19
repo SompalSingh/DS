@@ -1,0 +1,215 @@
+$color_6: #2096F3;
+$background-color_1: $ds-neutral-100;
+$background-color_2: #FCFCFC;
+
+/*accordion style 1 css*/
+
+.ds-accordion {
+	.accordion-body {
+		.accordion-body {
+			padding: 16px 24px;
+		}
+		p {
+			margin-top: 0;
+			line-height: 20px;
+			font-size: 14px;
+			color: $ds-neutral-600;
+			font-family: $font-400;
+			margin-bottom: 0;
+		}
+	}
+	.accordion-button {
+		padding: 16px 24px;
+		color: $ds-neutral-800;
+		font-size: 16px;
+		font-family: $font-400;
+		position: relative;
+		&:not(.collapsed), &:hover {
+			color: $ds-neutral-800;
+			background-color: $background-color_1;
+			font-family: $font-500;
+			&::after {
+				color: $theme-black-color;
+			}
+		}
+		&::after {
+			font-family: 'icomoon';
+			content: '\e90b';
+			background-image: none !important;
+			color: $ds-neutral-800;
+			width: 18px;
+			height: 18px;
+			font-size: 18px;
+			font-weight: bold;
+		}
+	}
+}
+/*accordion style 2 css*/
+
+.ds-accordion.accordion-flush {
+	.accordion-item {
+		background-color: $background-color_2;
+	}
+	.accordion-body {
+		padding: 16px 24px;
+		p {
+			margin-top: 0;
+			line-height: 20px;
+			font-size: 14px;
+			color: $ds-neutral-600;
+			font-family: $font-400;
+			margin-bottom: 0;
+		}
+	}
+	.accordion-button {
+		padding: 16px 24px;
+		color: $ds-neutral-800;
+		font-size: 16px;
+		font-family: $font-400;
+		position: relative;
+		background-color: $background-color_2;
+		&:not(.collapsed), &:hover {
+			font-family: $font-500;
+			color: $theme-black-color;
+			background-color: $background-color_1;
+			box-shadow: none;
+			&::after {
+				color: $theme-black-color;
+			}
+		}
+		&::after {
+			font-family: 'icomoon';
+			content: '\e90b';
+			background-image: none !important;
+			color: $ds-neutral-800;
+			width: 18px;
+			height: 18px;
+			font-size: 18px;
+			font-weight: bold;
+		}
+	}
+}
+/*accordion style 3 css*/
+
+.ds-accordion.withIcon {
+	.accordion-body {
+		
+		p {
+			margin-top: 0;
+			line-height: 20px;
+			font-size: 14px;
+			color: $ds-neutral-600;
+			font-family: $font-400;
+			margin-bottom: 0;
+		}
+	}
+	.accordion-button {
+		
+		color: $ds-neutral-800;
+		font-size: 16px;
+		font-family: $font-400;
+		position: relative;
+		&:not(.collapsed) {
+			background-color: $background-color_1;
+			color: $ds-purple-700;
+			font-family: $font-500;
+			&::after {
+				transform: rotate(0deg);
+				color: $ds-purple-700;
+			}
+			+ .action-icon a span{
+				color: $ds-purple-700;
+			}
+		}
+		&::after {
+			font-family: 'icomoon';
+			content: '\e90b';
+			background-image: none !important;
+			color: $dark-grey;
+			width: 18px;
+			height: 18px;
+			font-size: 18px;
+			font-weight: bold;
+		}
+		a {
+			color: $color_6;
+			text-decoration: none;
+			font-size: 20px;
+		}
+	}
+}
+/*accordion style 4 css*/
+.ds-accordion.withActionIcon {
+	.accordion-body {
+		padding: 16px 24px 16px 40px;
+		p {
+			margin-top: 0;
+			line-height: 20px;
+			font-size: 14px;
+			color: $ds-neutral-600;
+			font-family: $font-400;
+			margin-bottom: 0;
+		}
+	}
+	.accordion-button {
+		padding: 16px 24px;
+		color: $ds-neutral-800;
+		font-size: 16px;
+		font-family: $font-400;
+		position: relative;
+		padding-left: 40px;
+		&:not(.collapsed) {
+			background-color: $background-color_1;
+			color: $ds-neutral-800;
+			font-family: $font-500;
+			&::after {
+				transform: rotate(0deg);
+				color: $ds-neutral-800;
+			}
+			+ .action-icon a span{
+				color: $ds-purple-700;
+			}
+		}
+		&::after {
+			transform: rotate(-90deg);
+			font-family: 'icomoon';
+			content: '\e90b';
+			background-image: none !important;
+			color: $ds-neutral-800;
+			font-weight: bold;
+			width: 18px;
+			height: 18px;
+			font-size: 18px;
+			position: absolute;
+			left: 10px;
+			top: 16px;
+		}
+		a {
+			color: $color_6;
+			text-decoration: none;
+			font-size: 20px;
+		}
+	}
+	.accordion-header {
+		position: relative;
+		.action-icon {
+			position: absolute;
+			right: 15px;
+			top: 5px;
+			z-index: 3;
+			a {
+				color: $ds-neutral-800;
+				font-size: 18px;
+				text-decoration: none;
+				display: inline-block;
+				padding: 0 0;
+				width: auto;
+				margin-left: 24px;
+    			text-align: center;
+				&:hover {
+					color: $ds-purple-700;
+				}
+			}
+		}
+	}
+}

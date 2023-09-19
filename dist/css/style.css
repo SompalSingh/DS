@@ -1,0 +1,907 @@
+body{
+    font-family: "HCLTechRoober", sans-serif !important;
+    -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+
+
+  @font-face {
+    font-family: 'HCLTechRoober';
+    src: url('../fonts/HCLTechRoobertVF.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+  }
+  
+:root {
+    --bd-violet: #5196F7;
+    --bs-nav-link-color:#3399FF;
+    --Mcolor:#222222;
+    --Scolor:#222;
+  }
+.navigation{
+    padding: 5px 0px;
+    box-shadow: none;
+    background: transparent linear-gradient(90deg, #5F1EBE 0%, #2874F0 67%, #0F5FDC 100%) 0% 0% no-repeat;
+}
+.navbar-expand-lg .navbar-nav .nav-link{
+    font-size: .95rem;
+    color:#fff;
+}
+.bd-toc nav li {
+    margin-bottom: 1rem;
+}
+.bd-navbar .offcanvas-lg{
+    background-color: var(--bd-violet)
+}
+.bd-search{
+    position: inherit;
+}
+.bd-masthead{
+    background: #fff;
+}
+
+.landing-head{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.landing-head h1{
+    font-size: 3rem;
+    color: var(--Mcolor);
+    font-family: "HCLTech Roobert Bold";
+}
+.landing-head p{
+    color:var(--Scolor)
+}
+.bul-blk{
+    /* background-color: #FAFAFA; */
+}
+.bld-blk{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.bld-blk h1{
+    font-size: 2rem;
+    color: var(--Mcolor);
+    font-family: "HCLTech Roobert SemiBold";
+}
+.bld-blk p{
+    font-size: 1rem;
+    color:var(--Scolor)
+}
+.exp-btn{
+    color: #5F1EBE;
+    padding-left: 0;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    width: max-content;
+}
+.exp-btn:hover{
+    color: #4C189E;
+}
+.exp-btn:hover i{
+    margin-left: 8px;
+    transition: all 0.3s ease 0s;
+    color: #4C189E;
+}
+.view-all-link-p{
+    color: #5F1EBE;
+    padding-left: 0;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    width: max-content;
+}
+.view-all-link-p:hover{
+    color: #4C189E;
+}
+.view-all-link-p:hover i{
+    margin-left: 8px;
+    transition: all 0.3s ease 0s;
+    color: #4C189E;
+}
+.view-all-link-w{
+    color: #fff;
+    padding-left: 0;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    width: max-content;
+}
+.view-all-link-w:hover{
+    color: #fff;
+}
+.view-all-link-w:hover i{
+    margin-left: 8px;
+    transition: all 0.3s ease 0s;
+    color: #fff;
+}
+.bd-navbar .navbar-brand {
+    /* height: 35px; */
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    color: #fff;
+    font-size: 1.5rem;
+}
+.bd-navbar .navbar-brand:hover {
+    transform: none;
+}
+.bd-content > :target{
+    padding-top: 10rem;
+}
+
+.nav-item:hover .nav-link, .nav-item>.nav-link.active {
+    background-color: rgba(255, 255, 255, 0.15);
+    border-radius: 5px;
+}
+.cus-card{
+    padding: 1.5rem;
+    background: #FFFFFF;
+    box-shadow: 0px 1px 3px #2222221A;
+    border: .5px solid #E5E7EB;
+    border-radius: 4px;
+    transition: all 0.3s ease 0s;
+}
+.cus-card .bb-icon-arrow.rarrow{
+    transition: all 0.3s ease 0s;
+}
+.cus-card:hover{
+    box-shadow: 0px 0px 25px 10px #2222221A;
+    transition: all 0.3s ease 0s;
+}
+.cus-card .bb-icon-arrow.rarrow{
+    color: #5F1EBE;
+    font-size: 1rem;
+}
+.cus-card:hover .bb-icon-arrow.rarrow{
+    margin-left: 10px;
+    
+}
+.crd-action{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.btn-action{
+    display: flex;
+    align-items: center;
+    min-height: 50px;
+}
+.btn-action span{
+    display: none;
+    color: #5F1EBE;
+}
+.cus-card:hover span{
+    display: block;
+}
+.bicon{
+    padding: 0.6875rem 0;
+    display: inline-block;
+    color: #000;
+    font-size: 2rem;
+    border-radius: 4px;
+}
+.rarrow{
+    font-size: 1.3rem;
+    color: var(--Scolor);
+}
+.bcolour{
+    background: transparent;
+}
+.btypo{
+    background: transparent;
+}
+.bicons{
+    background-color: transparent;
+}
+.bform{
+    background-color: transparent;
+}
+.bui{
+    background-color: transparent;
+}
+.btemp{
+    background-color: transparent;
+}
+.bguide{
+    background-color: transparent;
+}
+.cus-card .card-body{
+    padding: 1rem 0 0 0;
+}
+.cus-card .card-body h5{
+    font-size: 1.5rem;
+    font-family: "HCLTech Roobert Medium";
+    color: #000;
+}
+.cus-card .card-body p{
+    font-size: .9rem;
+    color: var(--Scolor);
+}
+.bottom-banner{ 
+    /* background: linear-gradient(79deg, #FFFDFA 0%, #FFFAF5 17%, #FFF6FF 41%, #FFF8FF 51%, #FFF8FF 72%, #F8FCFF 100%) 0% 0%; */
+    background:transparent linear-gradient(90deg, #5F1EBE 0%, #2874F0 67%, #0F5FDC 100%) 0% 0% no-repeat;
+    margin-bottom: 0;
+    padding: 2.5rem 4rem 1rem;
+}
+.gude-doc{
+    display: flex;
+    align-items: flex-start;
+    padding-left: 0;
+}
+.gude-doc .icon{color: #fff;}
+.guidelines-list{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.gude-doc {}
+.guidelines-list h5{
+    font-size: 1.5rem;
+    color: #fff;
+    font-family: "HCLTech Roobert Medium";
+}
+.guidelines-list p{
+    font-size: .9rem;
+    color:#fff;
+    margin-bottom: 0;
+}
+
+.bd-example p{
+    margin-top: 1rem;
+    margin-bottom: 0.3rem;
+}
+
+.footer {
+    background:linear-gradient(to bottom,#14142b 0,#05041e 100%)!important;
+    /* box-shadow: 0 0 2px #e9e9e9; */
+    /* border-top:1px solid #E5E7EB; */
+    padding: 10px 15px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.footer p{
+    margin: 0;
+    font-size: 12px;
+    color: #fff;
+}
+
+/* ============= Prograss Bar ============= */
+.basic-bar{
+    background-color: #3C91FF;
+}
+.multiplebar-1{
+    background-color: #3C91FF;
+}
+.multiplebar-2{
+    background-color: #4DAF51;
+}
+.multiplebar-3{
+    background-color: red;
+}
+
+/*# sourceMappingURL=style.css.map */
+
+/* black book icons */
+@font-face {
+    font-family: 'black-book';
+    src:  url('../fonts/black-book.eot?nqquxd');
+    src:  url('../fonts/black-book.eot?nqquxd#iefix') format('embedded-opentype'),
+      url('../fonts/black-book.ttf?nqquxd') format('truetype'),
+      url('../fonts/black-book.woff?nqquxd') format('woff'),
+      url('../fonts/black-book.svg?nqquxd#black-book') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+  }
+  
+  [class^="bb-icon-"], [class*=" bb-icon-"] {
+    font-family: 'black-book' !important;
+    speak: never;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+  
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  .bb-icon-arrow:before {
+    content: "\e900";
+  }
+  .bb-icon-color:before {
+    content: "\e901";
+  }
+  .bb-icon-form:before {
+    content: "\e902";
+  }
+  .bb-icon-guide:before {
+    content: "\e903";
+  }
+  .bb-icon-icons:before {
+    content: "\e904";
+  }
+  .bb-icon-template:before {
+    content: "\e905";
+  }
+  .bb-icon-typo:before {
+    content: "\e906";
+  }
+  .bb-icon-ui:before {
+    content: "\e907";
+  }
+  .bb-icon-c-accordion:before {
+    content: "\e908";
+  }
+  .bb-icon-c-alert:before {
+    content: "\e909";
+  }
+  .bb-icon-c-buttons:before {
+    content: "\e90a";
+  }
+  .bb-icon-c-cards:before {
+    content: "\e90b";
+  }
+  .bb-icon-c-carousel:before {
+    content: "\e90c";
+  }
+  .bb-icon-c-forms:before {
+    content: "\e90d";
+  }
+  .bb-icon-c-listgroup:before {
+    content: "\e90e";
+  }
+  .bb-icon-c-modal:before {
+    content: "\e90f";
+  }
+  .bb-icon-c-navigation:before {
+    content: "\e910";
+  }
+  .bb-icon-c-pagination:before {
+    content: "\e911";
+  }
+  .bb-icon-c-progress:before {
+    content: "\e912";
+  }
+  .bb-icon-c-sidepanel:before {
+    content: "\e913";
+  }
+  .bb-icon-c-slider:before {
+    content: "\e914";
+  }
+  .bb-icon-c-table:before {
+    content: "\e915";
+  }
+  .bb-icon-c-tabs:before {
+    content: "\e916";
+  }
+  .bb-icon-c-toast:before {
+    content: "\e917";
+  }
+/*ds code*/
+.bd-content > .primary-tab{
+    position: sticky;
+    top: 50px;
+    z-index: 100;
+    padding-top: 28px;
+    margin-bottom: 30px !important;
+    border-color: #ccc;
+}
+.bd-toc hr{
+    color: #ccc;
+    opacity: 1;
+}
+/* .bd-intro {
+    grid-area: intro;
+    width: 1040px;
+    position: absolute;
+    top: 68px;
+    background: #f1f1f1;
+    min-height: 221px;
+    padding-right: 210px;
+}
+.bd-content {
+    margin-top: -40px;
+}
+@media (min-width: 992px){
+.bd-main {
+    padding-top: 230px;
+}} */
+.bd-content > .primary-tab.nav-tabs .nav-link.active, .primary-tab.nav-tabs .nav-item.show .nav-link{
+    color: #000;
+    border-bottom: 3px solid #000 !important;
+    font-size: 18px;
+    font-weight: bold;
+    font-family: 'HCLTech Roobert SemiBold';
+}
+.bd-content > .primary-tab.nav-tabs .nav-link{
+    padding-right: 0;
+    padding-left: 0;
+    margin-right: 40px;
+    color: #000;
+    font-size: 18px;
+}
+.bd-content > h2{
+    color: #0F5FDC;
+    font-size: 24px;
+    font-family: "HCLTech Roobert SemiBold";
+    margin-top: 48px;
+    margin-bottom: 16px;
+}
+.progress{
+    height: auto;
+}
+.do-dont ul{
+
+}
+.do-dont ul li{
+    margin-bottom: 0.25rem;
+    list-style: none;
+    margin-bottom: 16px;
+    position: relative;
+}
+.do-dont ul li::after{
+    content: '';
+    position: absolute;
+    left: -22px;
+    top: 7px;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    border: 2px solid #000;
+}
+.do-don ul li:last-child{
+    margin-bottom: 0;
+}
+.bd-content > ul li{
+    margin-bottom: 0.25rem;
+    list-style: none;
+    margin-bottom: 16px;
+    position: relative;
+}
+.bd-content > ul li::after{
+    content: '';
+    position: absolute;
+    left: -22px;
+    top: 7px;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    border: 2px solid #000;
+}
+.bd-content > ul li:last-child{
+    margin-bottom: 0;
+}
+.bd-content > ul.nav li{
+    margin-bottom: 0
+    
+}
+.bd-content > ul.nav li::after{
+    display: none;
+}
+.bd-code-snippet{
+    margin-bottom: 0;
+    border-radius: 0;
+}
+.bd-toc strong{
+    font-size: 16px;
+    color: #000;
+    font-family: 'HCLTech Roobert SemiBold';
+}
+.sp-title{
+    display: block;
+    font-weight: bold;
+    margin-bottom: 8px;
+}
+
+.grey-box{
+    padding: 24px;
+    background-color: #F8F8F9;
+}
+.mt-8{
+    margin-top: 8px;
+}
+.mt-16{
+    margin-top: 16px;
+}
+.mt-24{
+    margin-top: 24px;
+}
+.mb-8{
+    margin-bottom: 8px;
+}
+.mb-16{
+    margin-bottom: 16px;
+}
+.mb-24{
+    margin-bottom: 24px;
+}
+@media (min-width: 320px){
+.bd-title {
+    font-size: 28px;
+    font-weight: bold;
+    font-family: "HCLTech Roobert Bold", sans-serif;
+    color: #222;
+    margin-bottom: 24px !important;
+}
+.bd-lead {
+    font-size: 16px;
+    line-height: 24px;
+    font-family: "HCLTechRoober", sans-serif;
+    color: #222;
+}
+}
+@media (min-width: 992px){
+    .navbar-expand-lg .navbar-toggler {
+        display: none !important;
+    }
+}
+
+@media (min-width: 992px){
+    .bd-main {
+        border-left: 1px solid #CCCCCC;
+    }
+    .bd-navbar .navbar-toggler, .bd-navbar .nav-link {
+        padding-right: 1rem !important;
+        padding-left: 1rem !important;}
+    .bd-content.ps-lg-2{
+        padding-left: 1.5rem !important;
+    }
+}
+.bd-navbar .navbar-brand svg{
+    width: 130px;
+}
+/*ds code*/
+
+
+
+.sub-heading{
+    padding-bottom: 24px;
+    padding-top: 24px;
+    font-family: "HCLTech Roobert SemiBold";
+    font-size: 18px;
+}
+.grey-box > h3{
+    padding: 24px;
+    padding-bottom: 0;
+    font-family: "HCLTech Roobert SemiBold";
+    font-size: 18px;
+    margin: 0;
+    border-radius: 0 ;
+    border: 1px solid #dee2e6;
+    border-bottom: 0;
+}
+.grey-box > h3 + .bd-code-snippet{
+    border-top: 0;
+    border-radius:0 ;
+    border-bottom: 0;
+}
+.bd-layout{
+    gap: 0;
+    margin: 0 auto !important;
+}
+.bd-links-link{
+    padding-top: 0;
+    padding-bottom: 0;
+    margin-top: 16px;
+    line-height: normal;
+    font-family: 'HCLTech Roobert Regular';
+}
+.bd-toc nav a{
+  font-family: 'HCLTech Roobert Medium';
+}
+.bd-links-link:hover, .bd-links-link:focus, .bd-links-link.active {
+    color: rgba(0, 0, 0, 0.85);
+    background-color: transparent;
+    font-family: 'HCLTech Roobert SemiBold';
+}
+.bd-lead{
+    margin-bottom: 0;
+}
+.do .box{
+    background-color: #F8F8F9;
+    width: 300px;
+    padding: 53px;
+    float: left;
+}
+.do .content{
+    margin-left: 316px;
+}
+.dont{
+    margin-top: 24px;
+}
+.dont .box{
+    background-color: #F8F8F9;
+    width: 300px;
+    padding: 53px;
+    float: right;
+}
+.dont .content{
+    margin-right: 315px;
+}
+.do-dont strong{
+    display: block;
+    margin-bottom: 16px;
+}
+@media (min-width: 992px){
+    .bd-toc {
+        height: calc(100vh - 9rem);
+    }
+    .bd-sidebar {
+        height: calc(100vh - 9rem);
+    }
+    .bd-content, .bd-intro {
+        border-right: 1px solid #CCCCCC;
+        padding-right: 1.5rem;
+    }
+    .bd-intro.ps-lg-2 {
+        padding-left: 1.5rem !important;
+        padding-top: 1.5rem !important;
+    }
+    .bd-intro.ps-lg-2 {
+        padding-left: 1.5rem !important;
+        padding-top: 2rem !important;
+    }
+}
+@media (max-width: 992px){
+    .bd-content > .primary-tab{
+    margin: 0 -23px;
+    width: calc(100% + 46px);
+}}
+
+
+#myBtn {
+    display: none; /* Hidden by default */
+    position: fixed; /* Fixed/sticky position */
+    bottom: 20px; /* Place the button at the bottom of the page */
+    right: 20px; /* Place the button 30px from the right */
+    z-index: 99; /* Make sure it does not overlap */
+    border: none; /* Remove borders */
+    outline: none; /* Remove outline */
+    background-color: #222; /* Set a background color */
+    color: white; /* Text color */
+    cursor: pointer; /* Add a mouse pointer on hover */
+    padding: 0; /* Some padding */
+    border-radius: 50%; /* Rounded corners */
+    font-size: 16px; /* Increase font size */
+    transform: rotate(-90deg);
+    height: 45px;
+    width: 45px;
+    padding-bottom: 2px;
+  }
+  #myBtn i{
+      color: #fff;
+      
+  }
+  #myBtn:hover {
+    background-color: #000; /* Add a dark-grey background on hover */
+  }
+
+
+.sub-heading{
+    text-align: left;
+}
+.max-w-100.mb-40{
+    margin-left: auto;
+margin-right: auto;
+}
+
+.bd-content > h2 .anchor-link{ display: none;}
+.modal.ds-modal .modal-dialog.modal-fullscreen .modal-content{
+    border-radius: 5px;
+}
+/* component page */
+.bb-component .landing-head{
+    padding: 64px 0 48px;
+}
+.bb-component .landing-head h1{
+    margin-top: 0px;
+}
+.bb-component .landing-head p{
+    font-size: 18px;
+    line-height: 34px;
+}
+.comp-box-sec{
+    background-color: #FAFAFA;
+    padding: 48px 0;
+}
+.comp-sec{
+    display: flex;
+    flex-wrap: wrap;
+    gap:64px;
+    padding: 0;
+}
+.comp-sec .box{
+    min-height: 238px;
+    padding: 32px 24px;
+    width: calc(25% - 48px);
+    background-color: #fff;
+    border: 0.5px solid #8D8D8D;
+    border-radius: 4px;
+    color: #000;
+    transition: all .2s ease 0s;
+}
+.comp-sec .box .head-icon{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 40px;
+}
+.comp-sec .box .head-icon .icon{
+    color: #000;
+    font-size: 32px;
+} 
+.comp-sec .box .head-icon .icon.bb-icon-c-listgroup{ font-size: 28px;}
+.comp-sec .box .head-icon .icon.bb-icon-c-pagination{font-size: 18px;}
+.comp-sec .box .head-icon .icon.bb-icon-c-progress{ position: relative;}
+.comp-sec .box .head-icon .icon.bb-icon-c-progress:before {
+    content: "\e912";
+    position: absolute;
+    top: -27px;
+    font-size: 60px;
+}
+.comp-sec .box strong{
+    margin-bottom: 16px;
+    font-family: "HCLTech Roobert Bold";
+    display: block;
+
+}
+.comp-sec .box p{
+    font-size: 14px;
+    line-height: normal;
+    margin-bottom: 0;
+}
+.comp-sec .box:hover{
+    color: #fff;
+    background: linear-gradient(304deg,#499dfd 3.03%,#2678f5 27.62%,#6628c5 76.39%,#5b0bb1 112.44%);
+    box-shadow: 0px  0px 25px 10px #0000004D;
+}
+.comp-sec .box .bb-icon-arrow.rarrow {
+    transition: all 0.3s ease 0s;
+}
+.comp-sec .box:hover .icon{
+    color: #fff;
+}
+.comp-sec .box .bb-icon-arrow.rarrow{
+    font-size: 1rem;
+}
+.comp-sec .box:hover .bb-icon-arrow.rarrow {
+    margin-left: 10px;
+    
+}
+.comp-sec .box:hover span{
+    display: block;
+    color: #fff;
+}
+.comp-sec .box .icons{ font-size: 20px;}
+/*icons page*/
+.icons-page .color-inner .color-sec{
+    gap: 0;
+    border:  0.5px solid #CCCCCC;
+}
+.icons-page .color-inner .color-sec .box {
+    min-height: 150px;
+    padding: 0;
+    width: calc(20% - 0px);
+    border-radius: 0;
+    border: 0.5px solid #CCCCCC;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.icons-page .color-inner .color-sec .box span{
+    font-size: 20px;
+}
+.icons-page .color-inner .color-sec .box p{
+    margin-top: 16px;
+    font-family:"HCLTechRoober", sans-serif; ;
+}
+.blue-heading{
+    color: #0F5FDC;
+    font-size: 24px;
+    font-family: "HCLTech Roobert SemiBold";
+    margin-bottom: 24px;
+}
+/* colors page */
+.bb-colors .landing-head{
+    padding: 64px 0 48px;
+}
+.bb-colors .landing-head h1{
+    margin-top: 0px;
+}
+.bb-colors .landing-head p{
+    font-size: 18px;
+    line-height: 34px;
+}
+.bb-colors .color-heading{
+    color: #0F5FDC;
+    font-size: 24px;
+    font-family: "HCLTech Roobert SemiBold";
+    margin-bottom: 24px;
+}
+.color-inner .color-sec{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 10px;
+    margin-bottom: 24px;
+}
+.color-inner .color-sec .box{
+    min-height: 150px;
+    padding: 0;
+    width: calc(20% - 32px);
+    border-radius: 4px;
+}
+.color-inner .color-sec .box p{
+    color: #475156;
+    font-size: 18px;
+    font-family: "HCLTech Roobert Medium";
+    margin-bottom: 7px;
+    line-height: normal;
+}
+.color-inner .color-sec .box .color-radius{
+    border-radius: 16px;
+    max-width: 96px;
+    height: 32px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 10px;
+    font-size: 14px;
+    font-family: "HCLTech Roobert SemiBold";
+}
+/* button.btn-edit{
+    display: none;
+} */
+.clearfix{
+    display: block;
+    width: 100%;
+    clear: both;
+}
+.color-inner .color-sec.row-five .box{
+    width: calc(18% - 32px);
+}
+.color-subheading{
+    font-size: 18px;
+    font-family: "HCLTech Roobert SemiBold";
+    margin-bottom: 16px;
+}
+
+@media (max-width:1024px) {
+    
+    .comp-sec {
+        gap: 24px;
+    }
+    .comp-sec .box{
+        width: calc(50% - 12px);
+    }
+}
+@media (max-width:767px) {
+    .bd-component .landing-head{
+        padding-top: 48px;
+    }
+    .landing-head h1{
+        font-size: 24px;
+    }
+    .landing-head p{
+        font-size: 16px !important;
+    }
+    .comp-sec {
+        gap: 24px;
+    }
+    .comp-sec .box{
+        width: calc(100% - 0px);
+        
+    }
+}

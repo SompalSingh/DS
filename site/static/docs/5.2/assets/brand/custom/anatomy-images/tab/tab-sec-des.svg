@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="788" height="228" viewBox="0 0 788 228">
+  <g id="Group_37777" data-name="Group 37777" transform="translate(-297 -1287)">
+    <rect id="Rectangle_19807" data-name="Rectangle 19807" width="788" height="180" rx="2" transform="translate(297 1335)" fill="#fff"/>
+    <text id="Tab_2" data-name="Tab 2" transform="translate(413.746 1316.6)" fill="#777" font-size="16" font-family="HCLTech Roobert" letter-spacing="0.02em"><tspan x="0" y="0">Tab 2</tspan></text>
+    <g id="Group_37765" data-name="Group 37765" transform="translate(1016 1301)">
+      <path id="Path_10019" data-name="Path 10019" d="M19.84,19.08l-4.375-4.374a7.681,7.681,0,1,0-.758.758l4.374,4.374a.547.547,0,0,0,.38.16.527.527,0,0,0,.379-.16A.54.54,0,0,0,19.84,19.08ZM3.074,9.673a6.6,6.6,0,1,1,6.6,6.6A6.6,6.6,0,0,1,3.074,9.673Z" transform="translate(-2 -1.998)" fill="#777"/>
+    </g>
+    <g id="Component_207_2" data-name="Component 207 – 2" transform="translate(297 1287)">
+      <path id="Rectangle_19044" data-name="Rectangle 19044" d="M2,0H82a2,2,0,0,1,2,2V48a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V2A2,2,0,0,1,2,0Z" fill="#fff"/>
+      <text id="Tab_1" data-name="Tab 1" transform="translate(24 28)" fill="#222" font-size="16" font-family="HCLTech Roobert" font-weight="600" letter-spacing="0.02em"><tspan x="0" y="0">Tab 1</tspan></text>
+    </g>
+    <path id="layer1" d="M2,1.5H20a.5.5,0,0,1,.391.811l-7.519,9.463V17.6a.5.5,0,0,1-.149.357l-2.441,2.4A.5.5,0,0,1,9.432,20V11.78L1.615,2.318A.5.5,0,0,1,2,1.5Zm16.964,1H3.062l7.256,8.782a.5.5,0,0,1,.115.318v7.207l1.441-1.417V11.6a.5.5,0,0,1,.109-.311Z" transform="translate(1048.5 1299.5)" fill="#777"/>
+  </g>
+</svg>

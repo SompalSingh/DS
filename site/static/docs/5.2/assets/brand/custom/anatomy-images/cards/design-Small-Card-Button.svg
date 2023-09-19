@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="342" height="328" viewBox="0 0 342 328">
+  <defs>
+    <filter id="Rectangle_18974" x="0" y="0" width="342" height="328" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Small-card-button" transform="translate(9 6)">
+    <g id="Group_39694" data-name="Group 39694" transform="translate(8)">
+      <g transform="matrix(1, 0, 0, 1, -17, -6)" filter="url(#Rectangle_18974)">
+        <rect id="Rectangle_18974-2" data-name="Rectangle 18974" width="324" height="310" rx="5" transform="translate(9 6)" fill="#fff"/>
+      </g>
+      <g id="Group_39693" data-name="Group 39693">
+        <g id="Group_39691" data-name="Group 39691" transform="translate(0 35)">
+          <g id="Small_Button" data-name="Small Button" transform="translate(128 193)">
+            <rect id="base" width="109" height="34" rx="4" fill="#5f1ebe"/>
+            <text id="Main_CTA" data-name="Main CTA" transform="translate(24 22)" fill="#fff" font-size="14" font-family="HCLTech Roobert" font-weight="600"><tspan x="0" y="0">Main CTA</tspan></text>
+          </g>
+          <g id="Small_Button-2" data-name="Small Button" transform="translate(24 193)">
+            <g id="Primary" fill="none" stroke="#6c7882" stroke-width="1">
+              <rect width="88" height="34" rx="4" stroke="none"/>
+              <rect x="0.5" y="0.5" width="87" height="33" rx="3.5" fill="none"/>
+            </g>
+            <text id="Optional" transform="translate(16 22)" font-size="14" font-family="HCLTech Roobert" font-weight="600"><tspan x="0" y="0">Optional</tspan></text>
+          </g>
+        </g>
+        <g id="Group_39692" data-name="Group 39692" transform="translate(0 24)">
+          <text id="Lorem_ipsum_dolor_sit_amet_consetetur_sadipscing_elitr_sed_diam_nonumy_eirmod_" data-name="Lorem ipsum
+
+dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod " transform="translate(24 83)" font-size="14" font-family="HCLTechRoobert-SemiBold, HCLTech Roobert" font-weight="600"><tspan x="0" y="14">Lorem ipsum</tspan><tspan font-family="HCLTechRoobert-Regular, HCLTech Roobert" font-weight="400"><tspan x="0" y="35"></tspan><tspan x="0" y="56">dolor sit amet, consetetur sadipscing </tspan><tspan x="0" y="77">elitr, sed diam nonumy eirmod </tspan></tspan></text>
+          <text id="Card_Tittle" data-name="Card Tittle" transform="translate(24 24)" font-size="28" font-family="HCLTechRoobert-Bold, HCLTech Roobert" font-weight="700"><tspan x="0" y="28">Card Tittle</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

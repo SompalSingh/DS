@@ -1,0 +1,66 @@
+/***************
+  Modals
+***************/
+.modal {
+  &.ds-modal{
+    .modal-dialog { margin-top: 65px;}
+    .modal-header{
+      border:0;
+      padding: 24px;
+      .modal-title{
+        color:$ds-neutral-800;
+        font-size:18px;
+        font-family: $font-500;
+      }
+    }
+    .modal-body{
+      padding: 24px;
+      font-size:14px;
+      color:$ds-neutral-600;
+      padding-top: 0;
+      font-family: $font-400;
+      line-height: normal;
+      p{
+        margin: 0;
+        font-family: $font-400;
+        line-height: normal;
+        color: $ds-neutral-600;
+      }
+    }
+    .modal-lg{
+      .modal-header{
+        .modal-title{
+          font-size:24px;
+          font-family: $font-500;
+        }
+      }
+      .modal-body{
+        font-size:16px;
+      }
+    }
+    .modal-xl {
+      .modal-header{
+        .modal-title{
+          font-size:28px;
+          font-family: $font-500;
+        }
+      }
+      .modal-body{
+        font-size:16px;
+      }
+    }
+    
+  }
+} 
+.modal-footer{
+  padding: 24px;
+}
+.modal-content{
+  min-height: 250px;
+  border-radius: 5px;
+}
+
+.modal-sm{max-width:450px;}
+.modal-lg{max-width:650px;}
+.modal-xl{max-width:800px}
+.modal-fullscreen{margin:0 auto;width:90vw;height: calc(100vh - 125px);}

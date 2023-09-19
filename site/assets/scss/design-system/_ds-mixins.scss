@@ -1,0 +1,164 @@
+/***************
+   Mixins
+***************/
+
+
+/* vendor-prefixes */
+
+@mixin vendor-prefixes($property, $value) {
+  #{$property}: $value;
+  -webkit-#{$property}: $value;
+  -moz-#{$property}: $value;
+  -ms-#{$property}: $value;
+}
+
+
+/* font-mixin */
+
+@mixin font-mixin ($name:false, $size: false, $colour: false, $weight: false, $lh: false, $ls: false) {
+  @if $name {
+    font-family: $name;
+  }
+  @if $size {
+    font-size: $size;
+  }
+  @if $colour {
+    color: $colour;
+  }
+  @if $weight {
+    font-weight: $weight;
+  }
+  @if $lh {
+    line-height: $lh;
+  }
+  @if $ls {
+    letter-spacing: $ls;
+  }
+}
+
+
+/* font-mixin */
+
+
+/* placeholder */
+
+@mixin placeholder {
+  &::-webkit-input-placeholder {
+    @content;
+  }
+  &:-moz-placeholder {
+    @content;
+  }
+  /* Firefox 18- */
+  &::-moz-placeholder {
+    @content;
+  }
+  /* Firefox 19+ */
+  &:-ms-input-placeholder {
+    @content;
+  }
+}
+
+
+
+
+
+/* Margin MIXIN
+============================================= */
+$spaceamounts: (6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100); // Adjust this to include the pixel amounts you need.
+$sides: (top, bottom, left, right); // Leave this variable alone
+@each $space in $spaceamounts {
+  @each $side in $sides {
+    .m#{str-slice($side, 0, 1)}-#{$space} {
+      margin-#{$side}: #{$space}px !important;
+    }
+    .p#{str-slice($side, 0, 1)}-#{$space} {
+      padding-#{$side}: #{$space}px !important;
+    }
+  }
+}
+
+
+/* Clearfix MIXIN
+============================================= */
+@mixin clearfix() {
+  &::after {
+    display: block;
+    content: "";
+    clear: both;
+  }
+}
+
+/* Border MIXIN
+============================================= */
+
+@mixin border($direction, $width, $style) {
+  border-#{$direction}: $width $style;
+}
+
+ /* GRADIENT MIXIN
+============================================= */
+$direction-275: 257deg;
+$direction-180: 180deg;
+$direction-90: 90deg;
+@mixin gradient($type, $direction, $color1, $color2) {
+ @if $type == radial {
+ background-image: -webkit-radial-gradient($direction, $color1 0%, $color2 100%);
+ background-image: -moz-radial-gradient($direction,  $color1 0%, $color2 100%);
+ background-image: -o-radial-gradient($direction,  $color1 0%, $color2 100%);
+ background-image: radial-gradient($direction,  $color1 0%, $color2 100%);
+ }@else if $type == linear {
+ background-image: -webkit-linear-gradient($direction,  $color1 0%, $color2 100%);
+ background-image: -moz-linear-gradient($direction,  $color1 0%, $color2 100%);
+ background-image: -o-linear-gradient($direction,  $color1 0%, $color2 100%);
+ background-image: linear-gradient($direction,  $color1 0%, $color2 100%);
+ }
+}
+
+/* BORDER RADIUS MIXIN
+============================================= */
+@mixin border-radius($type, $radius) {
+  @if $type == all {
+  border-radius: $radius + px;
+  }@else if $type == top-left {
+    border-top-left-radius: $radius + px;
+  }@else if $type == top-right {
+    border-top-right-radius: $radius + px;
+  }@else if $type == bottom-left {
+    border-bottom-left-radius: $radius + px;
+  }@else if $type == bottom-right {
+    border-bottom-right-radius: $radius + px;
+  }
+ }
+
+ 
+ /* PLACEHOLDER MIXIN
+ ============================================= */
+ @mixin inputPlaceholder() {
+  $selector: '';
+  $prefixes: (
+      moz: "::-moz",
+      webkit: "::-webkit",
+      ie: ":-ms"
+  );
+  @each $prop, $value in $prefixes {
+      @if $prop != "moz" {
+          $selector: #{$value}-input-placeholder;
+      } @else {
+          $selector: #{$value}-placeholder;
+      }
+      @if & {
+          &#{$selector} {
+              @content;
+          }
+      } @else {
+          #{$selector} {
+              @content;
+          }
+      }
+  }
+  &::placeholder {
+    @content;
+  }
+ }
+ 

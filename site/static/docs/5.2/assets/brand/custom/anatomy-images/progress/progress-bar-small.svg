@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="786" height="20" viewBox="0 0 786 20">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="mask" width="743" height="4" rx="2" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Group_38048" data-name="Group 38048" transform="translate(-313 -586)">
+    <g id="Progress_Container_Bar_Partial" data-name="Progress/Container/Bar Partial" transform="translate(313 592)">
+      <g id="Progress_Container" data-name="Progress/Container">
+        <rect id="Rectangle" width="743" height="4" rx="2" fill="#e6ebf5"/>
+      </g>
+      <g id="Progress_Bar_Partial_Default" data-name="Progress/Bar Partial/Default" clip-path="url(#clip-path)">
+        <g id="Progress_Bar_Partial_Base" data-name="Progress/Bar Partial/Base">
+          <rect id="Rectangle-2" data-name="Rectangle" width="616.278" height="8" fill="#3c91ff"/>
+        </g>
+      </g>
+    </g>
+    <text id="_4px" data-name="4px" transform="translate(1085 602)" fill="#489ef9" font-size="16" font-family="HCLTech Roobert" font-weight="600"><tspan x="-13" y="0">4px</tspan></text>
+    <path id="Path_36635" data-name="Path 36635" d="M0,0H4" transform="translate(1064 592) rotate(90)" fill="none" stroke="#3c91ff" stroke-width="1"/>
+  </g>
+</svg>

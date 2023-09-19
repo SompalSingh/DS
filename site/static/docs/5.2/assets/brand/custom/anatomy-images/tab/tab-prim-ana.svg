@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="785" height="282" viewBox="0 0 785 282">
+  <defs>
+    <filter id="Rectangle_19812" x="10" y="30" width="716" height="192" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feFlood flood-opacity="0.192"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Line_897" x="10" y="78.5" width="716" height="13" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur-2"/>
+      <feFlood flood-color="#898989"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_37771" data-name="Group 37771" transform="translate(-272 -913)">
+    <g transform="matrix(1, 0, 0, 1, 272, 913)" filter="url(#Rectangle_19812)">
+      <rect id="Rectangle_19812-2" data-name="Rectangle 19812" width="704" height="180" rx="2" transform="translate(16 35)" fill="#fff"/>
+    </g>
+    <g id="Group_37769" data-name="Group 37769" transform="translate(288 996)">
+      <g transform="matrix(1, 0, 0, 1, -16, -83)" filter="url(#Line_897)">
+        <line id="Line_897-2" data-name="Line 897" x2="704" transform="translate(16 83)" fill="none" stroke="rgba(204,204,204,0.5)" stroke-width="1"/>
+      </g>
+    </g>
+    <text id="Tab_4" data-name="Tab 4" transform="translate(497 980)" font-size="16" font-family="HCLTech Roobert" opacity="0.997"><tspan x="0" y="0">Tab 4</tspan></text>
+    <text id="Tab_5" data-name="Tab 5" transform="translate(561 980)" font-size="16" font-family="HCLTech Roobert" opacity="0.997"><tspan x="0" y="0">Tab 5</tspan></text>
+    <text id="Tab_1" data-name="Tab 1" transform="translate(312 980)" fill="#5f1ebe" font-size="16" font-family="HCLTech Roobert" font-weight="700" opacity="0.997"><tspan x="0" y="0">Tab 1</tspan></text>
+    <text id="Tab_3" data-name="Tab 3" transform="translate(434 980)" font-size="16" font-family="HCLTech Roobert" opacity="0.997"><tspan x="0" y="0">Tab 3</tspan></text>
+    <text id="Tab_2" data-name="Tab 2" transform="translate(371 980)" font-size="16" font-family="HCLTech Roobert" opacity="0.997"><tspan x="0" y="0">Tab 2</tspan></text>
+    <path id="Path_36734" data-name="Path 36734" d="M0,0H35V2H0Z" transform="translate(312 994)" fill="#5f1ebe"/>
+    <text id="Label:_16px" data-name="Label: 16px" transform="translate(328 1167)" fill="#489ef9" font-size="16" font-family="HCLTech Roobert" font-weight="600"><tspan x="0" y="0">Label: 16px</tspan></text>
+    <g id="Group_37768" data-name="Group 37768" transform="translate(99.444 -650)">
+      <path id="Path_27007" data-name="Path 27007" d="M-9890,20642.447l.111-103.225-.111-61.572" transform="translate(10120 -18845.998)" fill="none" stroke="#2653ae" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Path_27008" data-name="Path 27008" d="M0,0V4" transform="translate(232 1796.445) rotate(90)" fill="none" stroke="#2653ae" stroke-width="0.5"/>
+      <circle id="Ellipse_3166" data-name="Ellipse 3166" cx="2" cy="2" r="2" transform="translate(228.112 1629.652)" fill="#2653ae"/>
+    </g>
+    <text id="Color:_5F1EBE" data-name="Color:  #5F1EBE" transform="translate(328 1191)" fill="#489ef9" font-size="16" font-family="HCLTech Roobert" font-weight="600"><tspan x="0" y="0" xml:space="preserve">Color:  #5F1EBE</tspan></text>
+    <g id="Group_37770" data-name="Group 37770" transform="translate(602 990) rotate(-90)">
+      <path id="Path_27007-2" data-name="Path 27007" d="M-9876.205,20567l-.033-55.965" transform="translate(9891.205 -20509)" fill="none" stroke="#2653ae" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Path_27008-2" data-name="Path 27008" d="M0,4V0" transform="translate(17 58) rotate(90)" fill="none" stroke="#2653ae" stroke-width="0.5"/>
+      <circle id="Ellipse_3189" data-name="Ellipse 3189" cx="2" cy="2" r="2" transform="translate(13)" fill="#2653ae"/>
+    </g>
+    <text id="Label:_16px-2" data-name="Label: 16px" transform="translate(664 984)" fill="#489ef9" font-size="16" font-family="HCLTech Roobert" font-weight="600"><tspan x="0" y="0">Label: 16px</tspan></text>
+    <text id="Color:_000000" data-name="Color:  #000000" transform="translate(664 1012)" fill="#489ef9" font-size="16" font-family="HCLTech Roobert" font-weight="600"><tspan x="0" y="0" xml:space="preserve">Color:  #000000</tspan></text>
+    <rect id="Rectangle_19810" data-name="Rectangle 19810" width="16" height="738" transform="translate(1010 948) rotate(90)" fill="#0157dc" opacity="0.07" style="mix-blend-mode: multiply;isolation: isolate"/>
+    <rect id="Rectangle_19811" data-name="Rectangle 19811" width="12" height="738" transform="translate(1010 984) rotate(90)" fill="#0157dc" opacity="0.07" style="mix-blend-mode: multiply;isolation: isolate"/>
+    <rect id="Rectangle_19814" data-name="Rectangle 19814" width="24" height="59" transform="translate(347 937)" fill="#0157dc" opacity="0.07" style="mix-blend-mode: multiply;isolation: isolate"/>
+    <rect id="Rectangle_22381" data-name="Rectangle 22381" width="24" height="59" transform="translate(288 937)" fill="#0157dc" opacity="0.07" style="mix-blend-mode: multiply;isolation: isolate"/>
+    <rect id="Rectangle_19816" data-name="Rectangle 19816" width="24" height="59" transform="translate(410 937)" fill="#0157dc" opacity="0.07" style="mix-blend-mode: multiply;isolation: isolate"/>
+    <text id="_8px" data-name="8px" transform="translate(300 929)" fill="#489ef9" font-size="16" font-family="HCLTech Roobert" font-weight="600"><tspan x="-13" y="0">8px</tspan></text>
+    <text id="_8px-2" data-name="8px" transform="translate(359 929)" fill="#489ef9" font-size="16" font-family="HCLTech Roobert" font-weight="600"><tspan x="-13" y="0">8px</tspan></text>
+    <text id="_8px-3" data-name="8px" transform="translate(422 929)" fill="#489ef9" font-size="16" font-family="HCLTech Roobert" font-weight="600"><tspan x="-13" y="0">8px</tspan></text>
+    <text id="_16px" data-name="16px" transform="translate(1040 962)" fill="#489ef9" font-size="16" font-family="HCLTech Roobert" font-weight="600"><tspan x="-16" y="0">16px</tspan></text>
+    <text id="_12px" data-name="12px" transform="translate(1040 996)" fill="#489ef9" font-size="16" font-family="HCLTech Roobert" font-weight="600"><tspan x="-16" y="0">12px</tspan></text>
+    <text id="_8px-4" data-name="8px" transform="translate(383 1018)" fill="#489ef9" font-size="16" font-family="HCLTech Roobert" font-weight="600"><tspan x="-13" y="0">8px</tspan></text>
+    <path id="Path_36735" data-name="Path 36735" d="M-9715,20454.064h24" transform="translate(10003 -19519.064)" fill="none" stroke="#3c91ff" stroke-width="1"/>
+    <path id="Path_36736" data-name="Path 36736" d="M-9715,20454.064h24" transform="translate(10062 -19519.064)" fill="none" stroke="#3c91ff" stroke-width="1"/>
+    <path id="Path_36738" data-name="Path 36738" d="M-9715,20454.064h24" transform="translate(10125 -19519.064)" fill="none" stroke="#3c91ff" stroke-width="1"/>
+    <path id="Path_36739" data-name="Path 36739" d="M-9715,20454.064h16" transform="translate(21472.063 10663) rotate(90)" fill="none" stroke="#3c91ff" stroke-width="1"/>
+    <path id="Path_36740" data-name="Path 36740" d="M-9715,20454.064h12" transform="translate(21472.063 10699) rotate(90)" fill="none" stroke="#3c91ff" stroke-width="1"/>
+    <path id="Path_36737" data-name="Path 36737" d="M-9715,20454.064h24" transform="translate(10086 -19454.064)" fill="none" stroke="#3c91ff" stroke-width="1"/>
+  </g>
+</svg>

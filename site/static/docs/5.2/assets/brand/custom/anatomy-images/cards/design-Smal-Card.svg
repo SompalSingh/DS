@@ -1,0 +1,20 @@
+<svg id="Small-card" xmlns="http://www.w3.org/2000/svg" width="324" height="275" viewBox="0 0 324 275">
+  <g id="Group_39689" data-name="Group 39689">
+    <g id="Group_39690" data-name="Group 39690">
+      <g id="Rectangle_18973" data-name="Rectangle 18973" fill="#fff" stroke="#ccc" stroke-width="1">
+        <rect width="324" height="275" rx="8" stroke="none"/>
+        <rect x="0.5" y="0.5" width="323" height="274" rx="7.5" fill="none"/>
+      </g>
+      <g id="Group_39638" data-name="Group 39638" transform="translate(8 24)">
+        <g id="Group_39688" data-name="Group 39688" transform="translate(0 -2)">
+          <g id="arrow_right-normal" data-name="arrow right-normal" transform="translate(24 190)">
+            <path id="Path_23052" data-name="Path 23052" d="M14.853,7.854a.5.5,0,0,1-.707,0L8,1.707V18.5a.5.5,0,0,1-1,0V1.707L.853,7.854a.5.5,0,0,1-.707-.707l7-7A.5.5,0,0,1,7.307.039a.495.495,0,0,1,.385,0,.5.5,0,0,1,.162.108l7,7A.5.5,0,0,1,14.853,7.854Z" transform="translate(19.001 0) rotate(90)" stroke="#000" stroke-width="1"/>
+          </g>
+        </g>
+        <text id="dolor_sit_amet_consetetur_sadipscing_elitr_sed_diam_nonumy_" data-name="dolor sit amet, consetetur sadipscing elitr, sed diam nonumy " transform="translate(24 125)" font-size="14" font-family="HCLTechRoobert-Regular, HCLTech Roobert"><tspan x="0" y="14">dolor sit amet, consetetur sadipscing </tspan><tspan x="0" y="35">elitr, sed diam nonumy </tspan></text>
+        <text id="Lorem_ipsum_" data-name="Lorem ipsum " transform="translate(24 91)" font-size="14" font-family="HCLTechRoobert-SemiBold, HCLTech Roobert" font-weight="600"><tspan x="0" y="14">Lorem ipsum </tspan></text>
+        <text id="Card_Tittle" data-name="Card Tittle" transform="translate(24 24)" font-size="28" font-family="HCLTechRoobert-Bold, HCLTech Roobert" font-weight="700"><tspan x="0" y="28">Card Tittle</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

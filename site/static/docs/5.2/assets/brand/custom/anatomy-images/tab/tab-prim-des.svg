@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="800" height="40.5" viewBox="0 0 800 40.5">
+  <defs>
+    <filter id="Line_897" x="0" y="27.5" width="800" height="13" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feFlood flood-color="#898989"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_38042" data-name="Group 38042" transform="translate(-307 -814)">
+    <g id="Group_37767" data-name="Group 37767" transform="translate(-145 198)">
+      <text id="Tab_4" data-name="Tab 4" transform="translate(745 632)" fill="#222" font-size="16" font-family="HCLTech Roobert" opacity="0.997"><tspan x="0" y="0">Tab 4</tspan></text>
+      <text id="Tab_5" data-name="Tab 5" transform="translate(833 632)" fill="#222" font-size="16" font-family="HCLTech Roobert" opacity="0.997"><tspan x="0" y="0">Tab 5</tspan></text>
+      <text id="Tab_1" data-name="Tab 1" transform="translate(482 632)" fill="#39f" font-size="16" font-family="HCLTech Roobert" font-weight="700" opacity="0.997"><tspan x="0" y="0">Tab 1</tspan></text>
+      <text id="Tab_3" data-name="Tab 3" transform="translate(656 632)" fill="#222" font-size="16" font-family="HCLTech Roobert" opacity="0.997"><tspan x="0" y="0">Tab 3</tspan></text>
+      <text id="Tab_2" data-name="Tab 2" transform="translate(565 632)" fill="#222" font-size="16" font-family="HCLTech Roobert" opacity="0.997"><tspan x="0" y="0">Tab 2</tspan></text>
+      <path id="Path_36732" data-name="Path 36732" d="M0,0H83V2H0Z" transform="translate(458 646)" fill="#39f"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 307, 814)" filter="url(#Line_897)">
+      <line id="Line_897-2" data-name="Line 897" x2="788" transform="translate(6 32)" fill="none" stroke="rgba(204,204,204,0.5)" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

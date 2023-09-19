@@ -1,0 +1,24 @@
+<svg id="Medium-card-button" xmlns="http://www.w3.org/2000/svg" width="533" height="369" viewBox="0 0 533 369">
+  <g id="Rectangle_19094" data-name="Rectangle 19094" fill="#fff" stroke="#ccc" stroke-width="1">
+    <rect width="533" height="369" rx="12" stroke="none"/>
+    <rect x="0.5" y="0.5" width="532" height="368" rx="11.5" fill="none"/>
+  </g>
+  <g id="Group_39639" data-name="Group 39639" transform="translate(16 40)">
+    <g id="Group_166209" data-name="Group 166209">
+      <g id="Default_Button" data-name="Default Button" transform="translate(152 237)">
+        <rect id="Primary_007BFF" data-name="Primary / #007BFF" width="117" height="36" rx="4" fill="#4c189e"/>
+        <text id="Main_CTA" data-name="Main CTA" transform="translate(24 24)" fill="#fff" font-size="16" font-family="HCLTech Roobert" font-weight="600"><tspan x="0" y="0">Main CTA</tspan></text>
+      </g>
+      <g id="Default_Button-2" data-name="Default Button" transform="translate(24 237)">
+        <g id="Primary_007BFF-2" data-name="Primary / #007BFF" fill="none" stroke="#6c7882" stroke-width="1">
+          <rect width="112" height="36" rx="4" stroke="none"/>
+          <rect x="0.5" y="0.5" width="111" height="35" rx="3.5" fill="none"/>
+        </g>
+        <text id="Optional" transform="translate(24 24)" font-size="16" font-family="HCLTechRoobert-SemiBold, HCLTech Roobert" font-weight="600"><tspan x="0" y="0">Optional</tspan></text>
+      </g>
+    </g>
+    <text id="dolor_sit_amet_consetetur_sadipscing_elitr_sed_diam_nonumy_eirmod_tempor_invidunt_ut_labore_et_dolore_magna_aliquyam_erat_sed_diam_voluptua" data-name="dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua" transform="translate(24 129)" font-size="16" font-family="HCLTechRoobert-Regular, HCLTech Roobert"><tspan x="0" y="16">dolor sit amet, consetetur sadipscing elitr, sed diam nonumy </tspan><tspan x="0" y="40">eirmod tempor invidunt ut labore et dolore magna aliquyam </tspan><tspan x="0" y="64">erat, sed diam voluptua</tspan></text>
+    <text id="Lorem_ipsum" data-name="Lorem ipsum" transform="translate(24 80)" font-size="20" font-family="HCLTechRoobert-SemiBold, HCLTech Roobert" font-weight="600"><tspan x="0" y="20">Lorem ipsum</tspan></text>
+    <text id="Card_Tittle" data-name="Card Tittle" transform="translate(24 16)" font-size="32" font-family="HCLTechRoobert-Bold, HCLTech Roobert" font-weight="700"><tspan x="0" y="32">Card Tittle</tspan></text>
+  </g>
+</svg>

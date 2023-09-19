@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="861.5" height="430.25" viewBox="0 0 861.5 430.25">
+  <defs>
+    <filter id="Ellipse_3225" x="0" y="306" width="58" height="58" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_166220" data-name="Group 166220" transform="translate(-244 -9121)">
+    <g id="Large-card-button" transform="translate(273 9127)">
+      <g id="Rectangle_19090" data-name="Rectangle 19090" fill="#fff" stroke="#ccc" stroke-width="1">
+        <rect width="732" height="335" rx="16" stroke="none"/>
+        <rect x="0.5" y="0.5" width="731" height="334" rx="15.5" fill="none"/>
+      </g>
+      <g id="Group_39641" data-name="Group 39641" transform="translate(8 20)">
+        <g id="Group_166218" data-name="Group 166218" transform="translate(3681 -6351)">
+          <g id="Large_Button" data-name="Large Button" transform="translate(-3505 6577)">
+            <rect id="Primary" width="135" height="41" rx="4" fill="#5f1ebe"/>
+            <text id="Main_CTA" data-name="Main CTA" transform="translate(24 28)" fill="#fff" font-size="20" font-family="HCLTech Roobert" font-weight="600"><tspan x="0" y="0">Main CTA</tspan></text>
+          </g>
+          <g id="Large_Button-2" data-name="Large Button" transform="translate(-3657 6577)">
+            <g id="Primary-2" data-name="Primary" fill="none" stroke="#5e1ebe" stroke-width="1">
+              <rect width="128" height="41" rx="4" stroke="none"/>
+              <rect x="0.5" y="0.5" width="127" height="40" rx="3.5" fill="none"/>
+            </g>
+            <text id="Optional" transform="translate(24 28)" fill="#5f1ebe" font-size="20" font-family="HCLTech Roobert" font-weight="600"><tspan x="0" y="0">Optional</tspan></text>
+          </g>
+        </g>
+        <text id="Lorem_ipsum_dolor_sit_amet_consetetur_sadipscing_elitr_sed_diam_nonumy_eirmod_tempor_invidunt_ut_labore_et_dolore_magna_aliquyam_erat_sed_diam_voluptua._At_vero_eos_et_accusam_et_justo_duo_dolores_et_ea_rebum_." data-name="Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum…." transform="translate(24 118)" font-size="16" font-family="HCLTechRoobert-Regular, HCLTech Roobert"><tspan x="0" y="16">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor </tspan><tspan x="0" y="40">invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et </tspan><tspan x="0" y="64">accusam et justo duo dolores et ea rebum….</tspan></text>
+        <text id="Card_Tittle" data-name="Card Tittle" transform="translate(24 28)" font-size="40" font-family="HCLTechRoobert-Bold, HCLTech Roobert" font-weight="700"><tspan x="0" y="40">Card Tittle</tspan></text>
+      </g>
+    </g>
+    <text id="Max_Height:_800_px" data-name="Max
+Height:
+800 px" transform="translate(1058.5 9249.75)" fill="#489ef9" font-size="14" font-family="HCLTech Roobert" font-weight="600"><tspan x="0" y="0">Max</tspan><tspan x="0" y="20">Height:</tspan><tspan x="0" y="40">800 px</tspan></text>
+    <path id="Path_36605" data-name="Path 36605" d="M-9715,20454.064h329.5" transform="translate(21510.564 18847.5) rotate(90)" fill="none" stroke="#3c91ff" stroke-width="1"/>
+    <text id="Border_radius:_12px" data-name="Border radius: 12px" transform="translate(388 9492)" fill="#489ef9" font-size="16" font-family="HCLTech Roobert" font-weight="600"><tspan x="-68" y="0">Border radius: 12px</tspan></text>
+    <rect id="Rectangle_19587" data-name="Rectangle 19587" width="48" height="744.004" transform="translate(1009.004 9127) rotate(90)" fill="#0157dc" opacity="0.07" style="mix-blend-mode: multiply;isolation: isolate"/>
+    <rect id="Rectangle_20137" data-name="Rectangle 20137" width="48" height="744.004" transform="translate(1009.004 9414) rotate(90)" fill="#0157dc" opacity="0.07" style="mix-blend-mode: multiply;isolation: isolate"/>
+    <rect id="Rectangle_19588" data-name="Rectangle 19588" width="40" height="750.003" transform="translate(1015.003 9225) rotate(90)" fill="#0157dc" opacity="0.07" style="mix-blend-mode: multiply;isolation: isolate"/>
+    <rect id="Rectangle_20138" data-name="Rectangle 20138" width="40" height="750.003" transform="translate(1015.003 9333) rotate(90)" fill="#0157dc" opacity="0.07" style="mix-blend-mode: multiply;isolation: isolate"/>
+    <rect id="Rectangle_19591" data-name="Rectangle 19591" width="32" height="355" transform="translate(305 9476) rotate(180)" fill="#0157dc" opacity="0.07" style="mix-blend-mode: multiply;isolation: isolate"/>
+    <rect id="Rectangle_19592" data-name="Rectangle 19592" width="32" height="355" transform="translate(1005 9476) rotate(180)" fill="#0157dc" opacity="0.07" style="mix-blend-mode: multiply;isolation: isolate"/>
+    <g transform="matrix(1, 0, 0, 1, 244, 9121)" filter="url(#Ellipse_3225)">
+      <ellipse id="Ellipse_3225-2" data-name="Ellipse 3225" cx="20" cy="20" rx="20" ry="20" transform="translate(9 315)" fill="#fff" opacity="0.406"/>
+    </g>
+    <text id="_40px" data-name="40px" transform="translate(1039.003 9358)" fill="#489ef9" font-size="14" font-family="HCLTech Roobert" font-weight="600"><tspan x="-16" y="0">40px</tspan></text>
+    <text id="_40px-2" data-name="40px" transform="translate(1039.003 9250)" fill="#489ef9" font-size="14" font-family="HCLTech Roobert" font-weight="600"><tspan x="-16" y="0">40px</tspan></text>
+    <text id="_32px" data-name="32px" transform="translate(990.004 9502)" fill="#489ef9" font-size="16" font-family="HCLTech Roobert" font-weight="600"><tspan x="-17" y="0">32px</tspan></text>
+    <text id="_32px-2" data-name="32px" transform="translate(289 9504)" fill="#489ef9" font-size="16" font-family="HCLTech Roobert" font-weight="600"><tspan x="-17" y="0">32px</tspan></text>
+    <text id="_48px" data-name="48px" transform="translate(1031.004 9157)" fill="#489ef9" font-size="14" font-family="HCLTech Roobert" font-weight="600"><tspan x="-16" y="0">48px</tspan></text>
+    <text id="_48px-2" data-name="48px" transform="translate(1031.004 9443.5)" fill="#489ef9" font-size="14" font-family="HCLTech Roobert" font-weight="600"><tspan x="-16" y="0">48px</tspan></text>
+    <path id="Path_36585" data-name="Path 36585" d="M-9715,20454.064h40" transform="translate(21473.068 19048) rotate(90)" fill="none" stroke="#3c91ff" stroke-width="1"/>
+    <path id="Path_76799" data-name="Path 76799" d="M-9715,20454.064h40" transform="translate(21473.068 18940) rotate(90)" fill="none" stroke="#3c91ff" stroke-width="1"/>
+    <path id="Path_36587" data-name="Path 36587" d="M-9715,20454.064h32.5" transform="translate(10688 -10973.564)" fill="none" stroke="#3c91ff" stroke-width="1"/>
+    <path id="Path_36588" data-name="Path 36588" d="M-9715,20454.064h32" transform="translate(9988.5 -10973.564)" fill="none" stroke="#3c91ff" stroke-width="1"/>
+    <path id="Path_36589" data-name="Path 36589" d="M-9715,20454.064h48" transform="translate(21465.566 18842.5) rotate(90)" fill="none" stroke="#3c91ff" stroke-width="1"/>
+    <path id="Path_76800" data-name="Path 76800" d="M-9715,20454.064h48" transform="translate(21465.566 19129) rotate(90)" fill="none" stroke="#3c91ff" stroke-width="1"/>
+    <text id="Width:_1200_px" data-name="Width: 1200 px" transform="translate(567 9547.25)" fill="#489ef9" font-size="14" font-family="HCLTech Roobert" font-weight="600"><tspan x="0" y="0">Width: 1200 px</tspan></text>
+    <path id="Path_76801" data-name="Path 76801" d="M-9715,20454.064h737.5" transform="translate(-8710 29980.564) rotate(180)" fill="none" stroke="#3c91ff" stroke-width="1"/>
+  </g>
+</svg>
