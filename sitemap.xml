@@ -43,7 +43,7 @@
     <loc>/docs/5.2/utilities/background/</loc>
   </url>
   <url>
-    <loc>/docs/5.2/components/badge/</loc>
+    <loc>/docs/5.2/components/badge-old/</loc>
   </url>
   <url>
     <loc>/docs/5.2/getting-started/best-practices/</loc>
@@ -121,6 +121,12 @@
     <loc>/docs/5.2/forms/checks-radios/</loc>
   </url>
   <url>
+    <loc>/docs/5.2/components/badge-anatomy/</loc>
+  </url>
+  <url>
+    <loc>/docs/5.2/components/badge/</loc>
+  </url>
+  <url>
     <loc>/docs/5.2/helpers/clearfix/</loc>
   </url>
   <url>
@@ -194,6 +200,12 @@
   </url>
   <url>
     <loc>/docs/5.2/content/figures/</loc>
+  </url>
+  <url>
+    <loc>/docs/5.2/components/filter/</loc>
+  </url>
+  <url>
+    <loc>/docs/5.2/components/filter-anatomy/</loc>
   </url>
   <url>
     <loc>/docs/5.2/examples/navbar-fixed/</loc>
@@ -409,6 +421,9 @@
     <loc>/docs/5.2/examples/starter-template/</loc>
   </url>
   <url>
+    <loc>/docs/5.2/components/stepper-anatomy/</loc>
+  </url>
+  <url>
     <loc>/docs/5.2/examples/sticky-footer-navbar/</loc>
   </url>
   <url>
@@ -460,7 +475,13 @@
     <loc>/docs/5.2/components/typography/</loc>
   </url>
   <url>
+    <loc>/docs/5.2/components/typos/</loc>
+  </url>
+  <url>
     <loc>/docs/5.2/content/typography/</loc>
+  </url>
+  <url>
+    <loc>/docs/5.2/components/stepper/</loc>
   </url>
   <url>
     <loc>/docs/5.2/layout/utilities/</loc>

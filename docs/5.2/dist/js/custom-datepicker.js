@@ -2,6 +2,36 @@ $(function () {
     moment.updateLocale('en', {
       weekdaysMin: ["S", "M", "T", "W", "T", "F", "S"]
     });
+    $('#startDate').daterangepicker({
+        showDropdowns:true,
+        singleDatePicker: true,
+        autoUpdateInput: false,
+        autoclose: true,
+        autoApply:true,
+        drops:'up',
+        locale: {
+            format: 'DD-MMM-YY',
+            direction: 'single-picker'
+        }
+      }, function(start) {
+          $(this.element).val(start.format('DD-MMM-YY'));
+    });
+  
+    $('#endDate').daterangepicker({
+      showDropdowns: true,
+      singleDatePicker: true,
+      autoApply: true,
+      autoclose: true,
+      autoUpdateInput: false,
+      drops:'up',
+      locale: {
+        format: 'DD-MMM-YY',
+        direction: 'single-picker'
+      }
+    }, function(start) {
+        $(this.element).val(start.format('DD-MMM-YY'));
+    });
+
     $('#single').daterangepicker({
       "showDropdowns": true,
       singleDatePicker: true,
@@ -67,3 +97,4 @@ $(function () {
           picker.container.find(".calendar-table").hide();
       });
   });
+

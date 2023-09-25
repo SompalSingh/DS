@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="542" height="173.518" viewBox="0 0 542 173.518">
+  <defs>
+    <filter id="Ellipse_3317" x="402" y="10" width="46" height="46" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_187537" data-name="Group 187537" transform="translate(-370 -1939)">
+    <rect id="State" width="396" height="44" rx="5" transform="translate(407 1972.5)" fill="#fff" stroke="#b9c3d0" stroke-width="1"/>
+    <text id="Label" transform="translate(457 2000)" font-size="16" font-family="HCLTech Roobert" font-weight="500"><tspan x="0" y="0">List Item</tspan></text>
+    <text id="Border_radius:_5px" data-name="Border radius: 5px" transform="translate(742 1953)" fill="#489ef9" font-size="14" font-family="HCLTech Roobert" font-weight="600"><tspan x="-57" y="0">Border radius: 5px</tspan></text>
+    <text id="icon:_18_18px" data-name="icon: 18*18px" transform="translate(425 2067)" fill="#489ef9" font-size="14" font-family="HCLTech Roobert" font-weight="600"><tspan x="-41" y="0">icon: 18*18px</tspan></text>
+    <g transform="matrix(1, 0, 0, 1, 370, 1939)" filter="url(#Ellipse_3317)">
+      <ellipse id="Ellipse_3317-2" data-name="Ellipse 3317" cx="14" cy="14" rx="14" ry="14" transform="translate(411 19)" fill="#fff" opacity="0.406"/>
+    </g>
+    <rect id="Rectangle_19850" data-name="Rectangle 19850" width="16" height="73" transform="translate(407 1962.5)" fill="#0157dc" opacity="0.07" style="mix-blend-mode: multiply;isolation: isolate"/>
+    <rect id="Rectangle_149919" data-name="Rectangle 149919" width="16" height="73" transform="translate(442 1962.5)" fill="#0157dc" opacity="0.07" style="mix-blend-mode: multiply;isolation: isolate"/>
+    <text id="_16px" data-name="16px" transform="translate(417 1953.512)" fill="#489ef9" font-size="14" font-family="HCLTech Roobert" font-weight="600"><tspan x="-14" y="0">16px</tspan></text>
+    <text id="_16px-2" data-name="16px" transform="translate(453 1953.512)" fill="#489ef9" font-size="14" font-family="HCLTech Roobert" font-weight="600"><tspan x="-14" y="0">16px</tspan></text>
+    <path id="Path_36748" data-name="Path 36748" d="M-9715,20454.064h16" transform="translate(10122 -18494.059)" fill="none" stroke="#3c91ff" stroke-width="1"/>
+    <path id="Path_139372" data-name="Path 139372" d="M-9715,20454.064h16" transform="translate(10158 -18494.059)" fill="none" stroke="#3c91ff" stroke-width="1"/>
+    <rect id="Rectangle_19849" data-name="Rectangle 19849" width="12" height="466.831" transform="translate(836.831 1972.518) rotate(90)" fill="#0157dc" opacity="0.07" style="mix-blend-mode: multiply;isolation: isolate"/>
+    <rect id="Rectangle_19851" data-name="Rectangle 19851" width="12" height="466.831" transform="translate(836.831 2004.518) rotate(90)" fill="#0157dc" opacity="0.07" style="mix-blend-mode: multiply;isolation: isolate"/>
+    <text id="_12px" data-name="12px" transform="translate(863.501 1980)" fill="#489ef9" font-size="14" font-family="HCLTech Roobert" font-weight="600"><tspan x="-14" y="0">12px</tspan></text>
+    <text id="_12px-2" data-name="12px" transform="translate(864.502 2015.518)" fill="#489ef9" font-size="14" font-family="HCLTech Roobert" font-weight="600"><tspan x="-14" y="0">12px</tspan></text>
+    <path id="Path_139309" data-name="Path 139309" d="M-9715,20454.064h16" transform="translate(21295.563 11683) rotate(90)" fill="none" stroke="#3c91ff" stroke-width="1"/>
+    <path id="Path_139371" data-name="Path 139371" d="M-9715,20454.064h16" transform="translate(21295.563 11717.518) rotate(90)" fill="none" stroke="#3c91ff" stroke-width="1"/>
+    <text id="Border_Color:_B9C3D0_Grey_300_" data-name="Border Color:  #B9C3D0 (Grey 300)" transform="translate(912 2076)" fill="#489ef9" font-size="14" font-family="HCLTech Roobert" font-weight="600"><tspan x="-225" y="0" xml:space="preserve">Border Color:  #B9C3D0 (Grey 300)</tspan></text>
+    <text id="Border_:_1px" data-name="Border :  1px" transform="translate(912 2100)" fill="#489ef9" font-size="14" font-family="HCLTech Roobert" font-weight="600"><tspan x="-75" y="0" xml:space="preserve">Border :  1px</tspan></text>
+    <g id="Group_187535" data-name="Group 187535" transform="translate(805 1994)">
+      <path id="Path_27007" data-name="Path 27007" d="M-9790.2,20567l-.242-55.965H-9890" transform="translate(9891.205 -20509)" fill="none" stroke="#2653ae" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Path_27008" data-name="Path 27008" d="M0,4V0" transform="translate(103 58) rotate(90)" fill="none" stroke="#2653ae" stroke-width="0.5"/>
+      <circle id="Ellipse_3166" data-name="Ellipse 3166" cx="2" cy="2" r="2" fill="#2653ae"/>
+    </g>
+    <text id="Label:_16px" data-name="Label:  16px" transform="translate(503 2067)" fill="#489ef9" font-size="14" font-family="HCLTech Roobert" font-weight="600"><tspan x="0" y="0" xml:space="preserve">Label:  16px</tspan></text>
+    <text id="Color:_000000_Black000_" data-name="Color:  #000000
+(Black000)" transform="translate(503 2088.518)" fill="#489ef9" font-size="14" font-family="HCLTechRoobert-SemiBold, HCLTech Roobert" font-weight="600"><tspan x="0" y="0" xml:space="preserve">Color:  #000000</tspan><tspan font-family="HCLTech Roobert" font-weight="400"><tspan x="0" y="20">(Black000)</tspan></tspan></text>
+    <g id="Group_37792" data-name="Group 37792" transform="translate(526.5 1991.518)">
+      <path id="Path_27007-2" data-name="Path 27007" d="M-9876.205,20567l-.033-55.965H-9890" transform="translate(9891.205 -20509)" fill="none" stroke="#2653ae" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Path_27008-2" data-name="Path 27008" d="M0,4V0" transform="translate(17 58) rotate(90)" fill="none" stroke="#2653ae" stroke-width="0.5"/>
+      <circle id="Ellipse_3166-2" data-name="Ellipse 3166" cx="2" cy="2" r="2" fill="#2653ae"/>
+    </g>
+    <g id="Group_187538" data-name="Group 187538" transform="translate(399.499 1991.518)">
+      <path id="Path_27007-3" data-name="Path 27007" d="M-9890,20567l.033-55.965h13.762" transform="translate(9892 -20509)" fill="none" stroke="#2653ae" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Path_27008-3" data-name="Path 27008" d="M0,0V4" transform="translate(4 58) rotate(90)" fill="none" stroke="#2653ae" stroke-width="0.5"/>
+      <circle id="Ellipse_3166-3" data-name="Ellipse 3166" cx="2" cy="2" r="2" transform="translate(13)" fill="#2653ae"/>
+    </g>
+    <g id="Group_187439" data-name="Group 187439" transform="translate(11625.484 6295.485)">
+      <g id="Rectangle_149898" data-name="Rectangle 149898" transform="translate(-11202.485 -4310.485)" fill="none" stroke="#000" stroke-width="1">
+        <rect width="18" height="18" rx="3" stroke="none"/>
+        <rect x="0.5" y="0.5" width="17" height="17" rx="2.5" fill="none"/>
+      </g>
+      <line id="Line_8344" data-name="Line 8344" x2="16" y2="16" transform="translate(-11201.485 -4309.485)" fill="none" stroke="#000" stroke-width="1"/>
+      <line id="Line_8345" data-name="Line 8345" y1="16" x2="16" transform="translate(-11201.485 -4309.485)" fill="none" stroke="#000" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

@@ -1,28 +1,35 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="836" height="146" viewBox="0 0 836 146">
-  <g id="Group_185940" data-name="Group 185940" transform="translate(-257 -304)">
-    <text id="_8px" data-name="8px" transform="translate(279 381.5)" fill="#489ef9" font-size="16" font-family="HCLTech Roobert" font-weight="600"><tspan x="-13" y="0">8px</tspan></text>
-    <path id="Path_138749" data-name="Path 138749" d="M-9715,20454.064h8.188" transform="translate(9990 -20090.563)" fill="none" stroke="#3c91ff" stroke-width="1"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="868" height="150" viewBox="0 0 868 150">
+  <g id="Group_185940" data-name="Group 185940" transform="translate(-257 -300)">
+    <text id="_8px" data-name="8px" transform="translate(303 381.5)" fill="#489ef9" font-size="14" font-family="HCLTech Roobert" font-weight="600"><tspan x="-11" y="0">8px</tspan></text>
+    <text id="_16px" data-name="16px" transform="translate(273 381.5)" fill="#489ef9" font-size="14" font-family="HCLTech Roobert" font-weight="600"><tspan x="-14" y="0">16px</tspan></text>
+    <path id="Path_138749" data-name="Path 138749" d="M-9715,20454.064h8.188" transform="translate(10014 -20090.563)" fill="none" stroke="#3c91ff" stroke-width="1"/>
+    <path id="Path_139393" data-name="Path 139393" d="M-9715,20454.064h16" transform="translate(9980 -20090.563)" fill="none" stroke="#3c91ff" stroke-width="1"/>
     <rect id="Rectangle_28620" data-name="Rectangle 28620" width="836" height="42" transform="translate(257 304)" fill="#f8f8f8"/>
-    <text id="_Label_1_Label_2" data-name="/ Label 1 / Label 2" transform="translate(282.744 330)" font-size="14" font-family="HCLTechRoobert-Regular, HCLTech Roobert"><tspan x="0" y="0">/ </tspan><tspan y="0" fill="#5f1ebe" font-family="HCLTechRoobert-Medium, HCLTech Roobert" font-weight="500">Label 1</tspan><tspan y="0" xml:space="preserve"> / </tspan><tspan y="0" font-family="HCLTechRoobert-Bold, HCLTech Roobert" font-weight="700">Label 2</tspan></text>
-    <g id="Group_20890" data-name="Group 20890" transform="translate(257.5 317.33)">
+    <text id="_Label_1_Label_2" data-name="/ Label 1 / Label 2" transform="translate(306.744 330)" font-size="14" font-family="HCLTechRoobert-Regular, HCLTech Roobert"><tspan x="0" y="0">/ </tspan><tspan y="0" fill="#5f1ebe" font-family="HCLTechRoobert-Medium, HCLTech Roobert" font-weight="500">Label 1</tspan><tspan y="0" xml:space="preserve"> / </tspan><tspan y="0" font-family="HCLTechRoobert-Bold, HCLTech Roobert" font-weight="700">Label 2</tspan></text>
+    <g id="Group_20890" data-name="Group 20890" transform="translate(281.5 317.33)">
       <path id="Path_18421" data-name="Path 18421" d="M420.049,377.147A.5.5,0,0,1,419.7,377l-8.019-8.019L403.659,377a.5.5,0,0,1-.707-.707l8.372-8.372a.5.5,0,0,1,.707,0l8.372,8.372a.5.5,0,0,1-.354.854Z" transform="translate(-403.305 -367.775)"/>
       <path id="Path_18422" data-name="Path 18422" d="M417.938,384.616h-3.874a.5.5,0,0,1-.5-.5v-3.008a1.037,1.037,0,0,0-2.075,0v3.008a.5.5,0,0,1-.5.5h-3.875a1.889,1.889,0,0,1-1.887-1.888v-4.875a.5.5,0,0,1,1,0v4.875a.888.888,0,0,0,.887.888h3.375v-2.508a2.037,2.037,0,0,1,4.075,0v2.508h3.374a.889.889,0,0,0,.888-.888v-4.642a.5.5,0,0,1,1,0v4.642A1.89,1.89,0,0,1,417.938,384.616Z" transform="translate(-404.037 -370.671)"/>
     </g>
     <rect id="Rectangle_28621" data-name="Rectangle 28621" width="12" height="836" transform="translate(1093 304) rotate(90)" fill="#0157dc" opacity="0.07" style="mix-blend-mode: multiply;isolation: isolate"/>
     <rect id="Rectangle_28622" data-name="Rectangle 28622" width="12" height="836" transform="translate(1093 334) rotate(90)" fill="#0157dc" opacity="0.07" style="mix-blend-mode: multiply;isolation: isolate"/>
-    <text id="Label:_14px_Regular_" data-name="Label:  14px (Regular)" transform="translate(293 418)" fill="#489ef9" font-size="16" font-family="HCLTech Roobert" font-weight="600"><tspan x="0" y="0" xml:space="preserve">Label:  14px (Regular)</tspan></text>
-    <text id="Color:_5F1EBE_Tech_Purple_700_" data-name="Color:  #5F1EBE (Tech Purple 700)" transform="translate(293 446)" fill="#489ef9" font-size="16" font-family="HCLTech Roobert" font-weight="600"><tspan x="0" y="0" xml:space="preserve">Color:  #5F1EBE (Tech Purple 700)</tspan></text>
-    <g id="Group_185938" data-name="Group 185938" transform="translate(306 337)">
+    <text id="Label:_14px_Regular_" data-name="Label:  14px (Regular)" transform="translate(317 418)" fill="#489ef9" font-size="16" font-family="HCLTech Roobert" font-weight="600"><tspan x="0" y="0" xml:space="preserve">Label:  14px (Regular)</tspan></text>
+    <text id="Color:_5F1EBE_Tech_Purple_700_" data-name="Color:  #5F1EBE (Tech Purple 700)" transform="translate(317 446)" fill="#489ef9" font-size="16" font-family="HCLTech Roobert" font-weight="600"><tspan x="0" y="0" xml:space="preserve">Color:  #5F1EBE (Tech Purple 700)</tspan></text>
+    <g id="Group_185938" data-name="Group 185938" transform="translate(330 337)">
       <path id="Path_27007" data-name="Path 27007" d="M-9889.489,20566.314l0-55.281H-9890" transform="translate(9897.499 -20508.658)" fill="none" stroke="#2653ae" stroke-linejoin="round" stroke-width="1"/>
       <circle id="Ellipse_3166" data-name="Ellipse 3166" cx="2" cy="2" r="2" transform="translate(6)" fill="#2653ae"/>
     </g>
-    <text id="Label:_14px_Bold_" data-name="Label:  14px (Bold)" transform="translate(598 406)" fill="#489ef9" font-size="16" font-family="HCLTech Roobert" font-weight="600"><tspan x="0" y="0" xml:space="preserve">Label:  14px (Bold)</tspan></text>
-    <text id="Color:_000000_Black000_" data-name="Color:  #000000 (Black000)" transform="translate(598 434)" fill="#489ef9" font-size="16" font-family="HCLTechRoobert-SemiBold, HCLTech Roobert" font-weight="600"><tspan x="0" y="0" xml:space="preserve">Color:  #000000 </tspan><tspan y="0" font-family="HCLTech Roobert" font-weight="400">(Black000)</tspan></text>
-    <g id="Group_185939" data-name="Group 185939" transform="translate(587 324)">
+    <text id="Label:_14px_Bold_" data-name="Label:  14px (Bold)" transform="translate(622 406)" fill="#489ef9" font-size="16" font-family="HCLTech Roobert" font-weight="600"><tspan x="0" y="0" xml:space="preserve">Label:  14px (Bold)</tspan></text>
+    <text id="Color:_000000_Black000_" data-name="Color:  #000000 (Black000)" transform="translate(622 434)" fill="#489ef9" font-size="16" font-family="HCLTechRoobert-SemiBold, HCLTech Roobert" font-weight="600"><tspan x="0" y="0" xml:space="preserve">Color:  #000000 </tspan><tspan y="0" font-family="HCLTech Roobert" font-weight="400">(Black000)</tspan></text>
+    <g id="Group_185939" data-name="Group 185939" transform="translate(611 324)">
       <path id="Path_27007-2" data-name="Path 27007" d="M-9691.828,20567l-.484-55.965H-9890" transform="translate(9706.823 -20509)" fill="none" stroke="#2653ae" stroke-linejoin="round" stroke-width="1"/>
       <path id="Path_27008" data-name="Path 27008" d="M0,4V0" transform="translate(17 58) rotate(90)" fill="none" stroke="#2653ae" stroke-width="0.5"/>
       <circle id="Ellipse_3166-2" data-name="Ellipse 3166" cx="2" cy="2" r="2" transform="translate(-183)" fill="#2653ae"/>
     </g>
-    <rect id="Rectangle_28623" data-name="Rectangle 28623" width="46" height="8" transform="translate(283 316) rotate(90)" fill="#0157dc" opacity="0.07" style="mix-blend-mode: multiply;isolation: isolate"/>
+    <rect id="Rectangle_28623" data-name="Rectangle 28623" width="46" height="8" transform="translate(307 316) rotate(90)" fill="#0157dc" opacity="0.07" style="mix-blend-mode: multiply;isolation: isolate"/>
+    <rect id="Rectangle_149939" data-name="Rectangle 149939" width="46" height="16" transform="translate(281 316) rotate(90)" fill="#0157dc" opacity="0.07" style="mix-blend-mode: multiply;isolation: isolate"/>
+    <text id="_12px" data-name="12px" transform="translate(1110 314)" fill="#489ef9" font-size="14" font-family="HCLTech Roobert" font-weight="600"><tspan x="-14" y="0">12px</tspan></text>
+    <text id="_12px-2" data-name="12px" transform="translate(1110 345)" fill="#489ef9" font-size="14" font-family="HCLTech Roobert" font-weight="600"><tspan x="-14" y="0">12px</tspan></text>
+    <path id="Path_139309" data-name="Path 139309" d="M-9715,20454.064h16" transform="translate(21547.063 10017) rotate(90)" fill="none" stroke="#3c91ff" stroke-width="1"/>
+    <path id="Path_139331" data-name="Path 139331" d="M-9715,20454.064h16" transform="translate(21547.063 10048) rotate(90)" fill="none" stroke="#3c91ff" stroke-width="1"/>
   </g>
 </svg>

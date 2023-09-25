@@ -49,13 +49,15 @@ $(document).ready(function(){
 });
 
 
-
-
-
-
-
-
-
+// TextArea Counter
+$("#field").keyup(function () {
+  el = $(this);
+  if (el.val().length >= 501) {
+      el.val(el.val().substr(0, 500));
+  } else {
+      $(".charNum").text(0 + el.val().length);
+  }
+});
 
 
 //tab active slide
@@ -67,5 +69,28 @@ $(document).ready(function () {
     });
     var actWidth = $("#tab-slider .nav-tabs").find(".active").parent("li").width();
     var actPosition = $("#tab-slider .nav-tabs .active").position();
-    $("#tab-slider .slider").css({"left":+ actPosition.left,"width": actWidth});
+    // $("#tab-slider .slider").css({"left":+ actPosition.left,"width": actWidth});
 });
+
+
+//for filter component
+function resetFilterForm(){
+  document.getElementById("filterForm").reset();
+  $("#filterForm .selectpicker").selectpicker("refresh");
+}
+
+// Reset Form (Option 1)
+function resetOP1(){
+  document.getElementById("option1").reset();
+  $("#option1 .selectpicker").selectpicker("refresh");
+}
+// Reset Form (Option 2)
+function resetOP2(){
+  document.getElementById("option2").reset();
+  $("#option2 .selectpicker").selectpicker("refresh");
+}
+// Model Filter
+function modelFilterClear(){
+  document.getElementById("modelFilter").reset();
+  $("#modelFilter .selectpicker").selectpicker("refresh");
+}

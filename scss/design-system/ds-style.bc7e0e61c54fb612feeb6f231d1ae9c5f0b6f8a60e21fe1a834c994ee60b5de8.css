@@ -3167,59 +3167,263 @@ a {
 
 .ds-heading-1 {
   font-size: 40px !important;
-  font-family: "HCLTech Roobert Bold", Arial !important; }
+  font-family: "HCLTech Roobert Bold", Arial !important;
+  line-height: 56px; }
 
 .ds-heading-2 {
   font-size: 32px !important;
-  font-family: "HCLTech Roobert Bold", Arial !important; }
+  font-family: "HCLTech Roobert Bold", Arial !important;
+  line-height: 48px; }
 
 .ds-heading-3 {
   font-size: 28px !important;
-  font-family: "HCLTech Roobert Bold", Arial !important; }
+  font-family: "HCLTech Roobert Bold", Arial !important;
+  line-height: 40px; }
 
 .ds-heading-4 {
   font-size: 24px !important;
-  font-family: "HCLTech Roobert Bold", Arial !important; }
+  font-family: "HCLTech Roobert Bold", Arial !important;
+  line-height: 32px; }
 
 .ds-heading-5 {
   font-size: 18px !important;
-  font-family: "HCLTech Roobert Bold", Arial !important; }
+  font-family: "HCLTech Roobert Bold", Arial !important;
+  line-height: 26px; }
 
 .ds-heading-6 {
   font-size: 16px !important;
-  font-family: "HCLTech Roobert Bold", Arial !important; }
+  font-family: "HCLTech Roobert Bold", Arial !important;
+  line-height: 22px; }
 
-.ds-sub-heading-1 {
-  font-size: 20px !important;
-  font-family: "HCLTech Roobert Bold", Arial !important; }
+.ds-semiBold-heading-1 {
+  font-size: 40px !important;
+  font-family: "HCLTech Roobert SemiBold", Arial !important;
+  line-height: 56px; }
 
-.ds-sub-heading-2 {
+.ds-semiBold-heading-2 {
+  font-size: 32px !important;
+  font-family: "HCLTech Roobert SemiBold", Arial !important;
+  line-height: 48px; }
+
+.ds-semiBold-heading-3 {
+  font-size: 28px !important;
+  font-family: "HCLTech Roobert SemiBold", Arial !important;
+  line-height: 40px; }
+
+.ds-semiBold-heading-4 {
+  font-size: 24px !important;
+  font-family: "HCLTech Roobert SemiBold", Arial !important;
+  line-height: 32px; }
+
+.ds-semiBold-heading-5 {
   font-size: 18px !important;
-  font-family: "HCLTech Roobert Bold", Arial !important; }
+  font-family: "HCLTech Roobert SemiBold", Arial !important;
+  line-height: 26px; }
 
-.ds-sub-heading-3 {
+.ds-semiBold-heading-6 {
   font-size: 16px !important;
-  font-family: "HCLTech Roobert Bold", Arial !important; }
+  font-family: "HCLTech Roobert SemiBold", Arial !important;
+  line-height: 22px; }
 
-.ds-sub-heading-4 {
-  font-size: 14px !important;
-  font-family: "HCLTech Roobert Bold", Arial !important; }
+.ds-regHeading-1 {
+  font-size: 40px !important;
+  font-family: "HCLTech Roobert Regular", Arial !important;
+  line-height: 56px; }
 
-.ds-para-1 {
+.ds-regHeading-2 {
+  font-size: 32px !important;
+  font-family: "HCLTech Roobert Regular", Arial !important;
+  line-height: 48px; }
+
+.ds-regHeading-3 {
+  font-size: 28px !important;
+  font-family: "HCLTech Roobert Regular", Arial !important;
+  line-height: 40px; }
+
+.ds-regHeading-4 {
+  font-size: 24px !important;
+  font-family: "HCLTech Roobert Regular", Arial !important;
+  line-height: 32px; }
+
+.ds-regHeading-5 {
+  font-size: 18px !important;
+  font-family: "HCLTech Roobert Regular", Arial !important;
+  line-height: 26px; }
+
+.ds-regHeading-6 {
   font-size: 16px !important;
-  font-family: "HCLTech Roobert Regular", Arial !important; }
+  font-family: "HCLTech Roobert Regular", Arial !important;
+  line-height: 22px; }
 
-.ds-para-2 {
+.ds-light-Heading-1 {
+  font-size: 40px !important;
+  font-family: "HCLTech Roobert Light", Arial !important;
+  line-height: 56px; }
+
+.ds-light-Heading-2 {
+  font-size: 32px !important;
+  font-family: "HCLTech Roobert Light", Arial !important;
+  line-height: 48px; }
+
+.ds-light-Heading-3 {
+  font-size: 28px !important;
+  font-family: "HCLTech Roobert Light", Arial !important;
+  line-height: 40px; }
+
+.ds-light-Heading-4 {
+  font-size: 24px !important;
+  font-family: "HCLTech Roobert Light", Arial !important;
+  line-height: 32px; }
+
+.ds-light-Heading-5 {
+  font-size: 18px !important;
+  font-family: "HCLTech Roobert Light", Arial !important;
+  line-height: 26px; }
+
+.ds-light-Heading-6 {
   font-size: 16px !important;
-  font-family: "HCLTech Roobert Medium", Arial !important; }
+  font-family: "HCLTech Roobert Light", Arial !important;
+  line-height: 22px; }
 
-.ds-para-3 {
-  font-size: 14px !important;
-  font-family: "HCLTech Roobert Regular", Arial !important; }
+.ds-boldPara-1 {
+  font-size: 20px !important;
+  font-family: "HCLTech Roobert Bold", Arial !important;
+  line-height: 30px; }
 
-.ds-para-4 {
+.ds-boldPara-2 {
+  font-size: 18px !important;
+  font-family: "HCLTech Roobert Bold", Arial !important;
+  line-height: 26px; }
+
+.ds-boldPara-3 {
+  font-size: 16px !important;
+  font-family: "HCLTech Roobert Bold", Arial !important;
+  line-height: 24px; }
+
+.ds-boldPara-4 {
   font-size: 14px !important;
-  font-family: "HCLTech Roobert Medium", Arial !important; }
+  font-family: "HCLTech Roobert Bold", Arial !important;
+  line-height: 20px; }
+
+.ds-boldPara-5 {
+  font-size: 12px !important;
+  font-family: "HCLTech Roobert Bold", Arial !important;
+  line-height: 18px; }
+
+.ds-semiboldPara-1 {
+  font-size: 20px !important;
+  font-family: "HCLTech Roobert SemiBold", Arial !important;
+  line-height: 30px; }
+
+.ds-semiboldPara-2 {
+  font-size: 18px !important;
+  font-family: "HCLTech Roobert SemiBold", Arial !important;
+  line-height: 26px; }
+
+.ds-semiboldPara-3 {
+  font-size: 16px !important;
+  font-family: "HCLTech Roobert SemiBold", Arial !important;
+  line-height: 24px; }
+
+.ds-semiboldPara-4 {
+  font-size: 14px !important;
+  font-family: "HCLTech Roobert SemiBold", Arial !important;
+  line-height: 20px; }
+
+.ds-semiboldPara-5 {
+  font-size: 12px !important;
+  font-family: "HCLTech Roobert SemiBold", Arial !important;
+  line-height: 18px; }
+
+.ds-mediumPara-1 {
+  font-size: 20px !important;
+  font-family: "HCLTech Roobert Medium", Arial !important;
+  line-height: 30px; }
+
+.ds-mediumPara-2 {
+  font-size: 18px !important;
+  font-family: "HCLTech Roobert Medium", Arial !important;
+  line-height: 26px; }
+
+.ds-mediumPara-3 {
+  font-size: 16px !important;
+  font-family: "HCLTech Roobert Medium", Arial !important;
+  line-height: 24px; }
+
+.ds-mediumPara-4 {
+  font-size: 14px !important;
+  font-family: "HCLTech Roobert Medium", Arial !important;
+  line-height: 20px; }
+
+.ds-mediumPara-5 {
+  font-size: 12px !important;
+  font-family: "HCLTech Roobert Medium", Arial !important;
+  line-height: 18px; }
+
+.ds-regularPara-1 {
+  font-size: 20px !important;
+  font-family: "HCLTech Roobert Regular", Arial !important;
+  line-height: 30px; }
+
+.ds-regularPara-2 {
+  font-size: 18px !important;
+  font-family: "HCLTech Roobert Regular", Arial !important;
+  line-height: 26px; }
+
+.ds-regularPara-3 {
+  font-size: 16px !important;
+  font-family: "HCLTech Roobert Regular", Arial !important;
+  line-height: 24px; }
+
+.ds-regularPara-4 {
+  font-size: 14px !important;
+  font-family: "HCLTech Roobert Regular", Arial !important;
+  line-height: 20px; }
+
+.ds-regularPara-5 {
+  font-size: 12px !important;
+  font-family: "HCLTech Roobert Regular", Arial !important;
+  line-height: 18px; }
+
+.ds-arial-heading-1 {
+  font-size: 40px !important;
+  font-family: Arial !important;
+  line-height: 56px; }
+
+.ds-arial-heading-2 {
+  font-size: 32px !important;
+  font-family: Arial !important;
+  line-height: 48px; }
+
+.ds-arial-heading-3 {
+  font-size: 28px !important;
+  font-family: Arial !important;
+  line-height: 40px; }
+
+.ds-arial-heading-4 {
+  font-size: 24px !important;
+  font-family: Arial !important;
+  line-height: 32px; }
+
+.ds-arial-heading-5 {
+  font-size: 18px !important;
+  font-family: Arial !important;
+  line-height: 26px; }
+
+.ds-arial-heading-6 {
+  font-size: 16px !important;
+  font-family: Arial !important;
+  line-height: 22px; }
+
+.ds-arial-body-1 {
+  font-size: 16px !important;
+  font-family: Arial !important;
+  line-height: 20px; }
+
+.ds-arial-body-2 {
+  font-size: 14px !important;
+  font-family: Arial !important;
+  line-height: 18px; }
 
 .ds-purple-900 {
   background-color: #411482 !important; }
@@ -5316,11 +5520,36 @@ span.ripple {
   width: 90vw;
   height: calc(100vh - 125px); }
 
+.with-image .position-absolute.btn-close {
+  position: absolute !important;
+  right: 20px;
+  top: 20px; }
+
+.with-image .content-with-img {
+  display: flex; }
+  .with-image .content-with-img .content-sec {
+    width: 60%; }
+  .with-image .content-with-img .img-sec {
+    width: 40%;
+    background: #F0F3F9;
+    display: flex;
+    align-items: center;
+    justify-content: center; }
+
+.status-content {
+  text-align: center; }
+  .status-content .position-absolute.btn-close {
+    position: absolute !important;
+    right: 20px;
+    top: 20px; }
+  .status-content .error-icon {
+    transform: rotate(180deg); }
+
 /* ============= Tabs ============= */
 .primary-tab {
   display: flex;
   justify-content: flex-start;
-  background: #FFFFFF 0% 0% no-repeat padding-box;
+  background: transparent !important;
   position: relative; }
 
 .primary-tab .nav-item {
@@ -5328,18 +5557,18 @@ span.ripple {
 
 .primary-tab .nav-link {
   color: #14142B;
-  padding-right: 0;
-  padding-left: 0; }
+  padding-right: .5rem;
+  padding-left: .5rem; }
 
 .primary-tab.nav-tabs .nav-link.active, .primary-tab.nav-tabs .nav-item.show .nav-link {
   color: var(--bs-nav-tabs-link-active-color);
-  background-color: var(--bs-nav-tabs-link-active-bg);
   border-color: transparent;
   color: #5F1EBE;
   font-family: "HCLTech Roobert Bold", Arial; }
 
 .primary-tab.nav-tabs .nav-link:hover, .primary-tab.nav-tabs .nav-link:focus {
-  border-color: transparent; }
+  border-color: transparent;
+  color: #5F1EBE; }
 
 .primary-tab.nav-tabs .nav-link.disabled, .primary-tab.nav-tabs .nav-link:disabled {
   cursor: not-allowed; }
@@ -5376,15 +5605,16 @@ span.ripple {
   border-color: transparent; }
 
 .secondry-tabs.nav-tabs .nav-link:hover, .secondry-tabs.nav-tabs .nav-link:focus {
-  border-color: transparent; }
+  border-color: transparent;
+  color: #5F1EBE; }
 
 .secondry-tabs.nav-tabs .nav-link {
   color: #A0A3BD;
-  padding: 14px 24px; }
+  padding: 8px 16px; }
 
 .secondry-tabs.nav-tabs .nav-link.active, .secondry-tabs.nav-tabs .nav-item.show .nav-link {
   color: #14142B;
-  font-family: "HCLTech Roobert Bold", Arial; }
+  font-family: "HCLTech Roobert SemiBold", Arial; }
 
 .contant-block {
   background-color: #FFFFFF;
@@ -5986,6 +6216,9 @@ span.ripple {
 
 .ds-list-group {
   border-radius: 5px; }
+  .ds-list-group.with-icon .list-group-item {
+    display: flex;
+    align-items: center; }
   .ds-list-group .list-group-item {
     font-size: 16px;
     font-family: "HCLTech Roobert Medium", Arial;
@@ -6000,6 +6233,29 @@ span.ripple {
     .ds-list-group .list-group-item .form-check-input:checked {
       background-color: #5F1EBE;
       border-color: #5F1EBE; }
+
+.badge.bg-primary {
+  background-color: #E2D9FB !important;
+  color: #5F1EBE;
+  border: 1px solid #7C5AE0;
+  font-size: 12px; }
+
+.ds-list-icon {
+  width: 16px;
+  height: 16px;
+  border-radius: 2px;
+  margin-right: 16px;
+  background-origin: 1px solid #000;
+  position: relative;
+  display: block; }
+  .ds-list-icon::before {
+    content: '\e9f6';
+    position: absolute;
+    transform: rotate(45deg);
+    font-size: 14px;
+    color: #000; }
+  .ds-list-icon.icon-bg-Light {
+    border: 1px solid #000; }
 
 /*--------------------------------------------------------------
 Data - Table
@@ -6938,7 +7194,7 @@ body .bootstrap-select .dropdown-toggle:focus, body .bootstrap-select > select.m
   background: #F5F5F5; }
 
 textarea.form-control {
-  min-height: 81px;
+  min-height: 100px !important;
   resize: none; }
 
 .withLable {
@@ -6946,7 +7202,8 @@ textarea.form-control {
 
 /* textarea */
 .text_count {
-  float: right; }
+  float: right;
+  font-size: 12px; }
 
 .form_LIcon {
   float: right;
@@ -7238,11 +7495,14 @@ button[disabled] {
   color: var(--ds-black); }
 
 .ds-select-dropdown > label, .ds-select-dropdown-multiple > label, .ds-file-input > label, .ds-label {
-  font-family: "HCLTech Roobert Medium", Arial;
+  font-family: "HCLTech Roobert Regular", Arial;
   font-size: 14px;
   color: #000000;
   font-weight: normal;
   margin-bottom: 4px; }
+
+.rangePciker .form-control::placeholder, .datePicker .form-control::placeholder {
+  color: #6C7882; }
 
 .ds-select-dropdown-multiple .bootstrap-select .dropdown-menu li a {
   padding-left: 40px; }
@@ -7968,3 +8228,161 @@ button[disabled] {
 .carousel-control-prev, .carousel-control-next {
   width: 25px;
   margin: 24px; }
+
+/* FILTER */
+.vertical-filter {
+  height: 100%;
+  background-color: #fff;
+  overflow-x: hidden;
+  transition: 0.5s;
+  box-shadow: 0 3px 6px #00000029; }
+  .vertical-filter .offcanvas-header h3 {
+    color: #0F5FDC !important;
+    font-size: 1.5rem !important; }
+  .vertical-filter button.close-filter {
+    font-size: 1rem !important; }
+  .vertical-filter .offcanvas-body {
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+    max-height: calc(100vh - 154px); }
+
+.glb-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 1.5rem; }
+  .glb-btn .btn.btn-primary {
+    margin-left: 1rem; }
+
+.horizontal-filter {
+  height: 100%;
+  background-color: #fff;
+  transition: 0.5s;
+  box-shadow: 0 3px 6px #00000029;
+  padding: 1rem;
+  border-radius: 5px; }
+  .horizontal-filter h3 {
+    color: #0F5FDC !important;
+    font-size: 1.5rem !important;
+    font-family: "HCLTech Roobert Bold", Arial;
+    line-height: normal; }
+
+.cus-search, .cus-search.hori-box {
+  position: relative; }
+  .cus-search input.form-control, .cus-search.hori-box input.form-control {
+    padding-left: 26px !important; }
+  .cus-search .icon-Search, .cus-search.hori-box .icon-Search {
+    position: absolute;
+    bottom: 11px;
+    left: 8px;
+    font-size: .9rem; }
+  .cus-search .icon-Search.input-search, .cus-search.hori-box .icon-Search.input-search {
+    left: 20px; }
+
+.ds-chip {
+  border-radius: 15px;
+  border-width: .5px;
+  display: flex;
+  align-items: center;
+  font-family: "HCLTech Roobert Medium", Arial;
+  font-size: 12px;
+  padding: 4px 12px;
+  margin: 0 !important;
+  position: relative;
+  cursor: auto !important; }
+  .ds-chip.ds-default-chip {
+    background-color: #E2D9FB;
+    border-color: #5F1EBE;
+    color: #5F1EBE; }
+    .ds-chip.ds-default-chip:hover, .ds-chip.ds-default-chip:active, .ds-chip.ds-default-chip:focus {
+      background-color: #E2D9FB;
+      border-color: #5F1EBE;
+      color: #5F1EBE; }
+    .ds-chip.ds-default-chip:disabled, .ds-chip.ds-default-chip.disabled {
+      opacity: .5;
+      background-color: #E2D9FB;
+      border-color: #5F1EBE;
+      color: #5F1EBE; }
+    .ds-chip.ds-default-chip .ds-chip-icon {
+      width: 10px;
+      height: 10px;
+      border-radius: 2px;
+      margin-right: 6px;
+      display: flex;
+      position: relative; }
+      .ds-chip.ds-default-chip .ds-chip-icon::before {
+        content: '\e9f6';
+        position: absolute;
+        transform: rotate(45deg);
+        font-size: 9px; }
+      .ds-chip.ds-default-chip .ds-chip-icon.icon-bg-purple {
+        border: .5px solid #5E1EBE; }
+    .ds-chip.ds-default-chip .closebtn {
+      color: #5F1EBE; }
+    .ds-chip.ds-default-chip .closebtn:hover {
+      color: #411482; }
+    .ds-chip.ds-default-chip .badge {
+      background: #EB1C24; }
+      .ds-chip.ds-default-chip .badge.red-badge {
+        color: #fff;
+        font-size: 12px; }
+  .ds-chip.ds-outline-chip {
+    background-color: transparent;
+    border-color: #6C7882;
+    color: #6C7882; }
+    .ds-chip.ds-outline-chip:hover, .ds-chip.ds-outline-chip:active, .ds-chip.ds-outline-chip:focus {
+      background-color: transparent;
+      border-color: #6C7882;
+      color: #6C7882; }
+    .ds-chip.ds-outline-chip:disabled, .ds-chip.ds-outline-chip.disabled {
+      opacity: .5;
+      background-color: transparent;
+      border-color: #6C7882;
+      color: #6C7882; }
+    .ds-chip.ds-outline-chip .ds-chip-icon {
+      width: 10px;
+      height: 10px;
+      border-radius: 2px;
+      margin-right: 6px;
+      display: flex;
+      position: relative; }
+      .ds-chip.ds-outline-chip .ds-chip-icon::before {
+        content: '\e9f6';
+        position: absolute;
+        transform: rotate(45deg);
+        font-size: 9px; }
+      .ds-chip.ds-outline-chip .ds-chip-icon.icon-bg-normal {
+        border: .5px solid #6C7882; }
+    .ds-chip.ds-outline-chip .closebtn {
+      color: #6C7882; }
+    .ds-chip.ds-outline-chip .closebtn:hover {
+      color: #000; }
+    .ds-chip.ds-outline-chip .badge {
+      background: #fff;
+      border: 0.5px solid #6C7882; }
+      .ds-chip.ds-outline-chip .badge.outline-badge {
+        color: #6C7882;
+        font-size: 12px;
+        font-weight: 500; }
+
+.badge {
+  position: absolute !important;
+  right: -8px;
+  top: -8px !important;
+  border-radius: 16px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 20px;
+  height: 20px; }
+
+.closebtn {
+  padding-left: 8px;
+  font-size: 22px;
+  cursor: pointer;
+  height: 18px;
+  display: flex;
+  align-items: center; }
+
+.closebtn:hover {
+  color: #000; }
